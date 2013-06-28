@@ -11,7 +11,6 @@ mae <- function(x,y)
 
 # Import smallest training set
 alltrain <- read.csv("train.csv")
-alltrain$Catagory <- addNA(alltrain$Category)
 
 # Generate random partitions of full training set into training and testing sections
 set.seed(5)
@@ -100,6 +99,8 @@ mean(sapply(1:10, error_from_fold, expression))
 # Load in real test data, make final model using all training data, and make predictions
 realtest <- read.csv("test.csv")
 realtest <- merge(realtest, location.tree)
+unknown_category_id <- which(!(realtest$Category %in% levels(alltrain$Category))) #
+realtest$Category[unknown_cateogry_id] <- NA
 finalmodel <- lm(expression, data=alltrain)
 predictions <- predict(finalmodel, realtest)
 
