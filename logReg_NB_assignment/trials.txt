@@ -1,0 +1,71 @@
+Steps:
+- Go through example one more time, figure out benchmarks
+	* MutinomialNB = 0.78607106739024213
+	* LogisticRegression = 0.76245450775899415
+- Mess with stuff to make it better (n-grams, tf-idf)
+
+Things to experiment with:
+
+- Feature extraction:
+	* stop words = 'english'
+		- NB = 0.7554628913961452
+		- LR = 0.72768335496756731
+	* max features (with stop_words = 'english')
+		- max_features = 100
+			* NB = 0.63734578845639278
+			* LR = 0.62009651038115532
+		- max_features = 1000
+			* NB = 0.71862590251026737
+			* LR = 0.71862590251026737
+	* n-grams (with stop_words = 'english')
+		- ngram_range = (1,2)
+			* NB = 0.75642726002232519
+			* LR = 0.72711457408118219
+	* n-grams (without stop_words = 'english)
+		- ngram_range = (1,2)
+			* NB = 0.77932565447272573
+			* LR = 0.75538691715238371
+		- ngram_range = (1,3)
+			* NB = 0.77820767464326512
+			* LR = 0.75360451842650955
+		- ngram_range = (1,6)
+			* NB = 0.77643832036927951
+			* LR = 0.75481873182314208
+	* Tf-Idf scores (TfidfVectorizer())
+		- defaults
+			* NB = 0.57130844738985376
+			* LR = 0.70261309978211883
+		- stop_words = 'english'
+			* NB = 0.59841812674848227
+			* LR = 0.64875472522487365
+		- norm = 'l1'
+			* NB = 0.50143084985190245
+			* LR = 0.53650944283736279
+		- norm = 'l2'
+			* NB = 0.57130844738985376
+			* LR = 0.70261309978211883
+		- ngram_range = (1,2)
+			* NB = 0.55964710674635165
+			* LR = 0.67945898498092805
+		- ngram_range = (1,3)
+			* NB = 0.55753799383869063
+			* LR = 0.66784205079593595
+
+
+- Logistic regression:
+	CountVectorizer()
+	* L1 regularization
+		- LR =  0.75105607669180274
+	* L2 regularization <- default?
+		- LR =  0.76245450775899415
+
+- Naive Bayes:
+	* fit_prior = True
+		- NB = 0.78607106739024213
+	* fit_prior = False
+		- NB = 0.76660279428247224
+
+
+
+
+
