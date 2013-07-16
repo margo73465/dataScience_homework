@@ -1,11 +1,16 @@
 library(ggplot2)
-#Doesn't work if the files aren't in the working directory
+setwd('~/Documents/data_science/homework/ggplot_assignment/')
+
 #Read in data files
+#Creating a usable file from the raw downloaded data was tricky because some apostrophes
+#had been entered as quotation marks. Entering the following in the command line will
+#change them to apostrophes and create a nice file called apos.txt
+#cat WebExtract.txt | sed -E s/\([[:alpha:]]\)\"\([[:alpha:]]\)/\\1\'\\2/g > apos.txt
 apos <- read.csv('apos.txt', header=T)
 cuisine <- read.csv('Cuisine.txt', header=T)
 
 #Find unique elements without blanks
-unique_apos <- uniquec(apos)
+unique_apos <- unique(apos)
 unique_apos <- na.omit(unique_apos)
 
 #Merge the data frames and find aggregate means for each cuisine
