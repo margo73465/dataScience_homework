@@ -1,7 +1,7 @@
 # Salary prediction using linear regression
 
 # Set the working directory
-setwd('~/Documents/data_science/GADS4/data/kaggle_salary/')
+setwd('~/Documents/data_science/homework/linreg_assignment/')
 
 # Declare the MAE function
 mae <- function(x,y)
@@ -100,17 +100,16 @@ mean(sapply(1:10, error_from_fold, expression))
 realtest <- read.csv("test.csv")
 realtest <- merge(realtest, location.tree)
 unknown_category_id <- which(!(realtest$Category %in% levels(alltrain$Category))) #
-realtest$Category[unknown_cateogry_id] <- NA
+realtest$Category[unknown_category_id] <- as.factor("Other/General Jobs")
 finalmodel <- lm(expression, data=alltrain)
 predictions <- predict(finalmodel, realtest)
 
 # Put the submission together and write it to a file
-submission <- data.frame(Id=realtest$Id, Salary=predictions)
+submission <- data.frame(Id=realtest$Id, Salary=exp(predictions))
 write.csv(submission, "MargoSmith_submission.csv", row.names=FALSE)
 
 # I checked out glmnet but didn't get too far...
 library(glmnet)
 model <- cv.glmnet(model.matrix(~train$ContractType),matrix(train$SalaryNormalized))
 as.vector(predict(model, model.matrix(~test$ContractType), s="lambda.min"))
-# I also tried to load in bigger data sets and nearly broke my computer. I will read
-# up on Vowpal Wabbit over the weekend and give it a shot though.
+# I also tried to load in bigger data sets and nearly broke my computer.
