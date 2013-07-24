@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Summer Undergraduate Research in Engineering (SURE)</AwardTitle>
+    <AwardEffectiveDate>05/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2016</AwardExpirationDate>
+    <AwardAmount>147060</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050006</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Esther Bolding</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Robotics, as a discipline, is inherently interdisciplinary, combining all aspects of engineering necessary for designing and deploying integrated systems and solutions. As students are exposed to robotics, they begin to see connections among these disciplines and begin to understand how their in-class book knowledge translates into real-world systems that can assist society in positive ways. The push of robotics, as it moves from traditional industrial settings, into public spaces and homes across the world opens up extensive new research opportunities in important economic areas such as healthcare, education, and entertainment. This Research Experience for Undergraduates (REU) award, funded with co-support from the Division of Engineering Education and Centers, will support the involvement of undergraduate students in an immersive 10-weeks robotics research experience, and as a direct consequence, interest them in opportunities available through graduate study. The program will recruit participants locally and nationwide from institutions that provide no or limited research opportunities. Since we expect this theme to be highly advantageous for recruiting, retaining, and motivating students who are currently underrepresented in engineering disciplines, particular emphasis will be placed on recruitment of minority and female students. Participating students, who are paired with both a faculty advisor and a graduate student mentor, will undertake meaningful robotics research projects, visit local industrial labs, attend weekly seminars on emerging research in the robotics field, and participate in weekly academic enrichment and skill development workshops. Students will conclude the program with research presentations to their peers, faculty, and graduate student mentors. Through this immersive research experience, robotics REU students will share in meeting the challenges of this promising new robotics domain and fully reap the rewards of being trained in this interdisciplinary field.&lt;br/&gt;&lt;br/&gt;"The site is co-funded by the Department of Defense in partnership with the NSF REU program."</AbstractNarration>
+    <MinAmdLetterDate>03/07/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/07/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1263049</AwardID>
+    <Investigator>
+      <FirstName>Leyla</FirstName>
+      <LastName>Conrad</LastName>
+      <EmailAddress>leyla.conrad@ece.gatech.edu</EmailAddress>
+      <StartDate>03/07/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ayanna</FirstName>
+      <LastName>Howard</LastName>
+      <EmailAddress>ayanna.howard@ece.gatech.edu</EmailAddress>
+      <StartDate>03/07/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Georgia Tech Research Corporation</Name>
+      <CityName>Atlanta</CityName>
+      <ZipCode>303320420</ZipCode>
+      <PhoneNumber>4048944819</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Georgia</StateName>
+      <StateCode>GA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1360</Code>
+      <Text>HUMAN RESOURCES DEVELOPMENT</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>L644</Code>
+      <Text></Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

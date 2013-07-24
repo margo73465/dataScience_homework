@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>TC: Small: Integrating Privacy Preserving Biometric Templates and Efficient Indexing Methods</AwardTitle>  
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>  
+    <AwardAmount>514788</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>05050000</Code>  
+      <Directorate> 
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Computer and Network Systems</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Vijayalakshmi Atluri</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>Biometrics, such as fingerprints, provide a great tool for personalized authentication. While people are usually willing to submit their biometric information to government agencies, they are less likely to do so for commercial companies without a guarantee of privacy protection. This project will have significant societal impact by triggering wide acceptability of large-scale biometrics enabled applications.&lt;br/&gt;The primary technological hurdle faced by large scale biometric systems today is the ability to address two competing objectives: (1) provide fast matching of a biometric against a large database of stored biometric readings and (2) provide privacy of the biometrics in the database such that it can withstand malicious attacks. Existing solutions tackle either of the two problem but not both simultaneously.&lt;br/&gt;Tackling the two problems in an integrated fashion is non-trivial as any solution to conceal the biometric data to ensure privacy involves breaking down the structure inherent in the biometric template, thus making it extremely challenging to index the records efficiently. This project presents a unified approach by developing "cryptographically hidden" biometric templates which will lend themselves to fast searches. This effort will draw upon new research in the fields of biometrics, databases, and coding theory.</AbstractNarration>  
+    <MinAmdLetterDate>08/19/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>06/21/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1115670</AwardID>  
+    <Investigator> 
+      <FirstName>Venugopal</FirstName>  
+      <LastName>Govindaraju</LastName>  
+      <EmailAddress>govind@cedar.buffalo.edu</EmailAddress>  
+      <StartDate>08/19/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Atri</FirstName>  
+      <LastName>Rudra</LastName>  
+      <EmailAddress>atri@buffalo.edu</EmailAddress>  
+      <StartDate>08/19/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>SUNY at Buffalo</Name>  
+      <CityName>Buffalo</CityName>  
+      <ZipCode>142600000</ZipCode>  
+      <PhoneNumber>7166452634</PhoneNumber>  
+      <StreetAddress>402 Crofts Hall</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>New York</StateName>  
+      <StateCode>NY</StateCode> 
+    </Institution>  
+    <ProgramElement> 
+      <Code>7795</Code>  
+      <Text>TRUSTWORTHY COMPUTING</Text> 
+    </ProgramElement>  
+    <ProgramElement> 
+      <Code>1668</Code>  
+      <Text>FED CYBER SERV: SCHLAR FOR SER</Text> 
+    </ProgramElement>  
+    <ProgramElement>
+      <Code>7364</Code>
+      <Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

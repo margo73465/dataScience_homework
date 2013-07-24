@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>New Media Enabled Technician</AwardTitle>
+    <AwardEffectiveDate>06/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2014</AwardExpirationDate>
+    <AwardAmount>882669</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Victor P. Piotrowski</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The project develops and validates "new media" skill sets needed by technicians. A technical committee adapts the skill standards development model used in European social partnerships to define the job responsibilities of the New Media Enabled Technician. A DACUM (Developing A CUrriculuM) process with expert frontline workers is then used to conduct an occupational analysis of the New Media Enabled Technician and identify the new media skills that cut across a range of technician jobs. Project partners conduct a national online validation of the New Media Enabled Technician?s duties, responsibilities, and associated skills, knowledge and abilities. Subsequently, the project staff, in consultation with expert workers, develop examples of how technicians use social media tools in routine work to solve problems and manage a business enterprise. Working with community college faculty, they develop and pilot problem based learning scenarios that integrate the new media skills and course content.</AbstractNarration>
+    <MinAmdLetterDate>04/08/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/08/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1104220</AwardID>
+    <Investigator>
+      <FirstName>Joyce</FirstName>
+      <LastName>Malyn-Smith</LastName>
+      <EmailAddress>Jmalynsmith@edc.org</EmailAddress>
+      <StartDate>04/08/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Gordon</FirstName>
+      <LastName>Snyder</LastName>
+      <EmailAddress>gsnyder@stcc.edu</EmailAddress>
+      <StartDate>04/08/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Qaissaunee</LastName>
+      <EmailAddress>mqaissaunee@brookdalecc.edu</EmailAddress>
+      <StartDate>04/08/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Judith</FirstName>
+      <LastName>Leff</LastName>
+      <EmailAddress>jleff@workforce-partnerships.com</EmailAddress>
+      <StartDate>04/08/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Education Development Center</Name>
+      <CityName>Waltham</CityName>
+      <ZipCode>024538313</ZipCode>
+      <PhoneNumber>6176182227</PhoneNumber>
+      <StreetAddress>43 Foundry Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7412</Code>
+      <Text>ADVANCED TECH EDUCATION PROG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

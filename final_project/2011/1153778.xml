@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Science Scholarship Program at Lyman Briggs College Phase 2</AwardTitle>  
+    <AwardEffectiveDate>01/15/2012</AwardEffectiveDate>  
+    <AwardExpirationDate>12/31/2015</AwardExpirationDate>  
+    <AwardAmount>599834</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>11040000</Code>  
+      <Directorate> 
+        <LongName>Directorate for Education &amp; Human Resources</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Undergraduate Education</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Susan Finger</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>This project is awarding a set of three-year scholarships for at least 29 talented and financially needy students at Lyman Briggs College (LBC), a residential science college at Michigan State University (MSU). Half the recipients are recruited from the incoming class students who plan to pursue a natural sciences degree. The other half are recruited from within the MSU undeclared majors. This project uses scholarship money to foster a greater respect and desire to pursue science careers within this cadre of students. The scholars participate in seminar courses that focus on helping students understand the entire scientific enterprise spanning basic research, to dissemination, to graduate school options. Because LCB is a residence college, scholarship recipients develop into a cohesive cohort by living together and taking these seminar courses. Further, scholars are encouraged to complete undergraduate research as a portion of their program and to become learning assistants which may encourage them to pursue a career in science education. In addition, the project involves the LCB alumni base to develop internship opportunities for scholarship recipients. The intellectual value of this program is the creation of a series of seminar courses designed to recruit students into the sciences and explicitly highlight the breadth of possibilities in science.</AbstractNarration>  
+    <MinAmdLetterDate>01/27/2012</MinAmdLetterDate>  
+    <MaxAmdLetterDate>01/27/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1153778</AwardID>  
+    <Investigator> 
+      <FirstName>Ryan</FirstName>  
+      <LastName>Sweeder</LastName>  
+      <EmailAddress>sweeder@msu.edu</EmailAddress>  
+      <StartDate>01/27/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Richard</FirstName>  
+      <LastName>Shipman</LastName>  
+      <EmailAddress>shipmanr@msu.edu</EmailAddress>  
+      <StartDate>01/27/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Aklilu</FirstName>  
+      <LastName>Zeleke</LastName>  
+      <EmailAddress>zeleke@msu.edu</EmailAddress>  
+      <StartDate>01/27/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Kelly</FirstName>  
+      <LastName>Millenbah</LastName>  
+      <EmailAddress>millenba@msu.edu</EmailAddress>  
+      <StartDate>01/27/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Robert</FirstName>  
+      <LastName>LaDuca</LastName>  
+      <EmailAddress>laduca@msu.edu</EmailAddress>  
+      <StartDate>01/27/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>Michigan State University</Name>  
+      <CityName>EAST LANSING</CityName>  
+      <ZipCode>488241046</ZipCode>  
+      <PhoneNumber>5173555040</PhoneNumber>  
+      <StreetAddress>CONTRACT AND GRANT ADMINISTRATIO</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Michigan</StateName>  
+      <StateCode>MI</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>1536</Code>
+      <Text>S-STEM:SCHLR SCI TECH ENG&amp;MATH</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

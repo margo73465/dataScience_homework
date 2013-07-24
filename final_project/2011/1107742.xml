@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAPSI: Expression and functional analysis of the noncoding RNA MRE-32 in Drosophila nervous system de</AwardTitle>
+    <AwardEffectiveDate>06/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2012</AwardExpirationDate>
+    <AwardAmount>5000</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01060200</Code>
+      <Directorate>
+        <LongName>OFFICE OF THE DIRECTOR</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of International and Integrative Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Carter Kimsey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>05/13/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/13/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1107742</AwardID>
+    <Investigator>
+      <FirstName>Kevin</FirstName>
+      <LastName>Nyberg</LastName>
+      <EmailAddress>kevingnyberg@gmail.com</EmailAddress>
+      <StartDate>05/13/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Nyberg Kevin G</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>200101402</ZipCode>
+      <PhoneNumber/>
+      <StreetAddress/>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7316</Code>
+      <Text>EAPSI</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Graduate Research Fellowship Program (GRFP)</AwardTitle>
+    <AwardEffectiveDate>06/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>37139</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11010101</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Graduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gisele T. Muller-Parker</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>06/06/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/18/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1244657</AwardID>
+    <Investigator>
+      <FirstName>Nasser</FirstName>
+      <LastName>Zawia</LastName>
+      <EmailAddress>Nzawia@uri.edu</EmailAddress>
+      <StartDate>06/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Rhode Island</Name>
+      <CityName>KINGSTON</CityName>
+      <ZipCode>028811967</ZipCode>
+      <PhoneNumber>4018745138</PhoneNumber>
+      <StreetAddress>RESEARCH OFFICE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Rhode Island</StateName>
+      <StateCode>RI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7172</Code>
+      <Text>GRADUATE RESEARCH FELLOWSHIPS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

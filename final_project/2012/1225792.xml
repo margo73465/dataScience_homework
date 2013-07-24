@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>IONiC: Transforming Education Through Collaborative Development of Materials at the Frontiers of Inorganic Chemistry</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2016</AwardExpirationDate>
+    <AwardAmount>437962</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040200</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Dawn Rickey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The goal of this project is to improve student learning in inorganic chemistry on a national scale through design, implementation, evaluation and dissemination of classroom and laboratory activities that incorporate topics in cutting-edge research. Four professional development workshops deepen faculty content knowledge in emerging research topics in materials, bioinorganic chemistry, catalysis, and organometallic chemistry. Workshops are led by pedagogy and discipline experts from a variety of institution types, including leading researchers in these areas. Teaching materials based on the research are produced by workshop participants and reviewed by the expert workshop leaders. Workshop participants join an online community of inorganic chemists and disseminate their work on the Virtual Inorganic Pedagogical Electronic Resources (VIPEr) web site. VIPEr, a platform for collaboration, conversation, and dissemination, is home to more than 550 registered faculty users and serves as a dynamic community for the evaluation and improvement of these materials. Workshop participants and others in the VIPEr community test the learning materials and report student learning outcomes on VIPEr. Virtual versions of the four workshops are also made available on VIPEr.</AbstractNarration>
+    <MinAmdLetterDate>08/23/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/23/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1225792</AwardID>
+    <Investigator>
+      <FirstName>Lori</FirstName>
+      <LastName>Watson</LastName>
+      <EmailAddress>watsolo@earlham.edu</EmailAddress>
+      <StartDate>08/23/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Melanie</FirstName>
+      <LastName>Sanford</LastName>
+      <EmailAddress>mssanfor@umich.edu</EmailAddress>
+      <StartDate>08/23/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Sheila</FirstName>
+      <LastName>Smith</LastName>
+      <EmailAddress>sheilars@umd.umich.edu</EmailAddress>
+      <StartDate>08/23/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Raymond</FirstName>
+      <LastName>Schaak</LastName>
+      <EmailAddress>schaak@chem.psu.edu</EmailAddress>
+      <StartDate>08/23/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Barbara</FirstName>
+      <LastName>Reisner</LastName>
+      <EmailAddress>reisneba@jmu.edu</EmailAddress>
+      <StartDate>08/23/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Earlham College</Name>
+      <CityName>Richmond</CityName>
+      <ZipCode>473744095</ZipCode>
+      <PhoneNumber>7659831431</PhoneNumber>
+      <StreetAddress>801 National Road West</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Indiana</StateName>
+      <StateCode>IN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7511</Code>
+      <Text>TUES-Type 2 Project</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

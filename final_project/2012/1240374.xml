@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EFRI-ODISSEI: Photo-Origami</AwardTitle>
+    <AwardEffectiveDate>08/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2016</AwardExpirationDate>
+    <AwardAmount>1999377</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07040000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of Emerging Frontiers in Research and Innovation (EFRI)</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Paul Collopy</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The research objective of this Emerging Frontiers in Research and Innovation (EFRI) Origami Design for the Integration of Self-assembling Systems for Engineering Innovation (ODISSEI) award is to create a holistic approach, named photo-origami, to transform a flat polymer sheet into a mechanically robust 3D structure via a sequence of light-activated folding and deformation steps. This new manufacturing approach will be achieved by integrating shape memory polymers, photo-responsive compliant material, and optical waveguides into a smart canvas to enable sequentially folding. The research will develop methods that are applicable to several interdisciplinary fields including active materials, photomechanics, photochemistry, and optics, and thus can be exploited in a wide array of applications. The research approach starts from the establishment of the basic components and the corresponding mechanistic understanding, progresses to the development of multiphysical nonlinear design theory, and achieves the final goal of creating photo origami. Deliverables include a suite of active materials and their activation methods, multiphysical modeling and design tools, demonstration and validation, documentation of research results, engineering student education, engineering research experience for high school students, and dissemination the research achievements to the general public.&lt;br/&gt;&lt;br/&gt;If successful, the results of this research will enable fundamentally new approaches to manufacture materials and devices with extraordinary functionalities. Example applications include new sparse materials with low weight but high strength or anisotropic properties, deep 3D MEMs with integrated electronic, RF or optical circuit elements. Manufacturing approaches from this research will offer the advantage of a flat initial state where functional devices can be easily placed and a final complicated 3D structure. Graduate and undergraduate students will benefit from a rigorous training at the interface between material science, mechanics, optics, and design optimization through involvement in the research. The research will also be tightly integrated into STEM education and outreach activities by partnering with the local school district to bring public awareness and to inspire K-12 student?s interest in STEM.&lt;br/&gt;&lt;br/&gt;This project is supported in part by funds from the Air Force Office of Scientific Research.</AbstractNarration>
+    <MinAmdLetterDate>07/20/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/20/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1240374</AwardID>
+    <Investigator>
+      <FirstName>Kurt</FirstName>
+      <LastName>Maute</LastName>
+      <EmailAddress>maute@colorado.edu</EmailAddress>
+      <StartDate>07/20/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Patrick</FirstName>
+      <LastName>Mather</LastName>
+      <EmailAddress>ptmather@syr.edu</EmailAddress>
+      <StartDate>07/20/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Robert</FirstName>
+      <LastName>McLeod</LastName>
+      <EmailAddress>mcleod@colorado.edu</EmailAddress>
+      <StartDate>07/20/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Hang (Jerry)</FirstName>
+      <LastName>Qi</LastName>
+      <EmailAddress>qih@colorado.edu</EmailAddress>
+      <StartDate>07/20/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Elisabeth</FirstName>
+      <LastName>Stade</LastName>
+      <EmailAddress>stadee@colorado.edu</EmailAddress>
+      <StartDate>07/20/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Colorado at Boulder</Name>
+      <CityName>Boulder</CityName>
+      <ZipCode>803090572</ZipCode>
+      <PhoneNumber>3034926221</PhoneNumber>
+      <StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>L563</Code>
+      <Text/>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7633</Code>
+      <Text>EFRI RESEARCH PROJECTS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

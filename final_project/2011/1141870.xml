@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>DE Certification Training</AwardTitle>  
+    <AwardEffectiveDate>06/15/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>06/30/2011</AwardExpirationDate>  
+    <AwardAmount>8400</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Contract Interagency Agreement</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>02040003</Code>  
+      <Directorate> 
+        <LongName>Office of Information &amp; Resource Management</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName/> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Charlene A. Arietti</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration/>  
+    <MinAmdLetterDate>08/04/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>08/04/2011</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1141870</AwardID>  
+    <Investigator> 
+      <FirstName>Renel</FirstName>  
+      <LastName>Sample</LastName>  
+      <EmailAddress>renel.sample@opm.gov</EmailAddress>  
+      <StartDate>08/04/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>PERSONNEL MANAGEMENT, U S OFFICE OF</Name>  
+      <CityName>Washington</CityName>  
+      <ZipCode>204150001</ZipCode>  
+      <PhoneNumber/>  
+      <StreetAddress>1900 E ST NW RM 5475</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>District of Columbia</StateName>  
+      <StateCode>DC</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>0636</Code>
+      <Text></Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

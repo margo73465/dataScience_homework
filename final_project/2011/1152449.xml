@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>New Tools for Absolute Molecular Structure Assignment</AwardTitle>  
+    <AwardEffectiveDate>02/15/2012</AwardEffectiveDate>  
+    <AwardExpirationDate>01/31/2015</AwardExpirationDate>  
+    <AwardAmount>405000</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>03090000</Code>  
+      <Directorate> 
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Chemistry</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Tingyu Li</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>In this project funded by the Chemical Synthesis Program of the Chemistry Division, Professor Scott Rychnovsky of the Department of Chemistry at University of California Irvine will develop a new strategy to assign the configuration of optically pure amines and alcohols. The strategy uses kinetic resolution catalysts and reagents, which are reactive compounds that are known to react faster with one mirror image of a molecule than the other. Reactions will be investigated with amines and alcohols to identify structural features that correlate with rate differences between mirror-image (enantiomeric) molecules. Understanding of the relationship between structure and rate could lead to a general tool to predict the absolute configuration of molecules based on the rates of reaction with benchmark reagents. &lt;br/&gt;&lt;br/&gt;Amines and alcohols are very common structural elements in biologically active natural products and in new pharmaceutical agents. Assigning the complete three-dimensional structure to these molecules is the first step in understanding their activity. This project will facilitate research in many fields related to chemistry including pharmaceutical development, agricultural chemistry, medicinal chemistry and natural product isolation and structure assignment. The project will be developed with the participation of a wide variety of undergraduate and graduate students, including those from groups historically underrepresented in the sciences.</AbstractNarration>  
+    <MinAmdLetterDate>02/10/2012</MinAmdLetterDate>  
+    <MaxAmdLetterDate>02/10/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1152449</AwardID>  
+    <Investigator> 
+      <FirstName>Scott</FirstName>  
+      <LastName>Rychnovsky</LastName>  
+      <EmailAddress>srychnov@uci.edu</EmailAddress>  
+      <StartDate>02/10/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>University of California-Irvine</Name>  
+      <CityName>IRVINE</CityName>  
+      <ZipCode>926977600</ZipCode>  
+      <PhoneNumber>9498244768</PhoneNumber>  
+      <StreetAddress>5171 California Avenue, Ste 150</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>California</StateName>  
+      <StateCode>CA</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>6878</Code>
+      <Text>CHEMICAL SYNTHESIS</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

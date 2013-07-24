@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Reimbursement of Sally Tinkle's Salary &amp; Benefits</AwardTitle>  
+    <AwardEffectiveDate>05/15/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>04/30/2013</AwardExpirationDate>  
+    <AwardAmount>337537</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Contract Interagency Agreement</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>07000000</Code>  
+      <Directorate> 
+        <LongName>Directorate for Engineering</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Directorate for Engineering</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Deborah B. Young</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration/>  
+    <MinAmdLetterDate>06/10/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>11/20/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1134936</AwardID>  
+    <Investigator> 
+      <FirstName>Richard</FirstName>  
+      <LastName>Woychik</LastName>  
+      <EmailAddress>Rick.Woychik@nih.gov</EmailAddress>  
+      <StartDate>06/10/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>National Institute of Environmental Health Science</Name>  
+      <CityName>Durham</CityName>  
+      <ZipCode>277092233</ZipCode>  
+      <PhoneNumber/>  
+      <StreetAddress>P.O. Obx 12233</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>North Carolina</StateName>  
+      <StateCode>NC</StateCode> 
+    </Institution>  
+    <ProgramElement> 
+      <Code>J389</Code>  
+      <Text/> 
+    </ProgramElement>  
+    <ProgramElement> 
+      <Code>K546</Code>  
+      <Text/> 
+    </ProgramElement>  
+    <ProgramElement> 
+      <Code>K558</Code>  
+      <Text/> 
+    </ProgramElement>  
+    <ProgramElement> 
+      <Code>K581</Code>  
+      <Text/> 
+    </ProgramElement>  
+    <ProgramElement>
+      <Code>1685</Code>
+      <Text>NNCO ACTIVITIES</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

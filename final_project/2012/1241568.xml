@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Building Cyber Security Capacity in Two Year and Four Year Colleges</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>
+    <AwardAmount>871763</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040000</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Susan Finger</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project at the Polytechnic University of New York (NYU-Poly) is training a cadre of two-year and four-year faculty in cyber security. The faculty, who are recruited from urban inner-cities with socially diverse, economically disadvantaged, and underrepresented students, engage in an intensive six-week summer cyber-security course and also participate in on-going, cutting-edge cyber-security research projects with their mentors from NYU-Poly. The program provides the faculty with arc of experience starting from knowledge acquisition in the summer workshop, application and integration of the knowledge in a research project, transmission of this knowledge as they teach their classes, mentoring of their student teams for the Capture the Flag challenge, and finally the culmination of their experience in the national Capture the Flag challenge conducted by NYU-Poly that attracts thousands of students. Faculty develop and hone their research, communication, and presentation skills, which are critical to their professional growth and success. The faculty are introduced to a topic of critical national need and mentored to develop and offer courses that, in turn, introduce their students to concepts and challenges in cyber security. The project team is disseminating the results of project through the competitions and the TeachEngineering digital library, for adoption by others.</AbstractNarration>
+    <MinAmdLetterDate>08/11/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/11/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1241568</AwardID>
+    <Investigator>
+      <FirstName>Phyllis Gail</FirstName>
+      <LastName>Frankl</LastName>
+      <EmailAddress>pfrankl@poly.edu</EmailAddress>
+      <StartDate>08/11/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Nasir</FirstName>
+      <LastName>Memon</LastName>
+      <EmailAddress>memon@poly.edu</EmailAddress>
+      <StartDate>08/11/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ramesh</FirstName>
+      <LastName>Karri</LastName>
+      <EmailAddress>rkarri@duke.poly.edu</EmailAddress>
+      <StartDate>08/11/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Justin</FirstName>
+      <LastName>Cappos</LastName>
+      <EmailAddress>jcappos@poly.edu</EmailAddress>
+      <StartDate>08/11/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Polytechnic University of New York</Name>
+      <CityName>Brooklyn</CityName>
+      <ZipCode>112013826</ZipCode>
+      <PhoneNumber>7182603360</PhoneNumber>
+      <StreetAddress>15 Metrotech Center</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1668</Code>
+      <Text>FED CYBER SERV: SCHLAR FOR SER</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

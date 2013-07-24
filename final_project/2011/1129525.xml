@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: Enabling Instructors to Teach Statics Actively</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>473914</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050005</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Donna Riley</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This engineering education research project builds from previous research on how computer-aided feedback to students improves how the students learn drawing-related concepts in engineering statics. By researching how to integrate rapid feedback between instructor and student, this project will enable computer-assisted drawing tools to be utilized in introductory engineering statics courses to improve student learning&lt;br/&gt;&lt;br/&gt;The broader significance and importance of this project will be to overcome barriers for integrating effective software tools into critical, large enrollment engineering courses early in the curriculum. The collaborative project engages two universities with different educational missions to ensure that the results are widely applicable. The needs of students typically under-represented in engineering are addressed in the proposed research project. This project overlaps with NSF's strategic goals of transforming the frontiers by enhancing research infrastructure and data access to broaden research capabilities. Additionally NSF's goal of innovating for society is enabled by supporting the development of innovative learning systems.</AbstractNarration>
+    <MinAmdLetterDate>08/12/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/31/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1129525</AwardID>
+    <Investigator>
+      <FirstName>Tracy</FirstName>
+      <LastName>Hammond</LastName>
+      <EmailAddress>hammond@cs.tamu.edu</EmailAddress>
+      <StartDate>05/31/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Tracy</FirstName>
+      <LastName>Hammond</LastName>
+      <EmailAddress>hammond@cs.tamu.edu</EmailAddress>
+      <StartDate>08/12/2011</StartDate>
+      <EndDate>05/31/2013</EndDate>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Julie</FirstName>
+      <LastName>Linsey</LastName>
+      <EmailAddress>julie.linsey@me.gatech.edu</EmailAddress>
+      <StartDate>08/12/2011</StartDate>
+      <EndDate>05/31/2013</EndDate>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Erin</FirstName>
+      <LastName>McTigue</LastName>
+      <EmailAddress>emctigue@tamu.edu</EmailAddress>
+      <StartDate>08/12/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas Engineering Experiment Station</Name>
+      <CityName>College Station</CityName>
+      <ZipCode>778454645</ZipCode>
+      <PhoneNumber>9794587617</PhoneNumber>
+      <StreetAddress>TEES State Headquarters Bldg.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1340</Code>
+      <Text>ENGINEERING EDUCATION</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1385</Code>
+      <Text>SPECIAL STUDIES AND ANALYSES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

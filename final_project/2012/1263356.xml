@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Ocean Coastal Zone Sustainability through University of Southern California Wrigley Institute for Environmental Studies</AwardTitle>
+    <AwardEffectiveDate>03/15/2013</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2016</AwardExpirationDate>
+    <AwardAmount>88690</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040100</Code>
+      <Directorate>
+        <LongName>Directorate for Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Elizabeth Rom</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award provides funding for a new Research Experience for Undergraduates (REU) program at the University of Southern California's Wrigley Marine Science Center (WMSC) located on Catalina Island, CA. The proposed 8-week summer internship program will provide laboratory and field-based research expertise to eight undergraduate students from across the nation each summer for three years. The "Sustainability of Coastal Ocean Systems REU" (SCOS-REU) program will provide exposure to multiple activities that provide an integrated context for interdisciplinary undergraduate training related to the sustainability of coastal oceans. The first week of the program will focus on whole-group training, including a short course in marine science and an oceanographic shake-down cruise. Students will then embark on independent research programs with faculty and "near-peer" mentors. Student projects will contribute to larger, funded research programs by their mentors related to understanding of human impacts on environmental systems and be capped with a student research seminar. In addition to independent research, participants will work and learn as a team as they receive training in ecosystem ecology and function, the scientific method, methodological approaches and career and professional development. Periodic field trips to different parts the island and ecosystems will promote group cohesiveness and learning.</AbstractNarration>
+    <MinAmdLetterDate>03/21/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/21/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1263356</AwardID>
+    <Investigator>
+      <FirstName>Karla</FirstName>
+      <LastName>Heidelberg</LastName>
+      <EmailAddress>KHeidelb@usc.edu</EmailAddress>
+      <StartDate>03/21/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Roberta</FirstName>
+      <LastName>Marinelli</LastName>
+      <EmailAddress>rmarinel@usc.edu</EmailAddress>
+      <StartDate>03/21/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Southern California</Name>
+      <CityName>Los Angeles</CityName>
+      <ZipCode>900890701</ZipCode>
+      <PhoneNumber>2137407762</PhoneNumber>
+      <StreetAddress>University Park</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1690</Code>
+      <Text>EDUCATION/HUMAN RESOURCES,OCE</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Evolution and Genetics of Kin Recognition in a Model System</AwardTitle>
+    <AwardEffectiveDate>08/16/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>217507</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010207</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>George W. Gilchrist</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The PIs will investigate recognition of self and kin in an amoeba, Dictyostelium discoideum. These single-celled amoebas come together to form a multicellular fruiting body, but they do so primarily with members of their own genetically identical clone, rejecting genetically different clones. The researchers will study the costs and benefits of recognition, particularly how it protects against exploitation by foreign clones. They will also investigate whether recognition simply involves avoidance of other clones, or whether it also leads to attacks on the foreign clone, analogous to tissue rejection. Finally, they will also identify the genes that cause recognition. &lt;br/&gt;&lt;br/&gt;Recognition systems are vital to life. For example, self-recognition is what allows humans to detect and attack pathogens, and it also plays a critical role in organ transplantation. D. discoideum is a good single-celled lab organism, has a sequenced genome, shares many genes with humans, and has many molecular and genetic techniques developed for it. Therefore these investigations will result in a valuable model system for the study of recognition, leading to insights into general questions of how recognition works and evolves, that are not easily addressed in other organisms.</AbstractNarration>
+    <MinAmdLetterDate>12/09/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/06/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1204352</AwardID>
+    <Investigator>
+      <FirstName>David</FirstName>
+      <LastName>Queller</LastName>
+      <EmailAddress>queller@wustl.edu</EmailAddress>
+      <StartDate>12/09/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Washington University</Name>
+      <CityName>SAINT LOUIS</CityName>
+      <ZipCode>631304899</ZipCode>
+      <PhoneNumber>3148895100</PhoneNumber>
+      <StreetAddress>ONE BROOKINGS DRIVE, CAMPUS BOX</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Missouri</StateName>
+      <StateCode>MO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7378</Code>
+      <Text>EVOLUTIONARY GENETICS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7656</Code>
+      <Text>SYMBIOSIS DEF &amp; SELF RECOG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

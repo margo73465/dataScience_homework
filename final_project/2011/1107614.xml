@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAPSI: Modeling and Simulation of Multiple Trigger Shape Memory Polymer Nanocomposite</AwardTitle>
+    <AwardEffectiveDate>06/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2012</AwardExpirationDate>
+    <AwardAmount>5700</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01060200</Code>
+      <Directorate>
+        <LongName>OFFICE OF THE DIRECTOR</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of International and Integrative Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Carter Kimsey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>05/13/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/13/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1107614</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Carrell</LastName>
+      <EmailAddress>john.carrell@ttu.edu</EmailAddress>
+      <StartDate>05/13/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Carrell John D</Name>
+      <CityName>Lubbock</CityName>
+      <ZipCode>794162307</ZipCode>
+      <PhoneNumber/>
+      <StreetAddress/>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7316</Code>
+      <Text>EAPSI</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

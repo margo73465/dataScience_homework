@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Probing the Adhesive Properties of Graphene</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>
+    <AwardAmount>469477</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Thomas Siegmund</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The research objective of this grant is to elucidate the adhesive interactions between graphene and other materials that might be used in producing large areas of graphene, one of the stiffest and strongest materials known to man. An interfacial force microscope will be used to probe graphene on a variety of substrates with a variety of probe materials. The response will be modeled by a combination of molecular and continuum models to extract traction-separation relations as the continuum representations of these interactions both normal and tangential to the contact surface. The contact radii encountered in IFM experiments are typically 50-100 nm. Scale up issues will then be addressed in fracture experiments where substrate/graphene/substrate laminates are delaminated in a variety of loading conditions, in order to examine the graphene interfaces over larger domains. A special high vacuum fracture facility will allow these interactions to be examined over a range of environmental conditions. &lt;br/&gt;&lt;br/&gt;The proposed research will advance our ability to tailor the adhesive characteristics, strength and durability of integrated materials and structures that make use of graphene for novel applications. It also lays the foundation for examining interactions among other types of surfaces such as chemically modified graphene and functionalized carbon nanotubes. Education and outreach activities will be integrated within the proposed project to enhance its societal impacts.</AbstractNarration>
+    <MinAmdLetterDate>08/24/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/05/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1130261</AwardID>
+    <Investigator>
+      <FirstName>Kenneth</FirstName>
+      <LastName>Liechti</LastName>
+      <EmailAddress>kml@mail.utexas.edu</EmailAddress>
+      <StartDate>08/24/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Rodney</FirstName>
+      <LastName>Ruoff</LastName>
+      <EmailAddress>r.ruoff@mail.utexas.edu</EmailAddress>
+      <StartDate>08/24/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Rui</FirstName>
+      <LastName>Huang</LastName>
+      <EmailAddress>ruihuang@mail.utexas.edu</EmailAddress>
+      <StartDate>08/24/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Texas at Austin</Name>
+      <CityName>Austin</CityName>
+      <ZipCode>787121532</ZipCode>
+      <PhoneNumber>5124716424</PhoneNumber>
+      <StreetAddress>101 E. 27th Street, Suite 5.300</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1630</Code>
+      <Text>MECHANICS OF MATERIALS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1467</Code>
+      <Text>MATERIALS PROCESSING AND MANFG</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>022E</Code>
+      <Text>SOLID MECHANICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>024E</Code>
+      <Text>MATERIALS DESIGN</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>027E</Code>
+      <Text>NANOMECHANICS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>083E</Code>
+      <Text>MATERIAL TRANSFORMATION PROC</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>8025</Code>
+      <Text>Advanced Materials Processing</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9161</Code>
+      <Text>SINGLE DIVISION/UNIVERSITY</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>AMPP</Code>
+      <Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

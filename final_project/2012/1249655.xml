@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: Collaborative Research: Novel micromechanical and computational approaches to discover the mechanisms of symmetry breaking and polarized growth in dicot pavement cells</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>84397</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090100</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Amy Litt</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In plants, the leaf epidermis is an important architectural control element that defines the growth properties of underlying tissues and the overall form of the organ. The size and shape of leaves are important traits in agricultural production, as is the architecture of the leaf. Therefore, a deep understanding of the genetic and cellular control of leaf development is an important research goal. The tissue-level behavior of the epidermis is driven by the polarized growth of jig-saw-puzzle shaped pavement cells with interdigitating lobes. However, the molecular, cellular, and mechanical control mechanisms for this important cell shape control pathway are not known. This knowledge gap cannot be filled until new experimental and computational approaches are developed. The objective of this project is to create a new set of image analysis techniques, mechanical devices, and mathematical models that will enable a mechanistic understanding of how tissue-level mechanical forces interact with intracellular signaling pathways to control the geometry of morphogenesis. Our approach will include the development of new image analysis and nano-scale mechanical devices that will enable quantitative tests for the mechanisms of pavement cell growth. We will create computational models that will allow us to analyze the plausibility of existing growth control models, and make new predictions about how mechanical forces and intracellular reorganization interact to control cell shape. The research will include interdisciplinary cross-training of the research team, and is expected to generate technical advances in image processing and analysis that will be made publicly available through a collaboration with the iPlant data sharing resource. The project will generate broadly useful computational models that simulate plant cell growth control mechanisms and generate predictions that can be experimentally tested. This project is jointly supported by the Programs in Plant, Fungal and Microbial Development in the Division of Integrative Organismal Systems and by the Networks and Regulation and Cellular Processes Programs in the Division of Molecular and Cellular Biosciences.</AbstractNarration>
+    <MinAmdLetterDate>08/16/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/16/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1249655</AwardID>
+    <Investigator>
+      <FirstName>Joseph</FirstName>
+      <LastName>Turner</LastName>
+      <EmailAddress>jaturner@unl.edu</EmailAddress>
+      <StartDate>08/16/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Nebraska-Lincoln</Name>
+      <CityName>LINCOLN</CityName>
+      <ZipCode>685880430</ZipCode>
+      <PhoneNumber>4024723171</PhoneNumber>
+      <StreetAddress>312 N 14TH STREET</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Nebraska</StateName>
+      <StateCode>NE</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1118</Code>
+      <Text>PLANT FUNGAL &amp; MICROB DEV MECH</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

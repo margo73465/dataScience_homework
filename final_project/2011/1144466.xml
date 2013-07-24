@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Graduate Reserach Fellowship Program (GRFP)</AwardTitle>
+    <AwardEffectiveDate>07/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2016</AwardExpirationDate>
+    <AwardAmount>151333</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11010101</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Graduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gisele T. Muller-Parker</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>07/25/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/09/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1144466</AwardID>
+    <Investigator>
+      <FirstName>Martin</FirstName>
+      <LastName>Burtscher</LastName>
+      <EmailAddress>mb92@txstate.edu</EmailAddress>
+      <StartDate>07/25/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas State University - San Marcos</Name>
+      <CityName>San Marcos</CityName>
+      <ZipCode>786664616</ZipCode>
+      <PhoneNumber>5122452314</PhoneNumber>
+      <StreetAddress>601 University Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7172</Code>
+      <Text>GRADUATE RESEARCH FELLOWSHIPS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

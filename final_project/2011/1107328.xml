@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAPSI: Forensic phylogeography of mosquitofish in Asia</AwardTitle>
+    <AwardEffectiveDate>06/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2012</AwardExpirationDate>
+    <AwardAmount>5700</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01060200</Code>
+      <Directorate>
+        <LongName>OFFICE OF THE DIRECTOR</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of International and Integrative Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Carter Kimsey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>05/11/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/11/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1107328</AwardID>
+    <Investigator>
+      <FirstName>Jared</FirstName>
+      <LastName>Lee</LastName>
+      <EmailAddress>jaredlee@uga.edu</EmailAddress>
+      <StartDate>05/11/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Lee Jared B</Name>
+      <CityName>Athens</CityName>
+      <ZipCode>306054386</ZipCode>
+      <PhoneNumber/>
+      <StreetAddress/>
+      <CountryName>United States</CountryName>
+      <StateName>Georgia</StateName>
+      <StateCode>GA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7316</Code>
+      <Text>EAPSI</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

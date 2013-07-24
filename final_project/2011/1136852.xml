@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>SES Forum Series FY2011</AwardTitle>  
+    <AwardEffectiveDate>04/15/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>04/30/2013</AwardExpirationDate>  
+    <AwardAmount>22500</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Contract Interagency Agreement</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>02040000</Code>  
+      <Directorate> 
+        <LongName>Office of Information &amp; Resource Management</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Human Resource Management</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Douglas L. Deis</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration/>  
+    <MinAmdLetterDate>09/20/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>09/19/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1136852</AwardID>  
+    <Investigator> 
+      <FirstName>Archie</FirstName>  
+      <LastName>Barnes</LastName>  
+      <EmailAddress>archie_l_barnes@nbc.gov</EmailAddress>  
+      <StartDate>09/20/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>Department of Interior</Name>  
+      <CityName>Washington</CityName>  
+      <ZipCode>20240</ZipCode>  
+      <PhoneNumber/>  
+      <StreetAddress/>  
+      <CountryName>United States</CountryName>  
+      <StateName>District of Columbia</StateName>  
+      <StateCode>DC</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>0608</Code>
+      <Text></Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

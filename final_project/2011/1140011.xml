@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Intergovernmental Mobility Assignment</AwardTitle>
+    <AwardEffectiveDate>08/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2012</AwardExpirationDate>
+    <AwardAmount>188173</AwardAmount>
+    <AwardInstrument>
+      <Value>Intergovernmental Personnel Award</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01060200</Code>
+      <Directorate>
+        <LongName>OFFICE OF THE DIRECTOR</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of International and Integrative Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>W. Y. B. Chang</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>07/01/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/27/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1140011</AwardID>
+    <Investigator>
+      <FirstName>Nancy</FirstName>
+      <LastName>Sung</LastName>
+      <EmailAddress/>
+      <StartDate>07/01/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Burroughs Wellcome Fund</Name>
+      <CityName>Research Triangle Park</CityName>
+      <ZipCode>277093901</ZipCode>
+      <PhoneNumber>9199915100</PhoneNumber>
+      <StreetAddress>21 TW Alexander Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9199</Code>
+      <Text>UNDISTRIBUTED PANEL/IPA FUNDS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

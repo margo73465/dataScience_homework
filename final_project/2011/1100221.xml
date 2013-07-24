@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>TC: EAGER: New Privacy Preserving Architecture for Security Monitoring in Cloud Computing</AwardTitle>
+    <AwardEffectiveDate>01/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2013</AwardExpirationDate>
+    <AwardAmount>207480</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Vijayalakshmi Atluri</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This research studies new mechanisms for enabling the consumer of the service to reduce the visibility of consumer computations to the service provider and thereby reduce the trust that the consumer places in the provider. At the same time, the mechanisms allow security of the cloud computing environment to be monitored by a trusted third party. The work also develops a quantified method to evaluate the degree to which a user's privacy is disclosed and tools for monitoring causality relationships.</AbstractNarration>
+    <MinAmdLetterDate>01/07/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/07/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1100221</AwardID>
+    <Investigator>
+      <FirstName>Meng</FirstName>
+      <LastName>Yu</LastName>
+      <EmailAddress>myu@vcu.edu</EmailAddress>
+      <StartDate>01/07/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Virginia Commonwealth University</Name>
+      <CityName>RICHMOND</CityName>
+      <ZipCode>232980568</ZipCode>
+      <PhoneNumber>8048286772</PhoneNumber>
+      <StreetAddress>P.O. Box 980568</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7795</Code>
+      <Text>TRUSTWORTHY COMPUTING</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1714</Code>
+      <Text>SPECIAL PROJECTS - CISE</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

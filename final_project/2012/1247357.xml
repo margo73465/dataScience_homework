@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: Bridging Campus Resources via GENI and OpenFlow</AwardTitle>
+    <AwardEffectiveDate>10/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2014</AwardExpirationDate>
+    <AwardAmount>296778</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joseph Lyles</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Project establishes a live OpenFlow (OF) test bed on the UCLA campus, which researchers in different disciplines will use to run experiments requiring high volume data exchange, intense processing, and/or seamless mobility as a production level service on the campus network. UCLA will link the campus OF network to national OF fabrics via the regional CENIC OF network. This pilot deployment will support four key applications from the domains of eScience, GENI and smart transportation, health care, and manufacturing. The campus implementation support the above applications will consist of a 10Gbps OF-enabled hub switch connected to CENIC and multiple second-tier OF switches associated with the four projects. &lt;br/&gt;&lt;br/&gt;Although software-defined networking (SDN) technologies are currently being widely discussed and are key elements in the GENI architecture, there is little operational or campus-level architectural experience with using them. The project will explore the issues associated with deploying SDNs and connecting them to real-time information sources. The work will rework current UCLA network engineering practice where extensive hardware reconfiguration is required to support the sophisticated processing and efficient storage of data by several of the research centers. Flexible reconfiguration is a new paradigm for campus networks. The PIs will report on their experience in technical papers. Travel budget is included for presentation of findings at the GENI Engineering Conferences. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Broader Impact:&lt;br/&gt;This project will provide an opportunity to gain experience with architectural, deployment, administrative and operational issues of OpenFlow in campus networks and will disseminate the findings via GENI Engineering Conferences. The project will provide opportunities for undergraduate students to work with advanced networking technologies. Societal impacts outside of the campus will include the work on vehicular traffic monitoring, health monitoring for mobile patients and support for improved manufacturing practices.</AbstractNarration>
+    <MinAmdLetterDate>06/14/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/14/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1247357</AwardID>
+    <Investigator>
+      <FirstName>Giovanni</FirstName>
+      <LastName>Pau</LastName>
+      <EmailAddress>gpau@cs.ucla.edu</EmailAddress>
+      <StartDate>06/14/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Mario</FirstName>
+      <LastName>Gerla</LastName>
+      <EmailAddress>gerla@cs.ucla.edu</EmailAddress>
+      <StartDate>06/14/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>James</FirstName>
+      <LastName>Davis</LastName>
+      <EmailAddress>jdavis@oit.ucla.edu</EmailAddress>
+      <StartDate>06/14/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Warren</FirstName>
+      <LastName>Mori</LastName>
+      <EmailAddress>mori@physics.ucla.edu</EmailAddress>
+      <StartDate>06/14/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Los Angeles</Name>
+      <CityName>LOS ANGELES</CityName>
+      <ZipCode>900952000</ZipCode>
+      <PhoneNumber>3107940102</PhoneNumber>
+      <StreetAddress>11000 Kinross Avenue, Suite 211</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER:Electrohydrodynamics of Vesicles</AwardTitle>
+    <AwardEffectiveDate>07/15/2013</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2018</AwardExpirationDate>
+    <AwardAmount>175000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020005</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Chemical, Bioengineering, Environmental, and Transport Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ashok S. Sangani</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>1253739&lt;br/&gt;PI: Salac&lt;br/&gt;&lt;br/&gt;The objective of this award, co-funded by the Biomaterials Program in Division of Materials Research, is to perform in-silico and in-vitro investigations of single and multicomponent vesicles in fluid flow and during exposure to electric fields. Vesicles exposed to the combined effects of fluid flow and electric fields have shown a wide and varied set of behaviors. Exposure to electric fields have induced vesicle shapes not normally accessible. Weak electric fields have induced lipid flow patterns in the membranes of multicomponent vesicles. As the electric field strength is increased pores begin to form in the vesicle membrane. This allows foreign substance to either enter or leave the vesicle. Vesicles exposed to strong electric fields have been shown to burst. It is unknown how exposure to combined fluid and electric effects will influence vesicle behavior. The proposed work will answer the following specific biological questions: 1) How does the combined effects of fluid flow and electric fields influence the dynamics of vesicles and lipids in the vesicle membranes? 2) Under what conditions will electroporation occur and what is the lifespan of these pores?&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;If successful the knowledge gained will greatly advance the development of vesicle based biotechnologies, such as directed drug delivery mechanisms and small-scale bio-reactors. The techniques used to investigate vesicle electrohydrodynamics are also applicable to other systems such as red blood cells and animal locomotion. The PI is also committed to incorporating techniques and results from this research into the engineering curriculum at the University at Buffalo SUNY. The PI will also use this research to attract underrepresented groups to pursue an engineering education.</AbstractNarration>
+    <MinAmdLetterDate>07/14/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/14/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1253739</AwardID>
+    <Investigator>
+      <FirstName>David</FirstName>
+      <LastName>Salac</LastName>
+      <EmailAddress>davidsal@buffalo.edu</EmailAddress>
+      <StartDate>07/14/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>SUNY at Buffalo</Name>
+      <CityName>Buffalo</CityName>
+      <ZipCode>142600000</ZipCode>
+      <PhoneNumber>7166452634</PhoneNumber>
+      <StreetAddress>402 Crofts Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1415</Code>
+      <Text>PARTICULATE &amp;MULTIPHASE PROCES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7623</Code>
+      <Text>BIOMATERIALS PROGRAM</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Sustainable Diversity in the Computing Research Pipeline</AwardTitle>
+    <AwardEffectiveDate>10/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>2789470</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jeffrey Forbes</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Computing Research Association?s Committee on the Status of Women in Computing Research (CRA-W) and the Coalition to Diversify Computing (CDC) Broadening Participation in Computing (BPC) Alliance will (1) partially support under-represented minorities and women (URM+W) participants in established and enhanced Alliance programs and (2) establish the CRA Center for Evaluating the Research Pipeline (CERP). CRA-W/CDC Alliance programs broaden participation in computing as they aim to make participants aware of the rewards of a research career and the value of a PhD; to help participants develop self-efficacy through increased knowledge, skills, and confidence; and to connect participants to the research community and to each other to further their success. CERP will conduct the first ever, longitudinal and national study of the factors that lead to research careers for all undergraduate and graduate students in computing; in particular, CERP will evaluate whether the Alliance intervention programs are effective at increasing participation of URM+W in computing.&lt;br/&gt;&lt;br/&gt;The alliance's goal is to grow the URM+W research community and positively impacting the career development of individual URM+W researchers. These impacts include institutional change in response to the Alliance's sustainability efforts and resources for the national BPC community and for the nation in general for similar programs to encourage computing research among the population in general. The project's evaluation efforts through CERP will yield a national comparison database that will become a powerful national resource for the CISE community and may also inform the wider research community.</AbstractNarration>
+    <MinAmdLetterDate>09/06/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/16/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1246649</AwardID>
+    <Investigator>
+      <FirstName>Andrew</FirstName>
+      <LastName>Bernat</LastName>
+      <EmailAddress>abernat@cra.org</EmailAddress>
+      <StartDate>09/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Tracy</FirstName>
+      <LastName>Camp</LastName>
+      <EmailAddress>tcamp@mines.edu</EmailAddress>
+      <StartDate>09/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Manuel</FirstName>
+      <LastName>Perez</LastName>
+      <EmailAddress>perez@cs.vt.edu</EmailAddress>
+      <StartDate>09/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Computing Research Association</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>200360000</ZipCode>
+      <PhoneNumber>2022662949</PhoneNumber>
+      <StreetAddress>1828 L St., NW</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1714</Code>
+      <Text>SPECIAL PROJECTS - CISE</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

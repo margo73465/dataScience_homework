@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Crowd Sourcing Apprenticeship Learning: LawMeets - A Web Platform for Teaching Entrepreneurial Lawyering</AwardTitle>
+    <AwardEffectiveDate>08/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2014</AwardExpirationDate>
+    <AwardAmount>516000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Industrial Innovation and Partnerships</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Glenn H. Larsen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research (SBIR) Phase I project is directed to the development of LawMeets, a web-based platform for teaching lawyering skills through virtual apprenticeships. LawMeets use an innovative pedagogical method that combines performance-based learning, algorithm-based peer-to-peer review and expert video demonstrations to replicate the benefits of high-cost, one-on-one apprenticeship learning but at low-cost and at scale. The target market for LawMeets is the quarter million novice lawyers who need to develop practical skills to become valuable members of the profession. In beta tests with hundreds of students at dozens of different law schools, LawMeets have proven to be engaging, effective and easy to use.&lt;br/&gt;&lt;br/&gt;The broader impact/commercial potential of this project lies in the role transactional lawyers play in society. Skilled "deal" lawyers are a critical ingredient in the entrepreneurial process and, therefore, essential to the economic growth that relies on a vibrant entrepreneurial eco-system. Both law schools and legal employers have long struggled with how to teach the lawyering skills that mark an entrepreneurial lawyer as a master. Law schools have launched various experiential learning initiatives, including clinical offerings and simulations. Law firms have experimented with similar training programs. While improving learning on the margin, none of these efforts has had a fundamental impact. All rely at their core on the traditional model of student-teacher interaction. Various on-line tools offer resources for acquiring substantive knowledge but lack the interactive component that leads to the development of the cognitive capacities that make up true expertise. None of the solutions offers a low-cost, scalable vehicle for tapping the reservoir of expertise found among the community of senior practitioners. The goal for LawMeets is to provide low cost "hands-on" learning at scale and to become the dominant vehicle for practical skills instruction in both law schools and law firms.</AbstractNarration>
+    <MinAmdLetterDate>07/23/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/13/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1229941</AwardID>
+    <Investigator>
+      <FirstName>Karl</FirstName>
+      <LastName>Okamoto</LastName>
+      <EmailAddress>karl@apprennet.com</EmailAddress>
+      <StartDate>07/23/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>ApprenNet LLC</Name>
+      <CityName>Glenside</CityName>
+      <ZipCode>190387915</ZipCode>
+      <PhoneNumber>2679341391</PhoneNumber>
+      <StreetAddress>1007 E Abington Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

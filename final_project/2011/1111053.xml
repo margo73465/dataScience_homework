@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RUI: Dynamic Net Analyte Signal Modeling for Multivariate Calibration and Maintenance</AwardTitle>
+    <AwardEffectiveDate>09/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>316410</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Charles D. Pibel</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>With support from the Chemical Measurement and Imaging Program, and co-funding from the Office of Cyberinfrastructure "Venture Fund," Professor John Kalivas of Idaho State University is developing five pioneering calibration tools to advance chemical analysis. Calibration generally involves forming a mathematical relationship between chemical concentration and an instrumental response such as spectroscopic data. It is critical to numerous disciplines, including process analytical technology for the pharmaceutical and chemical industries, environmental and agriculture monitoring, and medical diagnostics. The Kalivas group seeks to design calibrations which eliminate chemical analysis interferences and offer less costly and more accurate and precise chemical analyses. Two statistical/analytical tools are used: Tikhonov regularization and net analyte signal. The improvements targeted by this project should benefit many disciplines by enabling better calibrations that are stable over extended periods of time.&lt;br/&gt;&lt;br/&gt;By participating in this research, undergraduate students learn state-of-the-art calibration and become proficient at performing collaborative scientific research. Education of undergraduates in these advanced methods prepares them for subsequent scientific professional pursuits. Another key impact of this project is development of classroom software tools for use in the curriculum at Idaho State University and other institutions. Additionally, disseminating the innovative calibration and curricular software through Professor Kalivas' web site allows newcomers and practitioners direct access, assuring software re-use. Co-funding from the OCI-Venture Fund specifically seeks to enhance such efforts in CI-reuse and long term software sustainability.</AbstractNarration>
+    <MinAmdLetterDate>08/31/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/11/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1111053</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Kalivas</LastName>
+      <EmailAddress>kalijohn@isu.edu</EmailAddress>
+      <StartDate>08/31/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Idaho State University</Name>
+      <CityName>Pocatello</CityName>
+      <ZipCode>832098046</ZipCode>
+      <PhoneNumber>2082822592</PhoneNumber>
+      <StreetAddress>921 South 8th Avenue, Stop 8046</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Idaho</StateName>
+      <StateCode>ID</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>6880</Code>
+      <Text>Chemical Measurement &amp; Imaging</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>6892</Code>
+      <Text>CI REUSE</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1253</Code>
+      <Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

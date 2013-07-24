@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Research Initiation Grant: Conceptual and Mathematical Representations in Optical Engineering</AwardTitle>
+    <AwardEffectiveDate>10/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2014</AwardExpirationDate>
+    <AwardAmount>133293</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050005</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Donna Riley</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This engineering education research initiation grant seeks to engage an engineering faculty member with physics education researchers to understand the alignment between students' mathematical and conceptual understanding in optics. The research will use an innovative interview method to elicit both conceptual and mathematical representations of optical polarization and plane waves.&lt;br/&gt;&lt;br/&gt;The broader significance and importance of this project arises from its ability to inform others how students learn to integrate conceptual and mathematical representations of abstract ideas. The investigator will also engage undergraduate students in the planned research, thus contributing to their professional development and mentoring. This project overlaps with NSF's strategic goals of transforming the frontiers through preparation of an engineering workforce with new capabilities and expertise. Additionally NSF's goal of innovating for society is enabled by creating results and research that are useful for society by informing educational policy and practices.</AbstractNarration>
+    <MinAmdLetterDate>08/01/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/01/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1240277</AwardID>
+    <Investigator>
+      <FirstName>Andrew</FirstName>
+      <LastName>Berger</LastName>
+      <EmailAddress>ajberger@optics.rochester.edu</EmailAddress>
+      <StartDate>08/01/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Rochester</Name>
+      <CityName>ROCHESTER</CityName>
+      <ZipCode>146270140</ZipCode>
+      <PhoneNumber>5852754031</PhoneNumber>
+      <StreetAddress>518 HYLAN, RIVER CAMPUSBOX 27014</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1340</Code>
+      <Text>ENGINEERING EDUCATION</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

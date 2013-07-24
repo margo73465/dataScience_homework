@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: Cognitive Radio with 2-D Cognition: Dynamic Spectrum vs. Power Accesses</AwardTitle>
+    <AwardEffectiveDate>02/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2015</AwardExpirationDate>
+    <AwardAmount>300000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Min Song</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project focuses on the fundamental tradeoff between spectrum efficiency and energy efficiency in cognitive radio systems by exploring the correlations across both spectrum and energy domains, in the notions of both frequency holes and energy holes. The considered application scenario is a spectrum sharing system with both legacy and cognitive radios, where the nodes are powered by either smart grids or environment energy harvesters or a mix of two. The three main research objectives are: develop joint 2-D sensing scheme to explore the correlation between frequency holes and energy holes; derive efficiency maximizing resource allocation schemes considering constraints in both energy and spectrum domains; and study performance enhancement mechanisms in the framework of collaborative clouds via node conferencing. Novel interdisciplinary approaches are applied to combine the methods of 2-D statistical signal processing, non-convex optimization, and analytical energy harvesting system modeling to study the unique problem considered for the newly defined cognitive radio systems with 2-D cognition. The project provides both theories and algorithms for energy-efficient operation of future cognitive radio systems with accesses to both spectrum and energy dynamics. The research findings will be incorporated into graduate courses; the results will be disseminated to the community via journal papers and conference presentations.</AbstractNarration>
+    <MinAmdLetterDate>01/17/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/17/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1265227</AwardID>
+    <Investigator>
+      <FirstName>Shuguang</FirstName>
+      <LastName>Cui</LastName>
+      <EmailAddress>cui@tamu.edu</EmailAddress>
+      <StartDate>01/17/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas Engineering Experiment Station</Name>
+      <CityName>College Station</CityName>
+      <ZipCode>778454645</ZipCode>
+      <PhoneNumber>9794587617</PhoneNumber>
+      <StreetAddress>TEES State Headquarters Bldg.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

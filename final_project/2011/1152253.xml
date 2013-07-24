@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Novel Slurry Injector Device for Chemical Mechanical Planarization Application</AwardTitle>
+    <AwardEffectiveDate>04/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2014</AwardExpirationDate>
+    <AwardAmount>500000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Industrial Innovation and Partnerships</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Konsek</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project aims to develop a novel slurry injection device for applications in chemical mechanical planarization (CMP), a key technology for integrated circuit (IC) manufacturing. Different from the current slurry application method that applies slurry on the pad center area during wafer polishing, this novel slurry injector device is placed on top of the pad surface, injects the fresh slurry to where it is needed, and reduces slurry mixing and dilution effects by blocking used slurry, pad debris, and rinsing water from re-entering the pad-wafer interface. Tests will be performed on various polishers to optimize the slurry injector device design for different CMP processes. This slurry injector device is expected to achieve higher material removal rates and reduce polishing defects compared to current pad center area slurry application method. &lt;br/&gt;&lt;br/&gt;The broader/commercial impacts of this project will be the potential to reduce slurry consumption and increase yield during CMP processes for the IC manufacturing industry. In 2012, the global point-of-use slurry usage is estimated to be in excess of 600 million liters corresponding to a total slurry expenditure of approximately $1 billion. Assuming a conservative slurry savings of 15 percent by this slurry injector device, it represents a potential $150 million savings in slurry and an additional $25 million savings in waste treatment.</AbstractNarration>
+    <MinAmdLetterDate>03/23/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/23/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1152253</AwardID>
+    <Investigator>
+      <FirstName>Yun</FirstName>
+      <LastName>Zhuang</LastName>
+      <EmailAddress>yunzhuang@aracainc.com</EmailAddress>
+      <StartDate>03/23/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Araca, Inc.</Name>
+      <CityName>Tucson</CityName>
+      <ZipCode>857189525</ZipCode>
+      <PhoneNumber>5203314751</PhoneNumber>
+      <StreetAddress>2550 E River Rd, Suite 12204</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

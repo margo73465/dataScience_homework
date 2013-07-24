@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Secure and Privacy-assured Data Service Outsourcing in Cloud Computing</AwardTitle>
+    <AwardEffectiveDate>08/13/2012</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2016</AwardExpirationDate>
+    <AwardAmount>322018</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Vijayalakshmi Atluri</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The economics of Cloud Computing Cloud Computing impels a fundamental shift in how data services are deployed and delivered, enabling flexible, dynamic outsourcing while reducing capital cost commitments for hardware and software. However, cloud computing also deprives customers of direct control over the systems that manage their data, raising security and privacy concerns. This research develops the means to provide secure and privacy-assured data service outsourcing that is usable, scalable, and meets performance goals, through: (1) an encrypted cloud data service, including fuzzy and ranked keyword search with strong privacy-assurance for large numbers of users and files, (2) scalable and owner-controlled cloud data sharing service with fine-grained data access enforcement and scalability, and (3) privacy-preserving secure cloud storage auditing that maintains strong guarantees of storage correctness.&lt;br/&gt;Enabling secure and privacy-assured data service outsourcing is fundamental to the success of cloud computing deployment. This project also develops curricula and teaches and supervises students. Materials of this project will be made available online as tutorials, software packages, and publications of general interest.</AbstractNarration>
+    <MinAmdLetterDate>10/17/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/03/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1262277</AwardID>
+    <Investigator>
+      <FirstName>Kui</FirstName>
+      <LastName>Ren</LastName>
+      <EmailAddress>kuiren@buffalo.edu</EmailAddress>
+      <StartDate>10/17/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>SUNY at Buffalo</Name>
+      <CityName>Buffalo</CityName>
+      <ZipCode>142600000</ZipCode>
+      <PhoneNumber>7166452634</PhoneNumber>
+      <StreetAddress>402 Crofts Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7795</Code>
+      <Text>TRUSTWORTHY COMPUTING</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8060</Code>
+      <Text>Secure &amp;Trustworthy Cyberspace</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Interactive 3-D Technical Illustrations for Science and Engineering</AwardTitle>
+    <AwardEffectiveDate>02/15/2013</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2015</AwardExpirationDate>
+    <AwardAmount>497660</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Industrial Innovation and Partnerships</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Glenn H. Larsen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The innovation in this Phase II Project will develop tools for creating, displaying, and publishing interactive 3D content. The resulting technology will empower educators, students, publishers, and businesses to easily produce interactive 3D illustrations for digital books and online education materials. A unique approach to this long-standing content creation problem centers around the use of Image-Based Modeling and Rendering (IBMR), which enables the creation of highly realistic digital 3D models using commodity smartphones instead of the complex dedicated hardware systems traditionally required. Building on technology developed during the associated Phase I Project, this research aims to: develop new algorithms for creating interactive illustrations that place fewer assumptions on the hardware used to create them, develop algorithms for extracting 3D geometry from image sequences, and develop new methods for capturing unique panoramic image sets that can be used in an educational context. The resulting technology platform will make interactive 3D content widely-accessible by significantly reducing the expertise and cost currently required during its creation.&lt;br/&gt;&lt;br/&gt;The broader/commercial impact of this project is to make user-generated 3D content part of the revolution in digital and online education by simplify the creation process and making it widely accessible to a non-technical audience. The core technology developed in this proposal has application areas spanning from education and cultural heritage to consumer marketing and advertising. This project also includes specific outreach activities that will benefit the local community while bringing the resulting technology to the attention of the wide audience that can benefit from user-generated 3D content.</AbstractNarration>
+    <MinAmdLetterDate>02/07/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/06/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1256419</AwardID>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Holroyd</LastName>
+      <EmailAddress>michael@arqball.com</EmailAddress>
+      <StartDate>02/07/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Arqball LLC</Name>
+      <CityName>Charlottesville</CityName>
+      <ZipCode>229034118</ZipCode>
+      <PhoneNumber>4345352244</PhoneNumber>
+      <StreetAddress>227 Monte Vista Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Revealing the Mechanism of Non-endocytotic CPP-modulated Protein Delivery</AwardTitle>
+    <AwardEffectiveDate>03/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2018</AwardExpirationDate>
+    <AwardAmount>162061</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08070600</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Molecular and Cellular Biosciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gregory W. Warr</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Cell-penetrating peptides possess the remarkable ability to bypass the endocytosis uptake mechanism of the cell and are transported directly to the cytoplasm utilizing an energy-independent pathway. Such cell-penetrating peptides can also carry large cargo molecules (proteins, DNA, nanoparticles) across a cell membrane. However, the mechanisms by which cell penetrating peptides are transported across membranes have proven difficult to resolve. This project employs an advanced membrane replica technique to systematically identify and quantify the key interactions and forces that underlie the properties of cell-penetrating peptides. By comparing and contrasting the uptake of cell penetrating peptides in replica membranes and in live cells this project aims to elucidate the mechanism of non-endocytotic peptide-mediated transport.&lt;br/&gt;&lt;br/&gt;Broader Impacts. An educational toolkit (the MOST kit) will be developed for use in teaching three fundamental concepts: Membranes, Osmosis and Selective Transport. The MOST kit will form the basis for course modules taught at the University of Massachusetts, and for peer-mentored exchange research programs engaging undergraduate students at the University of Massachusetts and the University of Puerto Rico Mayaguez.</AbstractNarration>
+    <MinAmdLetterDate>02/26/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/26/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1253565</AwardID>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Holden</LastName>
+      <EmailAddress>mholden@chem.umass.edu</EmailAddress>
+      <StartDate>02/26/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Massachusetts Amherst</Name>
+      <CityName>AMHERST</CityName>
+      <ZipCode>010039242</ZipCode>
+      <PhoneNumber>4135450698</PhoneNumber>
+      <StreetAddress>Research Administration Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1114</Code>
+      <Text>Cellular Dynamics and Function</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

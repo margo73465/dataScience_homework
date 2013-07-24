@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>P2C2: Precipitation Variability in California from 70 Kyr to 8 Ka: Using High Resolution, Multi-proxy Speleothem Records to Understand Past Climate</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>166446</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020108</Code>
+      <Directorate>
+        <LongName>Directorate for Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Atmospheric and Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Candace O. Major</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project will develop speleothem paleoclimate records from caves in the Sierra Nevada in California. The researcher, a new Assistant Professor at Vanderbilt University, will produce uranium-series dated records of stable isotopes (oxygen and carbon) and metal/calcium ratios that are sensitive to a variety of climate processes, but particularly precipitation. In addition, the investigator will collaborate with colleagues on evaluating the records using existing NCAR paleoclimate simulations and make an attempt to determine the pathways of the moisture transport to the study area. The study will focus on the time interval beginning in marine isotope stage 3 up to about 8,000 years ago in the Holocene. Thus the records will include the abrupt changes during the deglacial interval 21,000 to 10,000 years ago, the interval that experienced changes in climate associated with ice sheet retreat and changes in the Atlantic meridional overturning circulation.&lt;br/&gt;&lt;br/&gt;The project also includes active participation in an educational program for disadvantaged high school students in the Nashville area. The PI will develop interactive classroom materials and host summer research opportunities for students. The PI is a recent Ph. D. embarking on her research career in her first academic position.</AbstractNarration>
+    <MinAmdLetterDate>08/28/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/28/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1203701</AwardID>
+    <Investigator>
+      <FirstName>Jessica</FirstName>
+      <LastName>Oster</LastName>
+      <EmailAddress>jessica.l.oster@vanderbilt.edu</EmailAddress>
+      <StartDate>08/28/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Vanderbilt University</Name>
+      <CityName>NASHVILLE</CityName>
+      <ZipCode>372407830</ZipCode>
+      <PhoneNumber>6158756070</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Tennessee</StateName>
+      <StateCode>TN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1530</Code>
+      <Text>PALEOCLIMATE PROGRAM</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>A Bayesian Approach for Modeling and Simulation of Non-Stationary Ground Motions</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>269027</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kishor Mehta</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The research objective of this award is to develop a probabilistic ground motion model that takes into account the time-varying characteristics of earthquake ground motions to better describe their damage potential. This research will result in new methodologies to identify the most relevant seismological features affecting the severity of ground motions, to describe the manner in which seismic energy is distributed in the joint time-frequency domain, and to quantify the prediction uncertainty in a unified and structured manner. The research approach is to use a combination of signal processing, feature selection, and machine learning tools that will be customized for ground motions. Deliverables include new methodologies and software tools for analysis and simulation of ground motions, research reports and publications, and education of undergraduate and graduate students. &lt;br/&gt;&lt;br/&gt;Successful completion of this project will help establish improved guidelines for selection and simulation of ground motions to be used in seismic design of structures, which in turn will help reduce the cost of damage due to future earthquake occurrences. The methodology established in this project will be applicable to other real world processes such as wind and ocean waves. The research findings will be disseminated to broader audiences through journal articles, conferences, and a project website. All the software tools developed in this project will be made available to engineers, researchers, educators and students. Graduate and undergraduate students in engineering and computer science departments will benefit from this project through enriched curricula and research experience. Two graduate students will be trained to perform the research tasks. Students at K-12 levels will be exposed to earthquake engineering through outreach activities.</AbstractNarration>
+    <MinAmdLetterDate>03/09/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/09/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1100735</AwardID>
+    <Investigator>
+      <FirstName>Qiang (Shawn)</FirstName>
+      <LastName>Cheng</LastName>
+      <EmailAddress>qcheng@cs.siu.edu</EmailAddress>
+      <StartDate>03/09/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jale</FirstName>
+      <LastName>Tezcan</LastName>
+      <EmailAddress>jale@siu.edu</EmailAddress>
+      <StartDate>03/09/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Southern Illinois University at Carbondale</Name>
+      <CityName>Carbondale</CityName>
+      <ZipCode>629014308</ZipCode>
+      <PhoneNumber>6184534540</PhoneNumber>
+      <StreetAddress>Ofc. of Sponsored Projects Admin</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1637</Code>
+      <Text>HAZARD MIT &amp; STRUCTURAL ENG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

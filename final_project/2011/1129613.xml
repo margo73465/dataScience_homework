@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Fast Growth of Large Diamond Crystals in Open Air</AwardTitle>
+    <AwardEffectiveDate>08/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2014</AwardExpirationDate>
+    <AwardAmount>275195</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030004</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mary M. Toney</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The research objective of this award is to elucidate the mechanisms responsible for growth of large diamond crystals at carat levels on non-diamond substrates in open air for industrial applications. The proposed research will establish a synthetic strategy using laser vibrational-resonant excitation in diamond growth. A gas mixture of ethylene, acetylene and oxygen will be used as precursors. Using a tunable carbon dioxide laser, vibrational resonant excitations of the alkene group of molecules will be induced to promote chemical reactions and enhance diamond growth. An excimer laser with ultraviolet wavelength will also be used to improve the quality of the diamond crystals. Deliverables include a laser system configured for fast growth of diamond crystals in air, documentation of research results, and engineering student education.&lt;br/&gt;&lt;br/&gt;This research project will develop a simple, low-cost approach for synthesizing large diamond crystals. The research results will create a new direction for diamond growth and expand the horizon for industrial diamond uses beyond the current applications in electronics, optics, mechanical cutting and sensors, to name a few. The cost savings for diamond synthesis will be realized through the use of common hydrocarbon gases as precursors. Additionally, using this technique it is expected that many more complicated diamond crystals and devices can be realized at a much lower cost. The technique also has the promise of enabling an easy and viable route for fabricating large-scale diamond structures.</AbstractNarration>
+    <MinAmdLetterDate>07/15/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/15/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1129613</AwardID>
+    <Investigator>
+      <FirstName>Yongfeng</FirstName>
+      <LastName>Lu</LastName>
+      <EmailAddress>ylu2@unl.edu</EmailAddress>
+      <StartDate>07/15/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Nebraska-Lincoln</Name>
+      <CityName>LINCOLN</CityName>
+      <ZipCode>685880430</ZipCode>
+      <PhoneNumber>4024723171</PhoneNumber>
+      <StreetAddress>312 N 14TH STREET</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Nebraska</StateName>
+      <StateCode>NE</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1467</Code>
+      <Text>MATERIALS PROCESSING AND MANFG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

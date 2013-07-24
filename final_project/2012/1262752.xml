@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Renewal to NSF OCE-0962966: Seafloor Samples Laboratory</AwardTitle>
+    <AwardEffectiveDate>01/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2015</AwardExpirationDate>
+    <AwardAmount>244284</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06040200</Code>
+      <Directorate>
+        <LongName>Directorate for Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Ocean Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>James Beard</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This proposal seeks funding to support the continued operation of the marine geology sample repository at Woods Hole. The repository database is web-accessible. Over 16,000 samples were loaned over the previous grant period. Institutional support includes walk-in cold storage units as well as standard storage space.</AbstractNarration>
+    <MinAmdLetterDate>01/03/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/03/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1262752</AwardID>
+    <Investigator>
+      <FirstName>James</FirstName>
+      <LastName>Broda</LastName>
+      <EmailAddress>jbroda@whoi.edu</EmailAddress>
+      <StartDate>01/03/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Woods Hole Oceanographic Institution</Name>
+      <CityName>WOODS HOLE</CityName>
+      <ZipCode>025431041</ZipCode>
+      <PhoneNumber>5082892462</PhoneNumber>
+      <StreetAddress>183 OYSTER POND ROAD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1620</Code>
+      <Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

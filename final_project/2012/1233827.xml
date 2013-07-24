@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>PESO: In vitro Models of Metastatic Collagen Microtracks</AwardTitle>
+    <AwardEffectiveDate>10/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2015</AwardExpirationDate>
+    <AwardAmount>400002</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mary M. Toney</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The primary objective of this NSF-NCI Physical and Engineering Sciences in Oncology (PESO) joint research project is to elucidate the mechanism that is responsible for metastasis and the leader-follower cell dynamics that emerge during metastatic invasion. Of the 7.9 million cancer-related fatalities reported every year worldwide, over 90 percent are believed to be the result of metastatic disease, in which a subset of cells from the original tumor spread throughout the body. The physical mechanisms employed by metastatic cancer cells to invade remain poorly understood. During metastasis, cells from the primary tumor acquire characteristics that enable them to escape and migrate through a mechanically and chemically heterogeneous stromal environment to establish secondary tumors. As cells migrate, they remodel the matrix by both degrading it and by using mechanical force to physically move fibers from their path. Data suggest that degradation and remodeling of the extracellular matrix by "leader" cells enables the escape of additional cells from the primary tumor, termed "follower" cells. In this project, the PI and collaborators will use tailored materials, microfabricated structures and approaches from cell and molecular biology to re-create the leader-follower dynamics found in vivo and probe the underlying mechanisms guiding leader-follower migration. The two major educational goals in this project are to bring tissue engineering to the elementary and middle school classroom, and to incorporate undergraduate students from primarily 4-year, undergraduate schools in research. The work will integrate the major research themes in this project into an inquiry-based, hands-on module that builds off of the PI's previous work with the Ithaca Sciencenter, a local "please-touch" children's science museum.&lt;br/&gt;&lt;br/&gt;The intellectual merits of this project are the creation of a novel, microfabricated platform to study cell invasion and the identification of the molecular mechanisms guiding the metastatic migration of cells. The broader impacts of this prject are the design and implementation of a workshop for grade school children on cell migration that will involve graduate and undergraduate students in the design and implementation of the workshop.</AbstractNarration>
+    <MinAmdLetterDate>09/19/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/19/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1233827</AwardID>
+    <Investigator>
+      <FirstName>Cynthia</FirstName>
+      <LastName>Reinhart-King</LastName>
+      <EmailAddress>cak57@cornell.edu</EmailAddress>
+      <StartDate>09/19/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Cornell University</Name>
+      <CityName>Ithaca</CityName>
+      <ZipCode>148502820</ZipCode>
+      <PhoneNumber>6072555014</PhoneNumber>
+      <StreetAddress>373 Pine Tree Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1633</Code>
+      <Text>MATERIALS AND SURFACE ENG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

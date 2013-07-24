@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Phylogenetic Models of Macroevolution</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>330118</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010206</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maureen M. Kearney</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The relationships among living species can provide valuable information on how evolution has proceeded, but interpretations must carefully account for extinction and shared history within the group. This project will develop mathematical models that incorporate interactions between speciation, extinction, and changes in the traits of species. These models will be implemented in software and applied to the evolution of geographic ranges and plant mating systems, using empirical data from extant species. They will enable tests of fundamental macroevolutionary questions such as: How is trait evolution partitioned between changes within single lineages versus changes during speciation? How are rates of speciation and extinction determined by diversity, or by the joint effects of many interacting traits?&lt;br/&gt;&lt;br/&gt;The theoretical advances from this project are useful not only for its immediate study systems (including the nightshade family Solanaceae, which contains such agriculturally important species as potato, tomato, and tobacco), but also for applications to similar questions in many other plant and animal groups. Developing these more powerful analyses, and training young researchers in computational evolution, will help maximize the scientific gains from ongoing efforts to assemble the tree of life. The software developed will be freely available and well-supported, facilitating further empirical analyses and consequent collaborations.</AbstractNarration>
+    <MinAmdLetterDate>06/23/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/25/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1120279</AwardID>
+    <Investigator>
+      <FirstName>Boris</FirstName>
+      <LastName>Igic</LastName>
+      <EmailAddress>boris@uic.edu</EmailAddress>
+      <StartDate>06/23/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Emma</FirstName>
+      <LastName>Goldberg</LastName>
+      <EmailAddress>eeg@uic.edu</EmailAddress>
+      <StartDate>06/23/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Illinois at Chicago</Name>
+      <CityName>CHICAGO</CityName>
+      <ZipCode>606127205</ZipCode>
+      <PhoneNumber>3129962862</PhoneNumber>
+      <StreetAddress>809 S MARSHFIELD RM 608</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7374</Code>
+      <Text>Systematics &amp; Biodiversity Sci</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

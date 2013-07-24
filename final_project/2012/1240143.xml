@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RUI: Climatic Controls on Severe Weather in the United States--Modulation by the Madden-Julian Oscillation (MJO)</AwardTitle>
+    <AwardEffectiveDate>03/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2016</AwardExpirationDate>
+    <AwardAmount>20082</AwardAmount>
+    <AwardInstrument>
+      <Value>Interagency Agreement</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020105</Code>
+      <Directorate>
+        <LongName>Directorate for Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Atmospheric and Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Bradley F. Smull</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>04/25/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/23/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1240143</AwardID>
+    <Investigator>
+      <FirstName>Bradford</FirstName>
+      <LastName>Barrett</LastName>
+      <EmailAddress>bbarrett@usna.edu</EmailAddress>
+      <StartDate>04/25/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>United States Naval Academy</Name>
+      <CityName>Annapolis</CityName>
+      <ZipCode>214025030</ZipCode>
+      <PhoneNumber>4102932504</PhoneNumber>
+      <StreetAddress>589 McNair Rd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maryland</StateName>
+      <StateCode>MD</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5740</Code>
+      <Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

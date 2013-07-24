@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Structural Imaging of High Temperature Furnace Walls</AwardTitle>
+    <AwardEffectiveDate>02/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2015</AwardExpirationDate>
+    <AwardAmount>499918</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Industrial Innovation and Partnerships</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Muralidharan S. Nair</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project aims to develop a prototype 3-D imaging sensor for high temperature furnaces used in the glass industry. These furnaces are also used in many other industries, including cement, coke, iron &amp; steel, and pulp &amp; paper industries. This 3-D imaging sensor creates an interior image of the furnace wall so that maintenance personnel can identify wall erosion, and any molten material leaking through the wall joints. The objective in Phase II is to develop a prototype sensor system that can form 3-D images of the interface between the furnace wall and molten glass. To achieve this, a high performance sensor hardware and corresponding imaging software will be developed. The entire prototyped system will be tested on high temperature furnace walls using in-house kilns followed by tests at an operational glass furnace. &lt;br/&gt;&lt;br/&gt;The broader impact/commercial potential of this project is that it will enable maintenance programs based upon real furnace conditions. This will allow longer life span of high temperature furnaces and the ability to make informed local maintenance without a major interruption in production. This translates to significant financial savings for the glass manufacturing industry and improved safety, as several catastrophic accidents have occurred due to molten glass leaking from the furnaces. The sensor technology also offers a platform on which many other applications can be built, including microwave medical imaging, archaeology explorations, and defect detection inside refractories during manufacturing.</AbstractNarration>
+    <MinAmdLetterDate>01/18/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/18/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1256254</AwardID>
+    <Investigator>
+      <FirstName>Yakup</FirstName>
+      <LastName>Bayram</LastName>
+      <EmailAddress>yakup.bayram@paneratech.com</EmailAddress>
+      <StartDate>01/18/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>PaneraTech Inc.</Name>
+      <CityName>Falls Church</CityName>
+      <ZipCode>220432393</ZipCode>
+      <PhoneNumber>6145998493</PhoneNumber>
+      <StreetAddress>2295 Village Crossing Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

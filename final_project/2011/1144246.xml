@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Graduate Research Fellowship Program (GRFP)</AwardTitle>
+    <AwardEffectiveDate>07/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2016</AwardExpirationDate>
+    <AwardAmount>272753</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11010101</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Graduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gisele T. Muller-Parker</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>07/22/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/05/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1144246</AwardID>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Stern</LastName>
+      <EmailAddress>mstern@mail.ucf.edu</EmailAddress>
+      <StartDate>07/22/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Central Florida</Name>
+      <CityName>ORLANDO</CityName>
+      <ZipCode>328168005</ZipCode>
+      <PhoneNumber>4078821120</PhoneNumber>
+      <StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7172</Code>
+      <Text>GRADUATE RESEARCH FELLOWSHIPS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

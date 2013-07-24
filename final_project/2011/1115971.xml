@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>AF:Small:Algorithms for visualizing data with contact graphs and data maps</AwardTitle>
+    <AwardEffectiveDate>10/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2014</AwardExpirationDate>
+    <AwardAmount>325666</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Dmitry Maslov</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The goal of this project is to develop new techniques for visualizing static and dynamic data. Visualization allows us to perceive relationships in large interconnected datasets. While statistics may determine correlations among the data, intuitive visualizations of these correlations helps us frame what questions to ask about the data. Moreover, algorithms for visualizing processes that evolve over time will have applications beyond the traditional uses of information visualization in exploratory data analysis and searching for patterns and trends.&lt;br/&gt;&lt;br/&gt;Graphs are often used to capture relationships between objects and visualized as node-link diagrams. Contact graphs provide an alternative and often more intuitive way to visualize planar graphs. In contact graphs, nodes are represented by regions and edges are represented by two regions sharing a common border. Such representation suggests the familiar metaphor of a geographical map. In this research project the PIs will study characterizations of the classes of graphs that admit contact graph representations where nodes have "nice" shapes (e.g., convex, with small complexity, with predetermined areas) and techniques for creating such representations. While contact graphs are restricted to planar graphs, the PIs will extend the notion to general graphs using clustering and embedding methods.&lt;br/&gt;&lt;br/&gt;As an integral part of this project, graduate and undergraduate students will be involved in all aspects of the described research activities. This continues a tradition of integrating undergraduates into research projects that are easily accessible and visually appealing. As with past projects, all new software developed will be made available to the broader community.</AbstractNarration>
+    <MinAmdLetterDate>06/15/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/26/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1115971</AwardID>
+    <Investigator>
+      <FirstName>Stephen</FirstName>
+      <LastName>Kobourov</LastName>
+      <EmailAddress>kobourov@cs.arizona.edu</EmailAddress>
+      <StartDate>06/15/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Aparna</FirstName>
+      <LastName>Das</LastName>
+      <EmailAddress>aparna@cs.arizona.edu</EmailAddress>
+      <StartDate>06/15/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Arizona</Name>
+      <CityName>TUCSON</CityName>
+      <ZipCode>857210001</ZipCode>
+      <PhoneNumber>5206266000</PhoneNumber>
+      <StreetAddress>888 N Euclid Ave</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7796</Code>
+      <Text>ALGORITHMIC FOUNDATIONS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7929</Code>
+      <Text>COMPUTATIONAL GEOMETRY</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

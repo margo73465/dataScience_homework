@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Research in Disabilities Education Synthesis Project (RDE-SP)</AwardTitle>
+    <AwardEffectiveDate>10/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2015</AwardExpirationDate>
+    <AwardAmount>441627</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mary Moriarty</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The "Research in Disabilities Education Synthesis Project" is conducting a three year synthesis research project to summarize the contributions of the NSF's Research in Disabilities Education (RDE) program to the field, to the NSF's Division of Human Resource Development (HRD), and to the NSF's Directorate for Education and Human Resources (EHR). The activities include investigating, synthesizing and reporting the findings and contributions of the RDE program to the field and to RDE, HRD, EHR and NSF. The intent is to inform the programmatic strategic planning for RDE's future and to inform NSF programs, and secondary and postsecondary stakeholders, about lessons learned in broadening the participation of students with disabilities in STEM. There are several basic synthesis research questions that will be addressed:&lt;br/&gt;&lt;br/&gt;1. How well have RDE projects met their project goals? &lt;br/&gt;2. How have projects impacted their target audiences (e.g. faculty, students, teachers, and parents)?&lt;br/&gt;3. In what ways have RDE projects contributed to the goals of RDE, HRD, EHR and NSF?&lt;br/&gt;4. What is the contribution of the RDE-funded Research/Demonstration and Alliance/Enrichment projects to the knowledge base of STEM education of students with disabilities (SWD), educational transitions within the STEM "pipeline," student success in STEM courses and programs, and other related topics?&lt;br/&gt;5. What is the impact of RDE-funded Alliances to the number and quality of SWD transitioned, retained, and completing associates or bachelors? degrees in STEM fields and the number of completers entering the STEM workforce or graduate STEM programs?&lt;br/&gt;6. What other or unexpected outcomes were produced by these sets of RDE projects?&lt;br/&gt;7. What are the primary lessons learned about the RDE program that can be elicited from the answers to questions 1-6?&lt;br/&gt;&lt;br/&gt;This research project is creative and original due to the inclusion of an innovative component of this proposal, that is, the implementation of the Constant Comparative Method (CCM). The most recent RDE Committee of Visitors encouraged RDE to invest in uniquely innovative research methodology and CCM represents an innovative approach to synthesis research that has great potential to contribute to the evaluation and RDE fields. The results of this synthesis research will demonstrate advances in evaluation methodology that would inform the other NSF program evaluations.&lt;br/&gt;&lt;br/&gt;The dissemination plan for this research project includes a technical report to NSF, an executive summary report suitable for broad dissemination within the government, a slide set for distribution, peer-reviewed journal articles, research presentations at conferences and meetings, and user-friendly reports placed on accessible websites.&lt;br/&gt;&lt;br/&gt;The inclusion of an independent evaluator, Dr. Carol Fendt, a Senior Researcher and the Co-Director of the PRAIRIE Group at the University of Illinois at Chicago, will provide the project leadership team an external perspective to ensure the project activities are being executed as planned. Dr. Fendt will address the following evaluation questions: &lt;br/&gt;&lt;br/&gt;1. What is the extent to which the researchers are meeting their goals and progressing according the project timeline and plan? &lt;br/&gt;2. Were expectations reasonable and were modifications of the project work plan necessary? &lt;br/&gt;3. Did processes operate as expected?&lt;br/&gt;&lt;br/&gt;The findings from this research have the potential to significantly inform the direction of research about the STEM learning and education of students with disabilities. The long-term benefit is improved, and more focused, research that leads to advancing the educational knowledge base.</AbstractNarration>
+    <MinAmdLetterDate>09/20/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/30/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1145541</AwardID>
+    <Investigator>
+      <FirstName>B Jan</FirstName>
+      <LastName>Middendorf</LastName>
+      <EmailAddress>jmiddend@ksu.edu</EmailAddress>
+      <StartDate>09/20/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Cynthia</FirstName>
+      <LastName>Shuman</LastName>
+      <EmailAddress>cshuman@ksu.edu</EmailAddress>
+      <StartDate>09/20/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Kansas State University</Name>
+      <CityName>MANHATTAN</CityName>
+      <ZipCode>665061103</ZipCode>
+      <PhoneNumber>7855326804</PhoneNumber>
+      <StreetAddress>2 FAIRCHILD HALL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Kansas</StateName>
+      <StateCode>KS</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1545</Code>
+      <Text>RES IN DISABILITIES ED</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7261</Code>
+      <Text>PROGRAM EVALUATION</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

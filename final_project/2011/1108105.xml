@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAPSI: Synthesizing volcanic music: Comparing natural and synthetic signals to constrain the physics</AwardTitle>
+    <AwardEffectiveDate>06/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2012</AwardExpirationDate>
+    <AwardAmount>5700</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01060200</Code>
+      <Directorate>
+        <LongName>OFFICE OF THE DIRECTOR</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of International and Integrative Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Carter Kimsey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>05/18/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/18/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1108105</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Lyons</LastName>
+      <EmailAddress>jlyons@mtu.edu</EmailAddress>
+      <StartDate>05/18/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Lyons John J</Name>
+      <CityName>Hancock</CityName>
+      <ZipCode>499301513</ZipCode>
+      <PhoneNumber/>
+      <StreetAddress/>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7316</Code>
+      <Text>EAPSI</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

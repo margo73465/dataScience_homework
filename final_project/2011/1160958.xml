@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I/UCRC Phase I: Center for the Visual and Decision Informatics (CVDI)</AwardTitle>
+    <AwardEffectiveDate>02/15/2012</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2017</AwardExpirationDate>
+    <AwardAmount>173585</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070003</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Industrial Innovation and Partnerships</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rathindra DasGupta</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>I/UCRC for Visual and Decision Informatics (CVDI) &lt;br/&gt;&lt;br/&gt;1160958 University of Louisiana at Lafayette; Raghavan &lt;br/&gt;1160960 Drexel University; Hu &lt;br/&gt;&lt;br/&gt;The Center for Visual Decision Informatics (CVDI) will develop new visual and analytic methods that leverage modern computer hardware and software, and develop analysis and discovery tools that can be applied to complex data-based decision-making process. The University of Louisiana at Lafayette (UL) and Drexel University (DU) are collaborating to establish the proposed center, with UL as the lead institution. &lt;br/&gt;&lt;br/&gt;The proposed center will bring together analytic, visual, and perceptual techniques in order to support decision makers in industry and government by advancing the state-of-the-art in the research fields of Information, Visualization, Visual Analytics, and Automated Analysis. The proposed center's research agenda will be driven by the applications of information integration and decision support systems, 3D content creation and management in decision informatics, immersive visualizations, and human computer interaction technologies for training and education of workforce. To ensure that the research activities are transformative, software prototypes and frameworks developed through research will be tested in several application contexts by close collaboration with industry partners. &lt;br/&gt;&lt;br/&gt;The proposed center activities will enhance the international competitiveness of the American industry in the problems and opportunities of leveraging data for evidence-based decision support. The center will help its potential members achieve higher productivity gains through the adopted data-driven decision making process, and will also impact the broader American industry through the publication and dissemination of the center's research results. Both universities are committed to including underrepresented groups and have active plans for addressing diversity. The center also intends to promote, catalyze, and accelerate the commercialization of technology innovations.</AbstractNarration>
+    <MinAmdLetterDate>02/04/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/08/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1160958</AwardID>
+    <Investigator>
+      <FirstName>Vijay</FirstName>
+      <LastName>Raghavan</LastName>
+      <EmailAddress>raghavan@louisiana.edu</EmailAddress>
+      <StartDate>02/04/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Carolina</FirstName>
+      <LastName>Cruz-Neira</LastName>
+      <EmailAddress>carolina@louisiana.edu</EmailAddress>
+      <StartDate>02/04/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ramesh</FirstName>
+      <LastName>Kolluru</LastName>
+      <EmailAddress>kolluru@louisiana.edu</EmailAddress>
+      <StartDate>02/04/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ryan</FirstName>
+      <LastName>Benton</LastName>
+      <EmailAddress>rgb8817@cacs.louisiana.edu</EmailAddress>
+      <StartDate>02/04/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Raju</FirstName>
+      <LastName>Gottumukkala</LastName>
+      <EmailAddress>raju@louisiana.edu</EmailAddress>
+      <StartDate>02/04/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Louisiana at Lafayette</Name>
+      <CityName>Lafayette</CityName>
+      <ZipCode>705032701</ZipCode>
+      <PhoneNumber>3374826203</PhoneNumber>
+      <StreetAddress>104 University Circle</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Louisiana</StateName>
+      <StateCode>LA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5761</Code>
+      <Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

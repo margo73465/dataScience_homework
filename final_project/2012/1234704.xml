@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Tempo and mode of salt marsh exchange</AwardTitle>  
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>  
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>  
+    <AwardAmount>699971</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>06040300</Code>  
+      <Directorate> 
+        <LongName>Directorate for Geosciences</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Ocean Sciences</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Donald L. Rice</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>Intellectual Merit: Salt marshes are critical mediators of the flux of material between the terrestrial and marine realms. The balance of material import, export, and transformation affects both the marsh itself and the surrounding estuary. Previous efforts to understand the role of marshes have concentrated either on examining temporal changes (often at low resolution) of bulk exports, or compositional changes in exported material with little regard for its temporal variability. Researchers working at the Skidaway Institute of Oceanography contend that both the quantity and quality of materials exchanged between marsh and estuary in tidally-dominated systems along the southeastern US coast vary significantly in response to semidiurnal, diurnal, tidal, meteorological and seasonal forcing, and that this variability must be included when considering the total contributions of marshes to carbon cycling along the land-ocean boundary. This study will utilize a three-pronged strategy to assess both the quantity and quality of dissolved organic matter (DOM) and particulate organic matter (POM) exported from Groves Creek, a well-characterized meso-tidal salt marsh in coastal Georgia. In particular, by evaluating how marsh function responds to a full spectrum of present environmental conditions, this project will provide tangible insight into how carbon cycling in these critical regions will respond to anticipated changes in those conditions. &lt;br/&gt;&lt;br/&gt;Broader Impacts: The broader scientific significance of the study will be an improved understanding of DOM and POM exchange and transformation in the salt marsh-estuarine region. This study will also provide valuable opportunities to undergraduate interns to experience interdisciplinary research. Results of this work will be disseminated to scientific researchers, regional environmental managers, and the public on the web, in print, and through Skidaway Institute's programs of public outreach.</AbstractNarration>  
+    <MinAmdLetterDate>09/16/2012</MinAmdLetterDate>  
+    <MaxAmdLetterDate>09/16/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1234704</AwardID>  
+    <Investigator> 
+      <FirstName>Jay</FirstName>  
+      <LastName>Brandes</LastName>  
+      <EmailAddress>jay.brandes@skio.usg.edu</EmailAddress>  
+      <StartDate>09/16/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>William</FirstName>  
+      <LastName>Savidge</LastName>  
+      <EmailAddress>william.savidge@skio.usg.edu</EmailAddress>  
+      <StartDate>09/16/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Catherine</FirstName>  
+      <LastName>Edwards</LastName>  
+      <EmailAddress>catherine.edwards@skio.usg.edu</EmailAddress>  
+      <StartDate>09/16/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Aron</FirstName>  
+      <LastName>Stubbins</LastName>  
+      <EmailAddress>aron.stubbins@skio.usg.edu</EmailAddress>  
+      <StartDate>09/16/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>Skidaway Institute of Oceanography</Name>  
+      <CityName>Savannah</CityName>  
+      <ZipCode>314111011</ZipCode>  
+      <PhoneNumber>9125982400</PhoneNumber>  
+      <StreetAddress>10 Ocean Science Circle</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Georgia</StateName>  
+      <StateCode>GA</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>1670</Code>
+      <Text>CHEMICAL OCEANOGRAPHY</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

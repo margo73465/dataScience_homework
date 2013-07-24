@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Detection of Distributed Static and Dynamic Loads with Electrolyte-Enabled Distributed Transducers in a Polymer-Based Microfluidic Device</AwardTitle>
+    <AwardEffectiveDate>06/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2016</AwardExpirationDate>
+    <AwardAmount>324999</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Massimo Ruzzene</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This objective of this award is to develop a fundamental understanding of the performance of a polymer-based microfluidic device with Electrolyte-Enabled Distributed Transducers (EEDTs) that can detect distributed loads. The novelty of this EEDT device lies in its configuration, a single deformable polymer microstructure integrated with EEDTs, which can be built with great simplicity and allows the distributed-load detection using one single device. A standard polymer-based micro-fabrication process will be employed to ensure its disposability and affordability. The technical approach includes 1) experimental investigation of the device performance as a function of its geometry and electrolyte properties; 2) development of a theoretical framework for quantification of the device performance; 3) its optimization for ultra-high spatial resolution and ultra-high load resolution; and 4) its adaptation for biomaterial and biological tissue investigations. &lt;br/&gt;&lt;br/&gt;The results of this research will enable the development of miniaturized distributed-load sensors for biomedical, surgical, robotics, and manufacturing applications. Disposable, affordable, high-performance EEDT devices will revolutionize the intelligent systems and instruments, manufacturing equipment, and robots that rely on the functionality of distributed-load detection. Consequently, systems incorporating EEDT devices will be used to diagnose diseases at early stages, improve surgical outcomes, shorten development time, increase the manufacturing quality of viscoelastic materials and biomaterials, allow industrial automation, and save lives by enabling robotic operations in hazardous environments.</AbstractNarration>
+    <MinAmdLetterDate>04/03/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/03/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1265785</AwardID>
+    <Investigator>
+      <FirstName>Ali</FirstName>
+      <LastName>Beskok</LastName>
+      <EmailAddress>abeskok@odu.edu</EmailAddress>
+      <StartDate>04/03/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Julie Zhili</FirstName>
+      <LastName>Hao</LastName>
+      <EmailAddress>ZLHao@odu.edu</EmailAddress>
+      <StartDate>04/03/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Old Dominion University Research Foundation</Name>
+      <CityName>NORFOLK</CityName>
+      <ZipCode>235082561</ZipCode>
+      <PhoneNumber>7576834293</PhoneNumber>
+      <StreetAddress>4111 Monarch Way</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1639</Code>
+      <Text>SENSORS AND SENSING SYSTEMS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

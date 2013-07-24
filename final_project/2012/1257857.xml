@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Climate change and environmental gender determination in a geographically-widespread species</AwardTitle>
+    <AwardEffectiveDate>05/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2016</AwardExpirationDate>
+    <AwardAmount>136921</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090300</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>William E. Zamer</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The biological impacts of rapid changes in climate and habitats are major scientific and societal concerns. The need for clarifying these effects is particularly acute for species that are already imperiled. Turtles may be the most endangered group of vertebrates and, in the vast majority, temperatures experienced in the nest permanently determine offspring sex. This temperature-dependent sex determination (TSD) will be examined with a multi-year field, laboratory, and modeling study of wild populations of the painted turtle, Chrysemys picta, from climatically-divergent locations across the United States. This project will focus on measuring geographic variation in maternal nesting behavior and embryonic thermal sensitivity as potential mechanisms used by turtles with TSD to adapt to local climates. Teams of student researchers will conduct research at the field sites and in the laboratory each year. These activities will include monitoring behavior of nesting turtles, assessing incubating eggs and developing embryos, and recording environmental and habitat data. This information then will be incorporated into cutting-edge computer models to illuminate how changes in local climate will affect nest temperature and thus offspring sex ratio. In turn, the model predictions will be tested experimentally to identify how populations with TSD must adjust behaviorally and/or physiologically to offset any imbalance induced by thermal alterations.&lt;br/&gt;&lt;br/&gt;These integrated studies should provide a comprehensive understanding of how species with thermally-sensitive traits might adjust to forecast scenarios of rapid changes in climate and habitats. The findings will be particularly germane to conservation of species with TSD. This multi-year program also will (1) build a broadly applicable tool for translating between temperature measurements at point sources (nests, plant roots, etc.) to thermal variation at the habitat level and then to regional climate, (2) improve understanding of the scientific method by enhancing a lesson plan for 5th-grade students, and (3) continue to provide first-hand scientific and educational opportunities for numerous students (including underrepresented minorities, persons with disabilities, and women).</AbstractNarration>
+    <MinAmdLetterDate>04/22/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/22/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1257857</AwardID>
+    <Investigator>
+      <FirstName>Fredric</FirstName>
+      <LastName>Janzen</LastName>
+      <EmailAddress>fjanzen@iastate.edu</EmailAddress>
+      <StartDate>04/22/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Daniel</FirstName>
+      <LastName>Warner</LastName>
+      <EmailAddress>dawarner@uab.edu</EmailAddress>
+      <StartDate>04/22/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Iowa State University</Name>
+      <CityName>AMES</CityName>
+      <ZipCode>500112207</ZipCode>
+      <PhoneNumber>5152945225</PhoneNumber>
+      <StreetAddress>1138 Pearson</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Iowa</StateName>
+      <StateCode>IA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7657</Code>
+      <Text>ORGANISM-ENVIRO INTERACTIONS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

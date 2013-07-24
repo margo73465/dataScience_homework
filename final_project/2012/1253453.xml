@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Understanding the Micromechanisms of Growth and Remodeling of Collagenous Tissues</AwardTitle>
+    <AwardEffectiveDate>01/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>400000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Dennis Robert Carter</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The research objective of this Faculty Early Career Development (CAREER) award is to investigate the fundamental microscale mechanisms of growth and remodeling of collagenous tissues. Collagen structures impart stiffness, strength, and toughness to a variety of soft tissues including blood vessels, skin, and the cornea. Mechanical stimuli can alter the production and organization of collagen structures, leading to growth and remodeling, through a variety of active cellular mechanisms and passive microscale mechanisms. The research will focus on a model biological tissue, the sclera of experimental glaucoma mouse eyes subjected to chronic intraocular pressure (IOP) elevation. We hypothesize that growth and remodeling of the sclera in response to pathological loading is strongly influenced by 3 microscale mechanisms: (1) strain-induced collagen degradation and accumulation, (2) collagen crimp remodeling, and (3) myofibroblast (cellular) matrix contraction. The proposed work will develop new experimental methods, including an inflation experiment using confocal microscopy and a digital volume correlation (DVC), to measure changes in mechanical properties, collagen structure, and cellular features caused by chronic IOP elevation; and constitutive models for growth and remodeling based on the 3 hypothesized mechanisms. &lt;br/&gt;&lt;br/&gt;If successful, these studies will add significantly to understanding how mechanical loading influences growth and remodeling of collagen tissues. This will have direct translation to the study and treatment of a range of diseases, such as tendon injuries, cardiac fibrosis, and glaucoma. The basic research of the proposal is important to public health, because glaucoma is the second leading cause of blindness in the world. The educational program focuses on course development on biomechanics and on creating opportunities for high school, undergraduate, and graduate students to participate in biomechanics research. The research program is multidisciplinary and collaborative in nature. All student investigators will interact closely with ophthalmologist and biophysicist collaborators to learn a breadth of knowledge not found in traditional engineering education.</AbstractNarration>
+    <MinAmdLetterDate>12/11/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/11/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1253453</AwardID>
+    <Investigator>
+      <FirstName>Thao</FirstName>
+      <LastName>Nguyen</LastName>
+      <EmailAddress>vicky.nguyen@jhu.edu</EmailAddress>
+      <StartDate>12/11/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Johns Hopkins University</Name>
+      <CityName>Baltimore</CityName>
+      <ZipCode>212182608</ZipCode>
+      <PhoneNumber>4105168668</PhoneNumber>
+      <StreetAddress>3400 N CHARLES ST</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maryland</StateName>
+      <StateCode>MD</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7479</Code>
+      <Text>Biomechanics &amp; Mechanobiology</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

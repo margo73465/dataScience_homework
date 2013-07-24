@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Dpp/BMP2-4 signaling in a spiralian embryo</AwardTitle>
+    <AwardEffectiveDate>03/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2015</AwardExpirationDate>
+    <AwardAmount>339735</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090100</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven L. Klein</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>During the early development of some animals, the secondary body axis is patterned by a global signal, often called the embryonic organizer. This event is crucial for the development of vertebrates including humans, but its origins are unclear. Studies in several model organisms have suggested that the Dpp/BMP2-4 signaling pathway is involved in this event, raising the possibility that this pathway mediated organizer signaling in the last common ancestor of animals. To establish this, the role of the pathway needs to be examined in the large group of animal phyla known as the Spiralia. The embryo of the mollusc Ilyanassa has important practical and experimental advantages, making it a useful model for understanding development of the Spiralia. This group of researchers has discovered that the Dpp/BMP2-4 pathway is mediating organizer signaling in the Ilyanassa embryo, and they have evidence that the pathway is also acting later to pattern the nervous system. This project will demonstrate that Dpp/BMP2-4 signaling is mediating organizer signaling in Ilyanassa, characterize the mechanisms of signaling, and establish the role of the pathway in neural patterning later in development. These results will significantly enhance our understanding of the role of the pathway in ancestral animals. The work will also train young scientists at the graduate and undergraduate levels for future careers as independent researchers and scholars. It will also involve students at a nearby predominantly undergraduate institution, affording them the opportunity for an in-depth research experience.</AbstractNarration>
+    <MinAmdLetterDate>01/06/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/10/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1146782</AwardID>
+    <Investigator>
+      <FirstName>J. David</FirstName>
+      <LastName>Lambert</LastName>
+      <EmailAddress>dlamber2@mail.rochester.edu</EmailAddress>
+      <StartDate>01/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Rochester</Name>
+      <CityName>ROCHESTER</CityName>
+      <ZipCode>146270140</ZipCode>
+      <PhoneNumber>5852754031</PhoneNumber>
+      <StreetAddress>518 HYLAN, RIVER CAMPUSBOX 27014</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1119</Code>
+      <Text>ANIMAL DEVELOPMENTAL MECHANSMS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

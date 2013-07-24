@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>BRDIS-FDI Link at Census</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2013</AwardExpirationDate>
+    <AwardAmount>617239</AwardAmount>
+    <AwardInstrument>
+      <Value>Contract Interagency Agreement</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04030005</Code>
+      <Directorate>
+        <LongName>Directorate for Social, Behavioral &amp; Economic Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>National Center for Science and Engineering Statistics.</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>FRANCISCO MORIS-OREN</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>09/16/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/30/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1153484</AwardID>
+    <Investigator>
+      <FirstName>Mendel</FirstName>
+      <LastName>Gayle</LastName>
+      <EmailAddress>mendel.d.gayle@census.gov</EmailAddress>
+      <StartDate>09/16/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Bureau of the Census</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>20233</ZipCode>
+      <PhoneNumber/>
+      <StreetAddress/>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8802</Code>
+      <Text>RESEARCH &amp; DEVELOPMENT STATIST</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

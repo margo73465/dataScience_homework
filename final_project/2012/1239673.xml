@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Threshold-specific readouts of the Dorsal morphogen gradient of Drosophila</AwardTitle>
+    <AwardEffectiveDate>02/02/2012</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2014</AwardExpirationDate>
+    <AwardAmount>208302</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090100</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven L. Klein</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>In developmental biology, a morphogen is any molecule that acts at different concentrations to cause cells to do different things. In many animal embryos, concentration gradients of morphogens allow cells to decide where they are in the body and how they should behave. Morphogens often have such a function by binding to regulatory DNA switches (or DNA sequences) that can turn on specific genes, which in turn influence cell behavior. Many areas of biological investigation would be advanced significantly if it was understood how regulatory DNA sequences encode these concentration-threshold specific responses. The reason is that all regulatory DNA switches, not just those that respond to morphogens, need to encode concentration-thresholds. In this project, a large set of regulatory DNA switches will be examined that respond to the same morphogen, specifically a protein called Dorsal that patterns one of the embryonic body axes (the dorsal-ventral axis) in the fruit fly. In this research study, DNA sequences that read out different concentrations of the Dorsal protein will be compared and manipulated in an effort to break the code for this classical morphogen system. In addition, new students will be trained in cutting edge genomics and molecular biology and will identify new principles in how cells regulate gene expression. These principles are expected to apply broadly to other tissues and other organisms (including humans) because the system being studied uses basic components that are widely conserved.</AbstractNarration>
+    <MinAmdLetterDate>05/18/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/16/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1239673</AwardID>
+    <Investigator>
+      <FirstName>Albert</FirstName>
+      <LastName>Erives</LastName>
+      <EmailAddress>albert-erives@uiowa.edu</EmailAddress>
+      <StartDate>05/18/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Iowa</Name>
+      <CityName>IOWA CITY</CityName>
+      <ZipCode>522421320</ZipCode>
+      <PhoneNumber>3193352123</PhoneNumber>
+      <StreetAddress>2 GILMORE HALL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Iowa</StateName>
+      <StateCode>IA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1119</Code>
+      <Text>ANIMAL DEVELOPMENTAL MECHANSMS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

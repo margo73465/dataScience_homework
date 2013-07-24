@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>I-6 Challenge: CLEAR-View: A cost effective thermal sensor</AwardTitle>  
+    <AwardEffectiveDate>01/15/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>12/31/2011</AwardExpirationDate>  
+    <AwardAmount>99985</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>07070000</Code>  
+      <Directorate> 
+        <LongName>Directorate for Engineering</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Industrial Innovation and Partnerships</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Rathindra DasGupta</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>K&amp;A Wireless has requested support for a one year membership to the New Mexico Technology Ventures Corporation that was recently selected as the recipient of the Economic Development Administrations Region 5 i6 award. The focus of the I-6 effort will be on developing a short range wireless video system that is capable of distributing the power requirements of the CLIR-View algorithm to market segments where handheld thermal imaging devices are required, like firefighting and military.&lt;br/&gt;&lt;br/&gt;This development and commercialization will utilize interns from the University of New Mexico and New Mexico State to provide real world experience to these undergraduate students. In addition, the intent is to create a position for one of the students on a full time basis after graduation at the end of the program. In addition, the focus is to bring a new hardware product to market which will help in the economic development of the region.</AbstractNarration>  
+    <MinAmdLetterDate>01/14/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>01/14/2011</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1114465</AwardID>  
+    <Investigator> 
+      <FirstName>Kamil</FirstName>  
+      <LastName>Agi</LastName>  
+      <EmailAddress>kagi@ka-wireless.com</EmailAddress>  
+      <StartDate>01/14/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>K&amp;A Wireless, LLC</Name>  
+      <CityName>ALBUQUERQUE</CityName>  
+      <ZipCode>871122967</ZipCode>  
+      <PhoneNumber>5053382380</PhoneNumber>  
+      <StreetAddress>2617 JUAN TABO BLVD NE STE A</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>New Mexico</StateName>  
+      <StateCode>NM</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>1591</Code>
+      <Text>STTR PHASE II</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

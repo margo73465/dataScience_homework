@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Engineering Education Pioneers and Trajectories of Impact</AwardTitle>
+    <AwardEffectiveDate>06/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2015</AwardExpirationDate>
+    <AwardAmount>373052</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050005</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Donna Riley</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This engineering education research project seeks to shed light on past change efforts in engineering education in order to facilitate continuing improvement in the programs that educate the future engineering workforce. The project will study the development of prospective change agents by bringing together graduate students and successful leaders and change agents, then collect, analyze, and publish interviews. The analysis will be used to inform how innovations in teaching and learning can be better integrated into existing engineering curricula.&lt;br/&gt;&lt;br/&gt;The broader significance and importance of this project is that it both sheds light on how change happens in engineering program, and engages future leaders in collecting and understanding how change has occurred in the past. The stories of the change agents will be made available through efforts at wide dissemination. This project overlaps with NSF's strategic goals of transforming the frontiers by enhancing research infrastructure and data access to broaden research capabilities. Additionally NSF's goal of innovating for society is enabled by creating results and research that are useful for society by informing educational policy and practices.</AbstractNarration>
+    <MinAmdLetterDate>12/20/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/20/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1263512</AwardID>
+    <Investigator>
+      <FirstName>Cynthia</FirstName>
+      <LastName>Atman</LastName>
+      <EmailAddress>atman@uw.edu</EmailAddress>
+      <StartDate>12/20/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jennifer</FirstName>
+      <LastName>Turns</LastName>
+      <EmailAddress>jturns@engr.washington.edu</EmailAddress>
+      <StartDate>12/20/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ken</FirstName>
+      <LastName>Yasuhara</LastName>
+      <EmailAddress>yasuhara@uw.edu</EmailAddress>
+      <StartDate>12/20/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Washington</Name>
+      <CityName>SEATTLE</CityName>
+      <ZipCode>981959472</ZipCode>
+      <PhoneNumber>2065434043</PhoneNumber>
+      <StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Washington</StateName>
+      <StateCode>WA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1340</Code>
+      <Text>ENGINEERING EDUCATION</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Tailoring the Surface of Liquid Crystal Droplets by The Self-Assembly of Supramolecular Surfactants for Sensor Applications</AwardTitle>
+    <AwardEffectiveDate>07/15/2013</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2016</AwardExpirationDate>
+    <AwardAmount>292597</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020004</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Chemical, Bioengineering, Environmental, and Transport Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Eddie Chang</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This proposal will investigate whether the presence of target bile acids in a solution outside a droplet of liquid crystalline material (5CB) will trigger a radial-to-bipolar transition in the structure of the liquid crystal, which can then be detected simply by polarized light microscopy. &lt;br/&gt;&lt;br/&gt;If successful, this method of detecting bile acids is much easier than existing technique and might be employed in more remote locations where sophisticated analytical tools are not available.</AbstractNarration>
+    <MinAmdLetterDate>07/03/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/03/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1264355</AwardID>
+    <Investigator>
+      <FirstName>Jiyu</FirstName>
+      <LastName>Fang</LastName>
+      <EmailAddress>jfang@mail.ucf.edu</EmailAddress>
+      <StartDate>07/03/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Central Florida</Name>
+      <CityName>ORLANDO</CityName>
+      <ZipCode>328168005</ZipCode>
+      <PhoneNumber>4078821120</PhoneNumber>
+      <StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1414</Code>
+      <Text>INTERFAC PROCESSES &amp; THERMODYN</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

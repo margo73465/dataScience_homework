@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: Atomistic Simulations of the Nanotribology of Carbon-based Materials: Establishing Links between Structure, Chemistry, and Performance</AwardTitle>
+    <AwardEffectiveDate>09/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2012</AwardExpirationDate>
+    <AwardAmount>175105</AwardAmount>
+    <AwardInstrument>
+      <Value>Interagency Agreement</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mary M. Toney</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>09/14/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>10/23/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1129629</AwardID>
+    <Investigator>
+      <FirstName>Judith</FirstName>
+      <LastName>Harrison</LastName>
+      <EmailAddress>jah@usna.edu</EmailAddress>
+      <StartDate>09/14/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Paul</FirstName>
+      <LastName>Mikulski</LastName>
+      <EmailAddress>mikulski@usna.edu</EmailAddress>
+      <StartDate>09/14/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>United States Naval Academy</Name>
+      <CityName>Annapolis</CityName>
+      <ZipCode>214025030</ZipCode>
+      <PhoneNumber>4102932504</PhoneNumber>
+      <StreetAddress>589 McNair Rd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maryland</StateName>
+      <StateCode>MD</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1633</Code>
+      <Text>MATERIALS AND SURFACE ENG</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1674</Code>
+      <Text>NANOSCALE: INTRDISCPL RESRCH T</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

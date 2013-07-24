@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAPSI: Assimilating COSMIC GPS RO data for Investigating TC genesis in the Eastern Atlantic Region</AwardTitle>
+    <AwardEffectiveDate>06/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2012</AwardExpirationDate>
+    <AwardAmount>5700</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01060200</Code>
+      <Directorate>
+        <LongName>OFFICE OF THE DIRECTOR</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of International and Integrative Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Carter Kimsey</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>05/13/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/13/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1107634</AwardID>
+    <Investigator>
+      <FirstName>Keren</FirstName>
+      <LastName>Rosado</LastName>
+      <EmailAddress>krosado2008@my.fit.edu</EmailAddress>
+      <StartDate>05/13/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Rosado Keren I</Name>
+      <CityName>Orlando</CityName>
+      <ZipCode>328286764</ZipCode>
+      <PhoneNumber/>
+      <StreetAddress/>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7316</Code>
+      <Text>EAPSI</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

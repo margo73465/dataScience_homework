@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Graduate Reserach Fellowship Program (GRFP)</AwardTitle>
+    <AwardEffectiveDate>07/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2016</AwardExpirationDate>
+    <AwardAmount>3256241</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11010101</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Graduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gisele T. Muller-Parker</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>07/25/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/25/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1143954</AwardID>
+    <Investigator>
+      <FirstName>Richard</FirstName>
+      <LastName>Smith</LastName>
+      <EmailAddress>rjsmith@wustl.edu</EmailAddress>
+      <StartDate>07/25/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Washington University</Name>
+      <CityName>SAINT LOUIS</CityName>
+      <ZipCode>631304899</ZipCode>
+      <PhoneNumber>3148895100</PhoneNumber>
+      <StreetAddress>ONE BROOKINGS DRIVE, CAMPUS BOX</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Missouri</StateName>
+      <StateCode>MO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9134</Code>
+      <Text>PHYSICS EDUC &amp; INTERDISCIP RES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7172</Code>
+      <Text>GRADUATE RESEARCH FELLOWSHIPS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

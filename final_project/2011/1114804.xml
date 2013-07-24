@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Long-Term Ecological Research at the Hubbard Brook Experimental Forest</AwardTitle>
+    <AwardEffectiveDate>02/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2017</AwardExpirationDate>
+    <AwardAmount>3084991</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010209</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Saran Twombly</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Hubbard Brook (HBR) Experimental Forest LTER project began in 1988, drawing on a history of forest ecosystem research that began in the 1950s, and has the continuing overall goal of improving understanding of the structure and function of Northern Forest ecosystems and their responses to environmental change and disturbance. This project will advance the conceptual and quantitative basis for predicting fluxes of energy and materials and distributions of the biota under the influences of environmental changes that are accelerated by the activities of people. The project includes observational and experimental approaches, at both small plot and whole watershed scales, and integrates biogeochemical, geohydrologic, and biological approaches to understand the consequences to Northern Forest ecosystems of air pollution, atmospheric deposition, and regional climate change. &lt;br/&gt;&lt;br/&gt;This project improves understanding of the ecology and dynamics of Northern Forest ecosystems and advances approaches for managing them effectively now and into the future. It assembles and integrates unique long-term data sets that address the important societal issues of forest management, air pollution and atmospheric deposition, invasive species, and regional climate change. Its broader values also include extensive research-based training, K-12 curriculum development and teacher training sessions, and public outreach programs. The project provides scientific syntheses, coupled with scientific assessment of alternative management strategies, in formats readily available to the public, the media, educators, and policy-makers.</AbstractNarration>
+    <MinAmdLetterDate>02/24/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/07/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1114804</AwardID>
+    <Investigator>
+      <FirstName>Timothy</FirstName>
+      <LastName>Fahey</LastName>
+      <EmailAddress>tjf5@cornell.edu</EmailAddress>
+      <StartDate>02/24/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Charles</FirstName>
+      <LastName>Driscoll</LastName>
+      <EmailAddress>ctdrisco@syr.edu</EmailAddress>
+      <StartDate>02/24/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Cornell University</Name>
+      <CityName>Ithaca</CityName>
+      <ZipCode>148502820</ZipCode>
+      <PhoneNumber>6072555014</PhoneNumber>
+      <StreetAddress>373 Pine Tree Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1195</Code>
+      <Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

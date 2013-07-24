@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Workshop: Emerging Results, Critical Research Directions, and Grand Challenges for VOSS</AwardTitle>
+    <AwardEffectiveDate>10/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2013</AwardExpirationDate>
+    <AwardAmount>99995</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Advanced CyberInfrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mark Suchman</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The challenges of 21st century science and engineering demand the creation of effective and efficient distributed, multi-disciplinary, collaborative teams and virtual organizations. This researcher will manage a workshop to develop a detailed picture of emerging results, critical research directions, and grand challenges for understanding the socio-technical processes that underpin virtual organizations.&lt;br/&gt;This program planning workshop will provide an opportunity to consolidate the new knowledge that has been emerged and identify new directions. Focusing on research in areas covered by the NSF "Virtual Organizations as Sociotechnical Systems (VOSS)" program, it will explore emergent and potential productive research directions and syntheses at the intersection of recognized and projected VOSS research themes, and objectives. Specific directions that might be interesting but not yet topical or generally compelling will also be noted.</AbstractNarration>
+    <MinAmdLetterDate>08/31/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/31/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1152227</AwardID>
+    <Investigator>
+      <FirstName>Leslie</FirstName>
+      <LastName>Gasser</LastName>
+      <EmailAddress>gasser@uiuc.edu</EmailAddress>
+      <StartDate>08/31/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Illinois at Urbana-Champaign</Name>
+      <CityName>CHAMPAIGN</CityName>
+      <ZipCode>618207473</ZipCode>
+      <PhoneNumber>2173332187</PhoneNumber>
+      <StreetAddress>SUITE A</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7231</Code>
+      <Text>CYBERINFRASTRUCTURE</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Center for Aviation and Automotive Technology Education using Virtual E-School [CA2VES]: &lt;br/&gt;A Resource to Meet Technician Workforce Needs</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>
+    <AwardAmount>1473185</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gerhard L. Salinger</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Center for Aviation and Automotive Technology Education Using Virtual E-School is a resource that develops and disseminates E-learning modules with virtual reality and similar high-level visualization/simulation tools for automotive and aviation technician education. The aviation and automotive industries in South Carolina and elsewhere, as well as appropriate ATE Centers, are providing input and validation of the content for the modules being developed and extensively tested. The modules also contain pedagogical strategies and assessments. The primary target audience is the two year college faculty and students in associate degree programs. The virtual teaching environment is also being used to interest high school students and to recruit students from populations underrepresented in technical careers. Since the need for technicians in the industries greatly exceeds the number that can be educated in the two year colleges, the modules provide other venues for learning and recruiting. The Center also provides an online student internship and placement service. The efficacy of high definition modules is compared to that of lower quality that can be viewed on laptops.</AbstractNarration>
+    <MinAmdLetterDate>09/09/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/03/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1104181</AwardID>
+    <Investigator>
+      <FirstName>Dale</FirstName>
+      <LastName>Doty</LastName>
+      <EmailAddress>dale.doty@fdtc.edu</EmailAddress>
+      <StartDate>09/09/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Elaine</FirstName>
+      <LastName>Craft</LastName>
+      <EmailAddress>elaine.craft@fdtc.edu</EmailAddress>
+      <StartDate>09/09/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Carey</FirstName>
+      <LastName>Castle</LastName>
+      <EmailAddress>carey.castle@gvltec.edu</EmailAddress>
+      <StartDate>09/09/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Anand</FirstName>
+      <LastName>Gramopadhye</LastName>
+      <EmailAddress>agramop@clemson.edu</EmailAddress>
+      <StartDate>09/09/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Barry</FirstName>
+      <LastName>Franco</LastName>
+      <EmailAddress>barry.franco@tridenttech.edu</EmailAddress>
+      <StartDate>09/09/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Clemson University</Name>
+      <CityName>CLEMSON</CityName>
+      <ZipCode>296340001</ZipCode>
+      <PhoneNumber>8646562424</PhoneNumber>
+      <StreetAddress>300 BRACKETT HALL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>South Carolina</StateName>
+      <StateCode>SC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7412</Code>
+      <Text>ADVANCED TECH EDUCATION PROG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

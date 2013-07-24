@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Texas Center for Undergraduate Research in Energy and Propulsion</AwardTitle>
+    <AwardEffectiveDate>04/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2016</AwardExpirationDate>
+    <AwardAmount>148248</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050006</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Esther Bolding</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This three year REU Site program is a collaborative effort between Texas A&amp;M University (TAMU) and the University of Texas at Brownsville (UTB). The undergraduate students will engage in hands-on research projects related to energy and propulsion. Specific topics include alternative fuels combustion, materials for energy conversion and storage, biodiesel fuels, advanced energy conversion using supercritical CO2, wind energy research, and hypersonic propulsion, among others. In addition to the scientific research that will be performed, the approach utilized in this site will provide valuable data toward the effect of longer-term research experiences on the tendency of the participants to ultimately pursue advanced degrees.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This REU site will impact society in two major ways: 1) through the involvement of undergraduate students in scientific research, encouraging them to pursue advanced degrees in science and engineering; and 2) the energy-related research will potentially benefit thousands of people through alternative sources and improved, less-polluting combustion devices. With regard to the first major impact, the proposed site will provide experiences for thirty to forty undergraduate students. Special emphasis will be given to the recruitment of underrepresented ethnic minorities and women from universities in Texas that are not major research institutions, thus providing research opportunities to students who might not otherwise have them. In addition, first- and second-year students will be encouraged to participate. &lt;br/&gt;&lt;br/&gt;"The site is co-funded by the Department of Defense in partnership with the NSF REU program."</AbstractNarration>
+    <MinAmdLetterDate>03/07/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/15/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1263196</AwardID>
+    <Investigator>
+      <FirstName>Devesh</FirstName>
+      <LastName>Ranjan</LastName>
+      <EmailAddress>dranjan@tamu.edu</EmailAddress>
+      <StartDate>03/07/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Eric</FirstName>
+      <LastName>Petersen</LastName>
+      <EmailAddress>epetersen@tamu.edu</EmailAddress>
+      <StartDate>03/07/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas Engineering Experiment Station</Name>
+      <CityName>College Station</CityName>
+      <ZipCode>778454645</ZipCode>
+      <PhoneNumber>9794587617</PhoneNumber>
+      <StreetAddress>TEES State Headquarters Bldg.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>L644</Code>
+      <Text/>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1360</Code>
+      <Text>HUMAN RESOURCES DEVELOPMENT</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7218</Code>
+      <Text>RET SUPPLEMENTS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

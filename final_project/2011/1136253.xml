@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>GSE-RES: Gender Research on Adult-child Discussion in Informal Engineering eNvironmenTs (GRADIENT)</AwardTitle>
+    <AwardEffectiveDate>01/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2014</AwardExpirationDate>
+    <AwardAmount>343451</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jolene K. Jesse</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Intellectual Merit: The Science Museum of Minnesota and Purdue University's Institute for P-12 Engineering Research and Learning are conducting a study within out-of-school contexts that will explore gender differences in the development of engineering interest and understanding in children between the ages of 4 and 11. During the study, the researchers will closely examine three specific informal environments: a pre-school program where parents and children can engage with engineering focused activity, a family-oriented engineering event for elementary students and their parents, and an engineering exhibit within a science museum. These settings, each featuring a high level of parent-child interaction, have been intentionally chosen due to an emerging trend in engineering education research that identifies the parent as playing a crucial role in girls' decisions regarding engineering careers. The project will examine the ways in which engineering practices (such as the iterative design, build, and test cycle) impact the development of interest and understanding. The study focuses on studying children during the critical years before middle school, when girls have been shown to have significantly lower levels of interest in engineering than boys.&lt;br/&gt;&lt;br/&gt;Broader Impacts: Investigating the processes by which girls develop early interest and understanding in engineering is essential to addressing the persistent underrepresentation of women in engineering fields. Informal learning experiences, such as interactions in the home, visits to museums, and other everyday encounters, represent a rich array of settings for the development of engineering interest that have been minimally researched. The project will share results from the study through traditional academic channels, and also through parent and practitioner workshops for informal science educators that disseminate useful practices and techniques for engaging girls in engineering at a young age. In addition, the partnership between the Science Museum of Minnesota and Purdue University creates a strong foundation for subsequent collaborative projects focused on researching informal engineering education. The project has the potential to significantly impact the ways in which girls begin to cultivate a lifelong interest in engineering, which may ultimately encourage more women to pursue engineering careers in the future.</AbstractNarration>
+    <MinAmdLetterDate>09/12/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/23/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1136253</AwardID>
+    <Investigator>
+      <FirstName>Monica</FirstName>
+      <LastName>Cardella</LastName>
+      <EmailAddress>mcardell@purdue.edu</EmailAddress>
+      <StartDate>09/12/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Gina</FirstName>
+      <LastName>Svarovsky</LastName>
+      <EmailAddress>gsvarovsky@smm.org</EmailAddress>
+      <StartDate>09/12/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Science Museum of Minnesota</Name>
+      <CityName>Saint Paul</CityName>
+      <ZipCode>551021202</ZipCode>
+      <PhoneNumber>6512214720</PhoneNumber>
+      <StreetAddress>120 West Kellogg Boulevard</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Minnesota</StateName>
+      <StateCode>MN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1544</Code>
+      <Text>RES ON GENDER IN SCI &amp; ENGINE</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>The evolution and biogeography of mimetic Elymnias butterflies in Southeast Asia (Lepidoptera: Nymphalidae: Satyrinae)</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>282500</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010206</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Michael Whiting</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Natural selection can play an important role in speciation, but few studies examine how mimicry may accelerate diversification, particularly in taxa distributed across a geographically complex region. The genus Elymnias is a little-studied group of mimetic butterflies that vary dramatically in color, pattern, and size because different species frequently mimic dramatically different models. The evolutionary history of the 43 species in this genus will be inferred using DNA sequences from multiple genetic markers to address several key questions, including: 1) Have similar mimetic wing patterns evolved convergently? 2) What role has Southeast Asia's complex geography played in speciation? 3) Is divergence within a single landmass associated with shifts in mimetic color pattern? 4) Has sexually dimorphic mimicry evolved multiple times?&lt;br/&gt;&lt;br/&gt;Because of its species richness and extreme wing pattern diversity, Elymnias promises to be an unparalleled taxon for studying rapid evolutionary change. The phylogenetic tree generated in this study will be used to frame future comparative studies, including genomics-driven approaches to identifying the genetic basis of wing pattern differences. The specimens, tissues, and data obtained in this study will be deposited in publicly accessible museums and databases. This project will support graduate and undergraduate students, including students from groups underrepresented in science.</AbstractNarration>
+    <MinAmdLetterDate>08/17/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/01/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1120380</AwardID>
+    <Investigator>
+      <FirstName>David</FirstName>
+      <LastName>Lohman</LastName>
+      <EmailAddress>dlohman@ccny.cuny.edu</EmailAddress>
+      <StartDate>08/17/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>CUNY City College</Name>
+      <CityName>New York</CityName>
+      <ZipCode>100319101</ZipCode>
+      <PhoneNumber>2126505418</PhoneNumber>
+      <StreetAddress>Convent Ave at 138th St</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1171</Code>
+      <Text>PHYLOGENETIC SYSTEMATICS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8015</Code>
+      <Text>BIO Innovation Activities</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

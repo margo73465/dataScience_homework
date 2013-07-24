@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>BRIGE: Running Over Rough Terrain - Enhancing Biological Hypotheses</AwardTitle>
+    <AwardEffectiveDate>08/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2014</AwardExpirationDate>
+    <AwardAmount>214714</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>George Chiu</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Broadening Participation Research Initiation Grant in Engineering (BRIGE) provides funding to enhance recent biological hypotheses regarding the control of high-speed legged locomotion over uneven terrain for application in robotics. A simulation model will be used to thoroughly test the hypotheses in ways not achievable in biological labs, such as lengthening limb segments or redistributing mass, to make critical enhancements. At high running speeds, legs utilize passive compliant elements such as tendons and ligaments to store and return energy during the stance phase of the leg cycle. To achieve robust locomotion, the effort of these passive elements must be combined with active feedback response from the muscles to overcome the pervasive uncertainty inherent to natural terrain. Two hypotheses derived from biological evidence, independently addressing the passive and active elements of locomotion, will be combined and tested for robustness, practicality and generality using full 3D models of biped and quadruped systems.&lt;br/&gt;&lt;br/&gt;Legs appear in many forms, vary widely in function and can easily outperform man-made wheeled and tracked vehicles on uneven terrain, which makes the replication of leg functionality and the associated mobility very desirable for robotics systems. A robot that could achieve animal-like robust and agile movements, combined with the ability to work in remote and hazardous environments, would be valuable for time-critical search and rescue, planetary exploration, in vivo drug delivery, military reconnaissance, prostheses, hazardous waste cleanup, home service, and a host of other applications. Despite the great potential of legged systems, no biomorphic legged system is currently operational in a natural environment. This BRIGE grant provides funding to potentially enable improved robot locomotion using biological research as the foundation.</AbstractNarration>
+    <MinAmdLetterDate>08/01/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/18/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1125667</AwardID>
+    <Investigator>
+      <FirstName>Luther</FirstName>
+      <LastName>Palmer</LastName>
+      <EmailAddress>palmer@cse.usf.edu</EmailAddress>
+      <StartDate>08/01/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of South Florida</Name>
+      <CityName>Tampa</CityName>
+      <ZipCode>336129446</ZipCode>
+      <PhoneNumber>8139745465</PhoneNumber>
+      <StreetAddress>3702 Spectrum Blvd.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1632</Code>
+      <Text>CONTROL SYSTEMS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7680</Code>
+      <Text>Broadening Participation - ENG</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7741</Code>
+      <Text>BROAD PARTIC IN ENG (BRIGE)</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

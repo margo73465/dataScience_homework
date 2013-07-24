@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>BIGDATA: Small: DA: Statistical Machine Learning Methods for Scalable Data Analysis</AwardTitle>
+    <AwardEffectiveDate>07/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2016</AwardExpirationDate>
+    <AwardAmount>738971</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Vasant G. Honavar</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Big Data has become ubiquitous in modern industrial and scientific applications where the size and dimensionality of data are becoming so large as to require new statistical tools for efficient data analysis. This collaborative project involving researchers at Rutgers University and Microsoft Research focuses on the theoretical and algorithmic development of advanced computational methods for big data analytics. While the problems to be investigated are motivated by various Internet applications, the resulting solutions are expected to be broadly applicable to other domains. &lt;br/&gt;&lt;br/&gt;The project considers three interrelated main themes in big data analytics: (a) effective sampling of big datasets to filter out unreliable data source and improve statistical analysis; (b) dimensionality reduction techniques that can best preserve information via hashing and sparse random projection techniques; and (c) large scale optimization techniques for machine learning that can directly handle large datasize. Anticipated results of this work include new theoretical results, new data analytics algorithms, and their open source software implementations.&lt;br/&gt;&lt;br/&gt;Broader impacts of the research include broadly disseminated open source implementations of scalable data analytics algorithms, research-based training and education of graduate and undergraduate students, and academic-industrial collaborations resulting in an interplay between fundamental research in machine learning and industrial applications.</AbstractNarration>
+    <MinAmdLetterDate>04/10/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/10/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1250985</AwardID>
+    <Investigator>
+      <FirstName>Tong</FirstName>
+      <LastName>Zhang</LastName>
+      <EmailAddress>tzhang@stat.rutgers.edu</EmailAddress>
+      <StartDate>04/10/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Rutgers University New Brunswick</Name>
+      <CityName>NEW BRUNSWICK</CityName>
+      <ZipCode>089018559</ZipCode>
+      <PhoneNumber>8489320150</PhoneNumber>
+      <StreetAddress>3 RUTGERS PLAZA</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8083</Code>
+      <Text>Big Data Science &amp;Engineering</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

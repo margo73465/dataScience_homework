@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>FSU Preparing Future Educators for Placement in K-12 Mathematics and Science Classrooms (PrEP) Program</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2016</AwardExpirationDate>
+    <AwardAmount>1183058</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joan T Prival</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Fayetteville State University's "Preparing Future Educators for Placement in K-12 Mathematics and Science Classrooms" (PrEP) Noyce Scholarship Program involves collaboration among the Departments of Mathematics and Computer Science, Chemistry and Physics, Natural Sciences, the School of Education, and the Mathematics and Science Education Center to provide scholarships to future teachers. Candidates for these scholarships are undergraduates majoring in one of the sciences or mathematics at FSU and professionals with science degrees who are returning to school to become qualified as secondary school teachers of their disciplines. To encourage undergraduates to consider this career path, the program also provides internships for freshmen and sophomores to assist summer teaching activities both at Fayetteville State University and at partner community colleges. To assist new teachers in the first two years of their induction as active teachers in high-need school districts, a program of ongoing mentoring and continuing professional development maintains the professional learning network developed during the scholarship training. From attracting young students to the teaching profession, through teacher training, to support of new mature professionals, this comprehensive program provides 66 new STEM teachers to a region in great need of STEM educators. As a Historically Black College or University, FSU serves large numbers of underrepresented minority students. The Noyce Scholars among them, 66 all told, are leaders and role models for the students they teach.</AbstractNarration>
+    <MinAmdLetterDate>08/29/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/29/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1136394</AwardID>
+    <Investigator>
+      <FirstName>Erin</FirstName>
+      <LastName>White</LastName>
+      <EmailAddress>ewhite@uncfsu.edu</EmailAddress>
+      <StartDate>08/29/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Kimberly</FirstName>
+      <LastName>Burton</LastName>
+      <EmailAddress>ksmith@uncfsu.edu</EmailAddress>
+      <StartDate>08/29/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Shelton</FirstName>
+      <LastName>Ford</LastName>
+      <EmailAddress>sford2@uncfsu.edu</EmailAddress>
+      <StartDate>08/29/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Perry</FirstName>
+      <LastName>Gillespie</LastName>
+      <EmailAddress>pgillespie@uncfsu.edu</EmailAddress>
+      <StartDate>08/29/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Fayetteville State University</Name>
+      <CityName>Fayetteville</CityName>
+      <ZipCode>283014252</ZipCode>
+      <PhoneNumber>9106721141</PhoneNumber>
+      <StreetAddress>1200 Murchison Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1795</Code>
+      <Text>ROBERT NOYCE SCHOLARSHIP PGM</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

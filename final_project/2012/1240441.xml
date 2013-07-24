@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EFRI-ODISSEI: Mechanical Meta-Materials from Self-Folding Polymer Sheets</AwardTitle>
+    <AwardEffectiveDate>08/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2016</AwardExpirationDate>
+    <AwardAmount>2000000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07040000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of Emerging Frontiers in Research and Innovation (EFRI)</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Paul Collopy</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The research objective of this Emerging Frontiers in Research and Innovation (EFRI) Origami Design for the Integration of Self-assembling Systems for Engineering Innovation (ODISSEI) award is to develop self-folding polymer sheets as a platform for new mechanical meta-materials that take advantage of origami principles to provide highly tunable mechanical responses. This research combines physical chemistry, physics, origami mathematics and artistic expression to develop modular, origami components, such as folds and vertices, which are assembled into more complex folding structures. Theoretical tools will be developed to predict the mechanical properties of fold patterns, and these will be validated by comparison to measurements on micro-fabricated structures. This research also explores new origami motifs by incorporating curvature and shape into the origami repertoire to inspire new artistic achievements.&lt;br/&gt;&lt;br/&gt;If successful, we will produce new polymer materials whose static mechanical properties can be tuned over a wide range of behaviors, and which can buckle and fold dynamically. Because the theoretical tools we will develop will also be broadly applicable to any material whose expansion and contraction can be made to respond to a stimulus, we expect our research to have broad applicability in many industries ranging from packing materials to artificial tissues to actuators. The work will train undergraduate, graduate and postdoctoral students and be disseminated through publications, conferences and a workshop that will bring together other ODISSEI groups, scientists, and origami artists and mathematicians. It will also contribute to a teacher-training program at Western New England University to use origami as a hands-on way to teach mathematics and material science to K-12 students, and a theatrical performance currently being written. The artistic prototypes and models produced will be part of a traveling exhibit for science museums.&lt;br/&gt;&lt;br/&gt;This project is supported in part by funds from the Air Force Office of Scientific Research.</AbstractNarration>
+    <MinAmdLetterDate>07/25/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/25/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1240441</AwardID>
+    <Investigator>
+      <FirstName>Thomas</FirstName>
+      <LastName>Hull</LastName>
+      <EmailAddress>thull@wne.edu</EmailAddress>
+      <StartDate>07/25/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Christian</FirstName>
+      <LastName>Santangelo</LastName>
+      <EmailAddress>csantang@physics.umass.edu</EmailAddress>
+      <StartDate>07/25/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ryan</FirstName>
+      <LastName>Hayward</LastName>
+      <EmailAddress>rhayward@mail.pse.umass.edu</EmailAddress>
+      <StartDate>07/25/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Itai</FirstName>
+      <LastName>Cohen</LastName>
+      <EmailAddress>ic64@cornell.edu</EmailAddress>
+      <StartDate>07/25/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Massachusetts Amherst</Name>
+      <CityName>AMHERST</CityName>
+      <ZipCode>010039242</ZipCode>
+      <PhoneNumber>4135450698</PhoneNumber>
+      <StreetAddress>Research Administration Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7633</Code>
+      <Text>EFRI RESEARCH PROJECTS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>L563</Code>
+      <Text></Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

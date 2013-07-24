@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>SNM: Scalable Continuous Production of Aligned Carbon Nanotube and Nanoporous Membranes</AwardTitle>  
+    <AwardEffectiveDate>10/01/2012</AwardEffectiveDate>  
+    <AwardExpirationDate>09/30/2016</AwardExpirationDate>  
+    <AwardAmount>1198558</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>07030000</Code>  
+      <Directorate> 
+        <LongName>Directorate for Engineering</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Ben Schrag</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>Objective: The overall objective of this project is to develop scalable methods for fabricating vertically aligned carbon nanotube and nanoporous membranes for applications in analytical separation and water purification. This project will result in a reliable pilot process for the manufacture of such membranes utilizing large area mechanically robust films and the systematic characterization of the performance of these membranes. The potential impact of this research is transformative - the materials, methods and knowledge developed can enable a broad spectrum of technologies from water purification to energy generation and health care, with profound societal impacts.&lt;br/&gt;&lt;br/&gt;Intellectual Merits: The intellectual merits stem from the following: (1) Investigation of materials science and process engineering to enable the production of vertically aligned nanostructured membranes; (2) Rigorous experimental studies of nano-confined transport. This project will accomplish a long sought goal in the reliable production of large-area membranes with controlled, aligned nanoporosity. Characterization of the structure-property-processing relationships in these systems will constitute new and valuable practical manufacturing know-how.&lt;br/&gt;&lt;br/&gt;Broader Impacts: The broader impacts of the project are: (1) Integration of research and education through new curriculum development for undergraduate and graduate courses; (2) K-12 outreach activities in Science Fair and Science Pathways programs; (3) A focus on recruitment of under-represented groups; (4) Summer research opportunities for undergraduates and industrial internships for students. Additionally, there will be a strong technical impact due to the close collaboration with industry and the commitment to the development of an industrially relevant process.</AbstractNarration>  
+    <MinAmdLetterDate>09/17/2012</MinAmdLetterDate>  
+    <MaxAmdLetterDate>09/17/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1246804</AwardID>  
+    <Investigator> 
+      <FirstName>Olgica</FirstName>  
+      <LastName>Bakajin</LastName>  
+      <EmailAddress>olgica@poriferanano.com</EmailAddress>  
+      <StartDate>09/17/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Chinedum</FirstName>  
+      <LastName>Osuji</LastName>  
+      <EmailAddress>chinedum.osuji@yale.edu</EmailAddress>  
+      <StartDate>09/17/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Rajeswari</FirstName>  
+      <LastName>Kasi</LastName>  
+      <EmailAddress>kasi@ims.uconn.edu</EmailAddress>  
+      <StartDate>09/17/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Menachem</FirstName>  
+      <LastName>Elimelech</LastName>  
+      <EmailAddress>menachem.elimelech@yale.edu</EmailAddress>  
+      <StartDate>09/17/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>Yale University</Name>  
+      <CityName>New Haven</CityName>  
+      <ZipCode>065208047</ZipCode>  
+      <PhoneNumber>2037854689</PhoneNumber>  
+      <StreetAddress>P.O. Box 208047</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Connecticut</StateName>  
+      <StateCode>CT</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>1674</Code>
+      <Text>NANOSCALE: INTRDISCPL RESRCH T</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

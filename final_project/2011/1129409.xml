@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Scholarship for Service in Information Assurance program at The Pennsylvania State University</AwardTitle>
+    <AwardEffectiveDate>09/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2016</AwardExpirationDate>
+    <AwardAmount>1715742</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040000</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Victor P. Piotrowski</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The College of Information Science and Technology (IST) at Penn State is supporting three cohorts of undergraduate and graduate students in Security and Risk Analysis and related programs via a Federal Cyber Service: Scholarship for Service (SFS) in Information Assurance program.&lt;br/&gt;&lt;br/&gt;SFS students are enrolling in a strong interdisciplinary program in cybersecurity offered by the College of IST and are preparing to identify and solve security and privacy problems from technical, legal, ethical, policy, and business perspectives. The project is contributing to the mission of the SFS program by: (1) providing government organizations with cybersecurity professionals that possess the research, scientific, technological, analytic, and cultural competencies required to support the nation's long term security requirements; (2) providing professional development and academic mentorship to students to enhance their potential to support current and future National and Homeland Security requirements; (3) facilitating programs and protocols that enhance the opportunities for students and faculty to engage in cybersecurity education and research.&lt;br/&gt;&lt;br/&gt;The project is promoting academic and extracurricular cybersecurity programs at Penn State and its partners, in particular historically underrepresented groups. The principle investigators are women actively involved in recruiting other women in science, and they are recruiting women to the SFS program as well. The project's curriculum development and research initiatives are addressing government priorities and strengthening existing ties to federal partners as well as creating new partnerships to support the Nation's cyber defense.</AbstractNarration>
+    <MinAmdLetterDate>09/21/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/01/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1129409</AwardID>
+    <Investigator>
+      <FirstName>Jan</FirstName>
+      <LastName>Mahar</LastName>
+      <EmailAddress>jmahar@ist.psu.edu</EmailAddress>
+      <StartDate>09/21/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Anna</FirstName>
+      <LastName>Squicciarini</LastName>
+      <EmailAddress>asquicciarini@ist.psu.edu</EmailAddress>
+      <StartDate>09/21/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Pennsylvania State Univ University Park</Name>
+      <CityName>UNIVERSITY PARK</CityName>
+      <ZipCode>168027000</ZipCode>
+      <PhoneNumber>8148651372</PhoneNumber>
+      <StreetAddress>110 Technology Center Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1668</Code>
+      <Text>FED CYBER SERV: SCHLAR FOR SER</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

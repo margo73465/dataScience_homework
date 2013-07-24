@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>From Hot Jupiters to Super Earths with HATNet and HATSouth</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>513023</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03020000</Code>
+      <Directorate>
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Astronomical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maria Womack</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The research team will conduct extensive follow-up observations and analysis of several thousands of transiting planet candidates that are identified by the HATNet North and South telescope facilities. By using telescopes in both the northern and southern hemispheres, the researchers will be able to provide increased spatial and temporal coverage, which will aid in establishing the orbits of relatively long-period exoplaents. &lt;br/&gt;&lt;br/&gt;Transiting planets are those whose orbits cause them to pass in front of, and behind, the host star, which provides unique opportunities for characterization through subsequent photometric and spectroscopic observations. The project is expected to have broader impacts by significantly increasing the number of transiting exoplanets available to the community, and will involve students with special attention to under-represented groups in astronomy.</AbstractNarration>
+    <MinAmdLetterDate>08/30/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/14/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1108686</AwardID>
+    <Investigator>
+      <FirstName>Robert</FirstName>
+      <LastName>Noyes</LastName>
+      <EmailAddress>rnoyes@cfa.harvard.edu</EmailAddress>
+      <StartDate>08/30/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Gaspar</FirstName>
+      <LastName>Bakos</LastName>
+      <EmailAddress>gbakos@astro.princeton.edu</EmailAddress>
+      <StartDate>08/30/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Joel</FirstName>
+      <LastName>Hartman</LastName>
+      <EmailAddress>jhartman@astro.princeton.edu</EmailAddress>
+      <StartDate>08/30/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Kaloyan</FirstName>
+      <LastName>Penev</LastName>
+      <EmailAddress>kpenev@cfa.harvard.edu</EmailAddress>
+      <StartDate>08/30/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Princeton University</Name>
+      <CityName>Princeton</CityName>
+      <ZipCode>085400036</ZipCode>
+      <PhoneNumber>6092583090</PhoneNumber>
+      <StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1215</Code>
+      <Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

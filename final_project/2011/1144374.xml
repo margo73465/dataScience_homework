@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SAVI: A Max-Planck/Princeton Research Center for Plasma Physics</AwardTitle>
+    <AwardEffectiveDate>04/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2015</AwardExpirationDate>
+    <AwardAmount>725001</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03010000</Code>
+      <Directorate>
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Physics</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven J Gitomer</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project will establish a joint research center in fusion and astro-plasma physics involving two units within Princeton University (the Princeton Plasma Physics Laboratory, PPPL, and the Department of Astrophysical Sciences) and three institutes within the Max Planck Society (MPS) (the Institute of Plasma Physics at Garching and Greifswald, the Institute for Astrophysics at Garching, and the Institute for Solar System Research at Lindau).&lt;br/&gt;&lt;br/&gt;The major research goal of the center is to harness the expertise and resources of both the fusion and astrophysical plasma communities to tackle fundamental problems that impede progress in both communities. Such problems include understanding the process of magnetic reconnection, the generation and transport of energetic (superthermal) particles in collisionless shocks, and the generation and dissipation of turbulence in magnetized plasmas. Research conducted at the center will advance our understanding in many areas of theoretical plasma astrophysics, fusion physics, basic plasma experiments, and tokamaks.&lt;br/&gt;&lt;br/&gt;More broadly, the joint center will foster interdisciplinary collaboration between the plasma and astrophysics communities, both nationally and internationally. It will forge new collaborations between Universities, the national fusion labs, and international partners. It will leverage the tools and expertise developed independently in both communities (for example, laboratory experiments and sophisticated computer codes) in order to address fundamental research questions. It will provide international research collaboration opportunities for postdocs, graduate, and undergraduate students, and provide opportunities for students and teachers at high-schools, local, and regional institutions to engage in scientific inquiry in ways that enhance their understanding of science concepts and scientific ways of thinking through a well established outreach program at PPPL.&lt;br/&gt;&lt;br/&gt;This award has been designated as a Science Across Virtual Institutes (SAVI) award and is being co-funded by NSF's Office of International Science and Engineering.</AbstractNarration>
+    <MinAmdLetterDate>03/26/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/18/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1144374</AwardID>
+    <Investigator>
+      <FirstName>James</FirstName>
+      <LastName>Stone</LastName>
+      <EmailAddress>jstone@astro.princeton.edu</EmailAddress>
+      <StartDate>03/26/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stewart</FirstName>
+      <LastName>Prager</LastName>
+      <EmailAddress>sprager@pppl.gov</EmailAddress>
+      <StartDate>03/26/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Princeton University</Name>
+      <CityName>Princeton</CityName>
+      <ZipCode>085400036</ZipCode>
+      <PhoneNumber>6092583090</PhoneNumber>
+      <StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1242</Code>
+      <Text>PLASMA PHYSICS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8077</Code>
+      <Text>Science Across Virtual Instits</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1798</Code>
+      <Text/>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1253</Code>
+      <Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

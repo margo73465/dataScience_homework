@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>WORKSHOP ON ADVANCES IN SCATTERING TECHNIQUES: THEORY AND APPLICATIONS IN POLYMER PHYSICS</AwardTitle>
+    <AwardEffectiveDate>01/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2011</AwardExpirationDate>
+    <AwardAmount>5000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03070000</Code>
+      <Directorate>
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Materials Research</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Guebre X. Tessema</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Workshop Proposal.</AbstractNarration>
+    <MinAmdLetterDate>01/06/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/06/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1104646</AwardID>
+    <Investigator>
+      <FirstName>Dvora</FirstName>
+      <LastName>Perahia</LastName>
+      <EmailAddress>dperahi@clemson.edu</EmailAddress>
+      <StartDate>01/06/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Clemson University</Name>
+      <CityName>CLEMSON</CityName>
+      <ZipCode>296340001</ZipCode>
+      <PhoneNumber>8646562424</PhoneNumber>
+      <StreetAddress>300 BRACKETT HALL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>South Carolina</StateName>
+      <StateCode>SC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1773</Code>
+      <Text>POLYMERS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1743</Code>
+      <Text>NATIONAL FACILITIES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

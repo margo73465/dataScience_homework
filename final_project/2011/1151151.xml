@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Research and Education for a Solar Future: Fundamentals of Nanocrystal Photochemistry and Integration of Solar Energy Research into Physical Chemistry Curriculum</AwardTitle>
+    <AwardEffectiveDate>02/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2017</AwardExpirationDate>
+    <AwardAmount>360000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Bruce Johnson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Prof. Gordana Dukovic of the University of Colorado Boulder is supported through a CAREER award by the Supramolecular, Macromolecular and Nanochemistry program of the Chemistry Division to study the photochemistry of semiconductor nanocrystals. These materials have intriguing potential applications related to driving chemical reactions with visible light. However, the mechanisms of photochemical reactions mediated by semiconductor nanocrystals are poorly understood. The aim of this project is to correlate nanocrystal structural parameters with photochemical reaction mechanisms and provide a rational basis for the design of practical materials. Prof. Dukovic will also develop an educational program that integrates current research problems in solar energy harvesting into the curriculum for undergraduate Physical Chemistry (Quantum Mechanics and Spectroscopy).&lt;br/&gt;&lt;br/&gt;This project will improve the fundamental understanding of how nanocrystals can facilitate useful light-driven chemical reactions. The scientific discoveries will impact exciting potential applications of nanoscale semiconductors in technologies of broad interest (e.g., solar fuel generation, environmental remediation and disinfection). The educational program that integrates solar energy research with teaching of quantum mechanics and spectroscopy will be disseminated to the education community so that it can be replicated in college classrooms. The program will showcase researchers from diverse backgrounds, which will encourage participation of students from underrepresented groups in scientific careers.</AbstractNarration>
+    <MinAmdLetterDate>12/20/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/07/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1151151</AwardID>
+    <Investigator>
+      <FirstName>Gordana</FirstName>
+      <LastName>Dukovic</LastName>
+      <EmailAddress>gordana.dukovic@colorado.edu</EmailAddress>
+      <StartDate>12/20/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Colorado at Boulder</Name>
+      <CityName>Boulder</CityName>
+      <ZipCode>803090572</ZipCode>
+      <PhoneNumber>3034926221</PhoneNumber>
+      <StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>6885</Code>
+      <Text>Macromolec/Supramolec/Nano</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

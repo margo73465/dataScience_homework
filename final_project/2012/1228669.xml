@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>TWC SBES: Medium: Utility for Private Data Sharing in Social Science</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2016</AwardExpirationDate>
+    <AwardAmount>1066889</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Peter Muhlberger</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>One of the keys to scientific progress is the sharing of research data. When the data contain information about human subjects, the incentives not to share data are stronger. The biggest concern is privacy - specific information about individuals must be protected at all times. Recent advances in mathematical notions of privacy have raised the hope that the data can be properly sanitized and distributed to other research groups without revealing information about any individual. In order to make this effort worthwhile, the sanitized data must be useful for statistical analysis. This project addresses the research challenges in making the sanitized data useful. The first part of the project deals with the design of algorithms that produce useful sanitized data subject to privacy constraints. The second part of the project deals with the development of tools for the statistical analysis of sanitized data. Existing statistical routines are not designed for the types of complex noise patterns that are found in sanitized data; their naive use will often result in missed discoveries or false claims of statistical significance. The target application for this project is a social science dataset with geographic characteristics. The intellectual merit of this proposal is the development of a utility theory for algorithms that sanitize data and statistical tools for their analysis. The broader impact is the improved ability of research groups to share useful, but privacy-preserving, research data.</AbstractNarration>
+    <MinAmdLetterDate>08/20/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/20/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1228669</AwardID>
+    <Investigator>
+      <FirstName>Tse-Chuan</FirstName>
+      <LastName>Yang</LastName>
+      <EmailAddress>tuy111@psu.edu</EmailAddress>
+      <StartDate>08/20/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Daniel</FirstName>
+      <LastName>Kifer</LastName>
+      <EmailAddress>duk17@psu.edu</EmailAddress>
+      <StartDate>08/20/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stephen</FirstName>
+      <LastName>Matthews</LastName>
+      <EmailAddress>matthews@psu.edu</EmailAddress>
+      <StartDate>08/20/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Pennsylvania State Univ University Park</Name>
+      <CityName>UNIVERSITY PARK</CityName>
+      <ZipCode>168027000</ZipCode>
+      <PhoneNumber>8148651372</PhoneNumber>
+      <StreetAddress>110 Technology Center Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8060</Code>
+      <Text>Secure &amp;Trustworthy Cyberspace</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

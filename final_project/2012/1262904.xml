@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Summer Research Program in Materials Science and Nanotechnology</AwardTitle>
+    <AwardEffectiveDate>05/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2016</AwardExpirationDate>
+    <AwardAmount>160000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03070002</Code>
+      <Directorate>
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Materials Research</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Michael J. Scott</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>TECHNICAL SUMMARY: &lt;br/&gt;This Research Experiences for Undergraduate (REU) project supported by the NSF Division of Materials Research will recruit undergraduate students primarily from several cooperating Historically Black Colleges and Universities (HBCUs) for a summer research experience focused on materials and nanotechnology at the University of New Orleans. By recruiting at HBCUs, the program will maximize involvement of students that are 1) from underrepresented groups and 2) attending a primarily undergraduate institution with limited research exposure. Along with conducting research, students will participate in a variety of enrichment activities including: 1) interactive weekly training meetings to provide participants with basic research information, 2) meet the Faculty programs that provide student-faculty interaction in an informal setting, 3) ethics training, 4) end of summer poster presentations by participants (including prior training on preparation and presentation skills), and 5) travel awards to allow students to present their research results at a national scientific meeting. Participating teachers will work in research labs alongside undergraduate students and will participate in all enrichment programs. The teachers will also attend a graduate course that will train them to incorporate research concepts into their teaching practices. Following summer participation, each teacher will introduce into their classrooms at least one new teaching module focusing on nanoscale science or materials science. &lt;br/&gt;&lt;br/&gt;NON-TECHNICAL SUMMARY: &lt;br/&gt;Science and technology are major economic drivers in society, and nanomaterials is a burgeoning area of economic importance. This Research Experiences for Undergraduate (REU) site at the University of New Orleans will provide opportunities for students to become familiar with relevant career and educational paths so that they can enter the growing field of nanomaterials. The REU site will recruit from schools with large minority populations in an effort to help diversify the scientific work force. In addition to participating in cutting edge research, students will also partake in various enrichment activities to sharpen their scientific and presentation skills. The project will also involve high school science teachers, and this aspect will help extend the benefits of the project to even younger students by training the teachers how to engage their students in the study of nanomaterials. Overall, the project will help train American undergraduates to enter the field of nanomaterials and eventually contribute to US technical and economic strength.</AbstractNarration>
+    <MinAmdLetterDate>04/16/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/16/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1262904</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Wiley</LastName>
+      <EmailAddress>jwiley@uno.edu</EmailAddress>
+      <StartDate>04/16/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Tarr</LastName>
+      <EmailAddress>mtarr@uno.edu</EmailAddress>
+      <StartDate>04/16/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of New Orleans</Name>
+      <CityName>New Orleans</CityName>
+      <ZipCode>701480000</ZipCode>
+      <PhoneNumber>5042806836</PhoneNumber>
+      <StreetAddress>2000 Lakeshore Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Louisiana</StateName>
+      <StateCode>LA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7222</Code>
+      <Text>OFFICE OF SPECIAL PROGRAMS-DMR</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

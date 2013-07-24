@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RAPID: U.S. Instrumentation and Data Processing of a Large-Scale Experiment on Soil-Structure Interaction of Underground Structures on the E-Defense Shake Table in Miki, Japan</AwardTitle>
+    <AwardEffectiveDate>11/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2012</AwardExpirationDate>
+    <AwardAmount>48973</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Joy Pauschke</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The structural and geotechnical performance and post-earthquake functionality of underground systems in megacities are of great concern when located in an active seismic region. Typically, underground systems consist of combinations of tunnels, vertical shafts, pipeline systems, utility facilities, or parking/shopping centers coupled via flexible or rigid connections. The large-scale, soil-structure interaction experiment of underground structures under dynamic loading conducted on the E-Defense shake table in Miki, Japan, in February 2012 provides the unique opportunity to study local and global behavior of tunnel-shaft systems installed in a laminar soil container under a series of two-dimensional ground motions. The objective of this award is to provide supplemental instrumentation to be installed in and around the test specimen in the laminar soil container to measure engineering response quantities such as the vertical distribution of dynamic horizontal pressures, lateral cyclic displacements, axial and transverse strain distributions, and the interaction (forces and displacements) of adjacent systems.&lt;br/&gt;&lt;br/&gt;The measured data is intended to help validate and improve existing dynamic soil-structure interaction models and assist in filling the database via a unique large-scale test under various ground motions. Measurements will be provided through pressure sensors, strain gauges, linear variable differential transformer transducers, and accelerometers. Planning for this research and test specimen has been an active collaboration between Japanese and U.S. researchers during 2010 and 2011. The opportunity of bringing additional instrumentation for these tests to Japan will enable valuable lessons on successfully integrating and improving current instrumentation programs in the United States and will further strengthen research collaboration between Japan and the United States. The data from the supplemental instrumentation will be archived and broadly disseminated via the George E. Brown, Jr. Network for Earthquake Engineering (NEES) Project Warehouse (http://www.nees.org) and will be valuable for researchers and practicing engineers in the earthquake engineering community. This award is part of the National Earthquake Hazards Reduction Program (NEHRP).</AbstractNarration>
+    <MinAmdLetterDate>11/16/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/16/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1203212</AwardID>
+    <Investigator>
+      <FirstName>Anne</FirstName>
+      <LastName>Lemnitzer</LastName>
+      <EmailAddress>alemnitz@uci.edu</EmailAddress>
+      <StartDate>11/16/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Irvine</Name>
+      <CityName>IRVINE</CityName>
+      <ZipCode>926977600</ZipCode>
+      <PhoneNumber>9498244768</PhoneNumber>
+      <StreetAddress>5171 California Avenue, Ste 150</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7396</Code>
+      <Text>NEES RESEARCH</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

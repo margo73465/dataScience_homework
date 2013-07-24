@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Research Experiences for Undergraduates in Cybersecurity, Robotics, and Software Engineering</AwardTitle>
+    <AwardEffectiveDate>05/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2016</AwardExpirationDate>
+    <AwardAmount>119280</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>John Reppy</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This funding renews a highly-successful CISE Research Experiences for Undergraduates (REU) site at Texas Tech University. The site covers research topics in cybersecurity, robotics, and software engineering. The intellectual focus of the REU site is on addressing the underlying theoretical concepts in each research project and on developing a research proposal that can be reasonably conducted during the research period. Modeling uncertainty is a common theme within several of the research topics, with application areas that include the Smart Grid, surveillance, assistive care, reconnaissance, unmanned vehicles, climate forecasting, and irrigation management. Cross-discipline seminars will be held at the beginning of the summer to help the students get a smooth start on their research projects.&lt;br/&gt;&lt;br/&gt;This site will introduce 30 undergraduate students (over three years) to computing research, with a goal of directing more U.S. undergraduates into graduate computing programs. The site will aid the professional development of the participating students by providing weekly educational activities, such as how to write a research paper and pursue research in ethically sound ways.&lt;br/&gt;&lt;br/&gt;This site is co-funded by the Department of Defense in partnership with the NSF REU program.</AbstractNarration>
+    <MinAmdLetterDate>03/18/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/17/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1263183</AwardID>
+    <Investigator>
+      <FirstName>Joseph</FirstName>
+      <LastName>Urban</LastName>
+      <EmailAddress>joseph.urban@ttu.edu</EmailAddress>
+      <StartDate>03/18/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Susan</FirstName>
+      <LastName>Urban</LastName>
+      <EmailAddress>susan.urban@ttu.edu</EmailAddress>
+      <StartDate>03/18/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Mohan</FirstName>
+      <LastName>Sridharan</LastName>
+      <EmailAddress>mohan.sridharan@ttu.edu</EmailAddress>
+      <StartDate>06/17/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Yong</FirstName>
+      <LastName>Chen</LastName>
+      <EmailAddress>yong.chen@ttu.edu</EmailAddress>
+      <StartDate>06/17/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas Tech University</Name>
+      <CityName>Lubbock</CityName>
+      <ZipCode>794091035</ZipCode>
+      <PhoneNumber>8067423884</PhoneNumber>
+      <StreetAddress>349 Administration Bldg</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>L644</Code>
+      <Text/>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1139</Code>
+      <Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: Programming the Crowd</AwardTitle>
+    <AwardEffectiveDate>01/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2013</AwardExpirationDate>
+    <AwardAmount>150000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sol J. Greenspan</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>People can perform with ease many tasks that remain difficult or impossible for computers, including vision, motion planning, and natural language understanding. New "crowdsourcing" platforms like Amazon's Mechanical Turk make it easier than ever to harness human computational power by streamlining job posting, tracking, and payment for workers. However, the lack of automation means that crowdsourcing currently does not scale up. Low quality results must be filtered out, but checking human computations can be difficult. Economic incentives and anonymity expose crowdsourcing to fraud. Deciding how much to pay workers for particular tasks and how many workers to hire remains an art.&lt;br/&gt;&lt;br/&gt;This project introduces crowdprogramming, an approach that fully integrates human and digital computation. In crowdprogramming, humans are modeled as function calls in a standard programming language. This approach lets programmers focus on programming logic, while the crowdprogramming runtime system manages the critical tradeoffs between cost, time, and data quality. Crowdprogramming will dramatically lower the barriers to harnessing human computational power. It will enable a rich new class of applications that divide labor between digital and human computations, where computers and humans do the work each does best. It will enable complex orchestration of human computations, automatically control quality to maintain high accuracy and avoid fraud, and schedule tasks and adjust payments to maximize speed while staying within budget. By streamlining the incorporation of human labor into computation, crowdprogramming has the potential to add an entirely new job sector to the economy.</AbstractNarration>
+    <MinAmdLetterDate>08/17/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/17/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1144520</AwardID>
+    <Investigator>
+      <FirstName>Emery</FirstName>
+      <LastName>Berger</LastName>
+      <EmailAddress>emery@cs.umass.edu</EmailAddress>
+      <StartDate>08/17/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Massachusetts Amherst</Name>
+      <CityName>AMHERST</CityName>
+      <ZipCode>010039242</ZipCode>
+      <PhoneNumber>4135450698</PhoneNumber>
+      <StreetAddress>Research Administration Building</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7798</Code>
+      <Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

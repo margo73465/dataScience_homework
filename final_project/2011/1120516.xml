@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REPRODUCTIVE ISOLATION WITHIN SPECIES AS A CONSEQUENCE OF GEOGRAPHIC VARIATION IN COMMUNITY INTERACTIONS IN CHORUS FROGS</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>713069</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010207</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Samuel M. Scheiner</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Reproductive interactions constitute a potentially powerful force driving the evolution of mating behaviors, particularly when species interact with different combinations of other species across geography. Theory predicts that if the various species that constitute the local community vary across the range of a particular species, different populations of that species may experience pressure to evolve different mating behaviors. This diversifying selection may cause the rapid divergence of populations within a species as males evolve different signals across populations and females evolve preferences for local signals. The purpose of this project is to determine whether geographic variation in the species that constitute the local community has caused a particular frog species to evolve into multiple distinct species through direct selection on reproductive traits. This work will be accomplished by integrating behavioral experiments, genetic data, and ecological studies throughout the distribution of the study species.&lt;br/&gt;&lt;br/&gt;This research represents one of the first empirical tests of theoretical predictions that reproductive interactions among different species can cause diversification within a particular species. This phenomenon is a cryptic but potentially widespread mechanism of speciation. The project supports the training of a postdoctoral researcher, graduate students, and undergraduate students in a diversity of biological fields and technologies. Two important components of this work are a biology outreach program to home-schooled students and a public outreach program to monitor the health of local amphibian populations.</AbstractNarration>
+    <MinAmdLetterDate>06/13/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/15/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1120516</AwardID>
+    <Investigator>
+      <FirstName>Emily</FirstName>
+      <LastName>Lemmon</LastName>
+      <EmailAddress>chorusfrog@bio.fsu.edu</EmailAddress>
+      <StartDate>06/13/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Florida State University</Name>
+      <CityName>TALLAHASSEE</CityName>
+      <ZipCode>323064166</ZipCode>
+      <PhoneNumber>8506445260</PhoneNumber>
+      <StreetAddress>874 Traditions Way, 3rd Floor</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7377</Code>
+      <Text>EVOLUTIONARY ECOLOGY</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7275</Code>
+      <Text>CROSS-EF ACTIVITIES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

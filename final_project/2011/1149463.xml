@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SHF: Small: Collaborative Research: Correlation Mining and its Applications in Test Cost Reduction, Yield Enhancement, and Performance Calibration in Analog/RF Circuits</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2012</AwardExpirationDate>
+    <AwardAmount>78406</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sankar Basu</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project seeks to improve the quality and reliability of Analog/Radio-Frequency (RF) integrated electronic circuits (ICs) by developing an intelligent system for systematically exploring the wealth of information generated throughout their production lifetime and applying it towards improving the effectiveness of their design, manufacturing, and testing. While a large amount of data is made available through extensive design simulations and measurements on actual fabricated circuits, there currently exists a striking lack of formal methods to efficiently extract meaningful information from this data. The research activities that will be carried out through this project aim to fill this void by developing correlation mining methods based on the most recent developments in the fields of machine learning and data mining. Ultimately, using data from actual IC productions provided by industrial partners (i.e. IBM and Texas Instruments), the objective of this project is to demonstrate the impact that such correlations can have on reducing the cost of testing, enhancing the yield of the production and enabling post-manufacturing calibration of analog/RF circuits. &lt;br/&gt;&lt;br/&gt;This project will facilitate the cost-effective realization of robust electronic circuits and systems, thus enabling more reliable computing and promoting technology trustworthiness. The proposed research is complemented by educational and outreach activities, including the development of a new graduate-level course on applications of Machine-Learning in Computer Aided Design and Test and the involvement of graduate, undergraduate and high-school students in research with the groups of the Principal Investigators, the industrial partners, and the research laboratory of the international collaborator.</AbstractNarration>
+    <MinAmdLetterDate>08/30/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/30/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1149463</AwardID>
+    <Investigator>
+      <FirstName>Yiorgos</FirstName>
+      <LastName>Makris</LastName>
+      <EmailAddress>yiorgos.makris@utdallas.edu</EmailAddress>
+      <StartDate>08/30/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Texas at Dallas</Name>
+      <CityName>Richardson</CityName>
+      <ZipCode>750803021</ZipCode>
+      <PhoneNumber>9728832313</PhoneNumber>
+      <StreetAddress>800 W. Campbell Rd.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7945</Code>
+      <Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7798</Code>
+      <Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

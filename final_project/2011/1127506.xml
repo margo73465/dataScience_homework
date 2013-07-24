@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SDCI Sec: Transport-Layer Abusive Traffic Detection and Mitigation</AwardTitle>
+    <AwardEffectiveDate>08/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2013</AwardExpirationDate>
+    <AwardAmount>170512</AwardAmount>
+    <AwardInstrument>
+      <Value>Interagency Agreement</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Advanced CyberInfrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kevin L. Thompson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>09/15/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/06/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1127506</AwardID>
+    <Investigator>
+      <FirstName>Geoffrey</FirstName>
+      <LastName>Xie</LastName>
+      <EmailAddress>xie@nps.edu</EmailAddress>
+      <StartDate>09/15/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Robert</FirstName>
+      <LastName>Beverly</LastName>
+      <EmailAddress>rbeverly@nps.edu</EmailAddress>
+      <StartDate>09/15/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Naval Postgraduate School</Name>
+      <CityName>Monterey</CityName>
+      <ZipCode>939435000</ZipCode>
+      <PhoneNumber>8316562099</PhoneNumber>
+      <StreetAddress>1 University Circle</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8027</Code>
+      <Text>Cyber Secur - Cyberinfrastruc</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

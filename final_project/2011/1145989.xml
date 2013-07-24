@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Evolving hyperdiversity in phenotypic, ecological, and geographic networks: testing the taxon cycle and alternatives in Indo-Pacific Pheidole</AwardTitle>
+    <AwardEffectiveDate>02/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>01/31/2014</AwardExpirationDate>
+    <AwardAmount>385619</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010206</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Robb Brumfield</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>There are 429 ant genera known to science, but over 10% of ant species belong to the single 'hyperdiverse' genus Pheidole. Likewise, certain geographic areas (e.g. New Guinea) are diverse in species, phenotypes, and ecological strategies while others (e.g. Samoa) are depauperate. These patterns represent a puzzle for biologists. This project investigates the macroevolutionary dynamics of Pheidole lineages in the island systems of the Indo-Pacific. The approach uses DNA to reconstruct the evolutionary history of Pheidole, establishing when and where different species, phenotypes, and ecological strategies evolved. Using statistical and theoretical methods, this information will be used to test hypotheses for the forces shaping biodiversity.&lt;br/&gt;&lt;br/&gt;The project addresses a fundamental question of biology; whether the course of evolution and the biodiversity patterns we observe are inevitable or the outcomes of random chance. Addressing this question is a necessary step toward predicting the future dynamics of ecosystems in this time of unprecedented change. This is especially true for ants, one of the most ubiquitous and ecologically dominant animal groups on the planet. In the modern era, 'invasive' ants are now being transferred around the globe by humans and are causing damage to both economic interests and natural ecosystems. Understanding the historical dynamics of ant evolution will allow us to better predict the future evolutionary consequences of these modern colonizations.</AbstractNarration>
+    <MinAmdLetterDate>12/14/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/20/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1145989</AwardID>
+    <Investigator>
+      <FirstName>Evan</FirstName>
+      <LastName>Economo</LastName>
+      <EmailAddress>economo@umich.edu</EmailAddress>
+      <StartDate>12/14/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>L. Lacey</FirstName>
+      <LastName>Knowles</LastName>
+      <EmailAddress>knowlesl@umich.edu</EmailAddress>
+      <StartDate>12/14/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Michigan Ann Arbor</Name>
+      <CityName>Ann Arbor</CityName>
+      <ZipCode>481091271</ZipCode>
+      <PhoneNumber>7347647247</PhoneNumber>
+      <StreetAddress>3003 South State St.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1171</Code>
+      <Text>PHYLOGENETIC SYSTEMATICS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

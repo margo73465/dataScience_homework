@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>UNH UNBIASED: Leadership Development and Policy Change to Promote Institutional Transformation</AwardTitle>
+    <AwardEffectiveDate>10/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>671274</AwardAmount>
+    <AwardInstrument>
+      <Value>Cooperative Agreement</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Beth Mitchneck</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The University of New Hampshire (UNH) ADVANCE Institutional Transformation program, in keeping with the institution's mission of inclusive excellence, has as its overall goal to increase the number, retention and success of women faculty in the STEM disciplines. Based upon careful analysis of a University climate survey, several strategies are employed that include, but are not limited to strategic changes in recruitment and retention policies and practices; department chair professional development; formal mentoring policies; a wage equity analysis; and, flexible workplace policies. Coupled with these strategies is a rigorous social science study aimed at investigating the impact of gender equity institutional transformation on the representation and job satisfaction of women faculty at UNH. It is expected that results from this project and outcomes of the research study will seminally inform the current gender equity literature. Thus, this project has the potential to serve as a model for other institutions who identify comparable challenges in hiring, promoting, and, in general, advancing women STEM faculty.</AbstractNarration>
+    <MinAmdLetterDate>09/21/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/18/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1209189</AwardID>
+    <Investigator>
+      <FirstName>Karen</FirstName>
+      <LastName>Graham</LastName>
+      <EmailAddress>kjgraham@cisunix.unh.edu</EmailAddress>
+      <StartDate>09/21/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Aber</LastName>
+      <EmailAddress>john.aber@unh.edu</EmailAddress>
+      <StartDate>09/21/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Christine</FirstName>
+      <LastName>Shea</LastName>
+      <EmailAddress>Christine.Shea@unh.edu</EmailAddress>
+      <StartDate>09/21/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Julie</FirstName>
+      <LastName>Williams</LastName>
+      <EmailAddress>julie.williams@unh.edu</EmailAddress>
+      <StartDate>03/15/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Wanda</FirstName>
+      <LastName>Mitchell</LastName>
+      <EmailAddress>wanda.mitchell@unh.edu</EmailAddress>
+      <StartDate>09/21/2012</StartDate>
+      <EndDate>03/15/2013</EndDate>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of New Hampshire</Name>
+      <CityName>Durham</CityName>
+      <ZipCode>038243585</ZipCode>
+      <PhoneNumber>6038622001</PhoneNumber>
+      <StreetAddress>51 COLLEGE RD SERVICE BLDG 107</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Hampshire</StateName>
+      <StateCode>NH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1738</Code>
+      <Text>ADVANCE - INSTITUTIONAL TRANSF</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

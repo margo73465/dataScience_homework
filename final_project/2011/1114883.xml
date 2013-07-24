@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Collaborative NSF Sessions at the ASEE Annual Conference</AwardTitle>  
+    <AwardEffectiveDate>10/01/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>09/30/2015</AwardExpirationDate>  
+    <AwardAmount>99988</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>11040200</Code>  
+      <Directorate> 
+        <LongName>Directorate for Education &amp; Human Resources</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Undergraduate Education</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Don L. Millard</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>The project supports a highly visible dissemination outlet for grant holders in the ATE, CCLI, STEP, and TUES programs, and in various EEC programs. The investigators are organizing poster sessions at the American Society for Engineering Education's (ASEE) Annual Conference for 2012, 2013, 2014, and 2015. The project invites engineering grant award recipients in these programs to submit an abstract for inclusion in the poster session. Submissions are reviewed for quality and, if accepted, award recipients submit a paper that is published in the meeting proceedings and also present a poster in a special session at the meeting.</AbstractNarration>  
+    <MinAmdLetterDate>04/27/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>04/27/2011</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1114883</AwardID>  
+    <Investigator> 
+      <FirstName>Lawrence</FirstName>  
+      <LastName>Genalo</LastName>  
+      <EmailAddress>genalo@iastate.edu</EmailAddress>  
+      <StartDate>04/27/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>Iowa State University</Name>  
+      <CityName>AMES</CityName>  
+      <ZipCode>500112207</ZipCode>  
+      <PhoneNumber>5152945225</PhoneNumber>  
+      <StreetAddress>1138 Pearson</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Iowa</StateName>  
+      <StateCode>IA</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>7513</Code>
+      <Text>TUES-Type 1 Project</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

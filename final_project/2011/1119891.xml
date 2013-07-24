@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative research: Demographic heterogeneity at landscape scales in an emergent invasive species, Centaurea stoebe, in New York State</AwardTitle>
+    <AwardEffectiveDate>08/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2015</AwardExpirationDate>
+    <AwardAmount>445142</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010208</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Alan James Tessier</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Invasive non-native species create large economic losses and have many negative effects on native plants and animals. Spotted knapweed, Centaurea stoebe, is classified as a noxious invasive plant in the western U.S. Most studies of invasive species have been carried out on long-established invasions. However, the most important processes and factors responsible for successful invasions may occur during the early stages of an invasion. It is newly invasive and increasing rapidly in New York State, providing a rare opportunity to study an invasion in the early stages. This study will focus on how local, small populations of spotted knapweed are changing. The study will be conducted for a large number of small, isolated populations of spotted knapweed on Long Island and in Adirondack Park. The researchers will use measurements on the populations and their environments to construct mathematical models predicting how spotted knapweed populations may change over time. Using data on population sizes and on individual plant growth, survival and reproduction, the investigators will address three basic questions: (1) Are most of these small, isolated populations of spotted knapweed increasing at about the same rate, or are many populations actually growing slowly or shrinking, with just a few successful 'jackpot' populations growing very rapidly? (2) What properties of the environment are most likely to be responsible for population growth rates in each region? (3) What aspects of individual plant performance (for example, seed production vs. plant survival) are most important in determining whether a population is expanding quickly or not? These answers will also help scientists to understand and predict the progress of other invasions.&lt;br/&gt;&lt;br/&gt;Invasions are a special case of the expansion of a species into a new geographic range. This study will provide answers to some fundamental ecological questions about the early stages of range expansion, and also to predict how plant populations expand or contract as climates change. Because invasions are easiest to control in the early stages, the results of this study will be directly useful to land managers responsible for preventing, controlling, and managing invasive species.</AbstractNarration>
+    <MinAmdLetterDate>07/08/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/30/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1119891</AwardID>
+    <Investigator>
+      <FirstName>Catherine</FirstName>
+      <LastName>Graham</LastName>
+      <EmailAddress>catherine.graham@stonybrook.edu</EmailAddress>
+      <StartDate>07/08/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jessica</FirstName>
+      <LastName>Gurevitch</LastName>
+      <EmailAddress>jgurvtch@life.bio.sunysb.edu</EmailAddress>
+      <StartDate>07/08/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>SUNY at Stony Brook</Name>
+      <CityName>STONY BROOK</CityName>
+      <ZipCode>117943362</ZipCode>
+      <PhoneNumber>6316329949</PhoneNumber>
+      <StreetAddress>WEST 5510 FRK MEL LIB</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1182</Code>
+      <Text>POP &amp; COMMUNITY ECOL PROG</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7275</Code>
+      <Text>CROSS-EF ACTIVITIES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

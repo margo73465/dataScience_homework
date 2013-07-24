@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>New Catalysts for Electrochemical and Solar H2 Production</AwardTitle>
+    <AwardEffectiveDate>10/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2014</AwardExpirationDate>
+    <AwardAmount>567000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Carol Bessel</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Chemical Catalysis Program supports Professor Richard Glass and his coworkers at the University of Arizona for investigations designed to develop cheap and efficient catalysts for storing energy from electricity in chemical bonds, particularly for the production of H2 from water. Design of catalysts inspired by exceptionally efficient hydrogenase enzymes containing earth abundant Fe and Ni centers are the focus of this work. New basic science in which organic redox centers are coupled with diiron and bimetallic catalytic centers will be explored. Complementary synthetic, spectroscopic characterization, and electrochemical evaluation studies will be carried out. Understanding of intramolecular electron-transfer will result from the mechanistic approach taken in this work. The development of novel catalytic materials, coupled with an understanding of how these materials operate in the solar energy driven generation of hydrogen, will result from these studies. These new materials could have a major impact on alternative energy production, and on the supply of clean sources of energy.</AbstractNarration>
+    <MinAmdLetterDate>09/19/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/19/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1111718</AwardID>
+    <Investigator>
+      <FirstName>Richard</FirstName>
+      <LastName>Glass</LastName>
+      <EmailAddress>rglass@u.arizona.edu</EmailAddress>
+      <StartDate>09/19/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Dennis</FirstName>
+      <LastName>Lichtenberger</LastName>
+      <EmailAddress>dlichten@u.arizona.edu</EmailAddress>
+      <StartDate>09/19/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Dennis</FirstName>
+      <LastName>Evans</LastName>
+      <EmailAddress>evansd@purdue.edu</EmailAddress>
+      <StartDate>09/19/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Arizona</Name>
+      <CityName>TUCSON</CityName>
+      <ZipCode>857210001</ZipCode>
+      <PhoneNumber>5206266000</PhoneNumber>
+      <StreetAddress>888 N Euclid Ave</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>6884</Code>
+      <Text>Chemical Catalysis</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

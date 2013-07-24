@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Children's Use of Visual Information to Guide Selection and Timing of Motor Behaviors</AwardTitle>
+    <AwardEffectiveDate>06/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2016</AwardExpirationDate>
+    <AwardAmount>168583</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04040000</Code>
+      <Directorate>
+        <LongName>Directorate for Social, Behavioral &amp; Economic Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Behavioral and Cognitive Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Peter M. Vishton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Whether bicycling or walking across roads, children must make decisions about whether gaps are large enough for safe crossing. This involves assessing how long it will take for the oncoming car to arrive in relation to how long it will take for them to cross the street. Past work suggests that gap decisions and crossing movements are less well coordinated in children than in adults. Children and adults choose the same size gaps, but children typically end up with less time to spare between themselves and the oncoming car. Tightly linking gap decisions and crossing movements may be particularly difficult when children are just beginning walk or bicycle across roads on their own. If so, we might expect developmental patterns to repeat themselves at different ages for pedestrian and cyclist road crossing. However, little is known about how pedestrian and cyclist road-crossing skills are related to each other because there have been no direct comparisons of the two skills. This project examines children's use of visual information to guide selection and timing of motor behaviors. The investigators will use large-screen, immersive pedestrian and bicycling simulators to safely and systematically compare how 6- to 12-year-old children select gaps and time their movement when walking vs. bicycling across intersections.&lt;br/&gt;&lt;br/&gt;This work will provide new information about children's perceptual-motor development in the context of a real-world problem where the visual information (i.e., traffic) stays the same, but the mode of locomotion differs (i.e., walking vs. bicycling). This research will also contribute to our understanding of the risk factors for collisions involving children and motor vehicles, a significant public health problem. As such, this work will help lay the foundation for future intervention studies designed to reduce the risk of such collisions.</AbstractNarration>
+    <MinAmdLetterDate>05/22/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/22/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1251694</AwardID>
+    <Investigator>
+      <FirstName>Joseph</FirstName>
+      <LastName>Kearney</LastName>
+      <EmailAddress>joe-kearney@uiowa.edu</EmailAddress>
+      <StartDate>05/22/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>James</FirstName>
+      <LastName>Cremer</LastName>
+      <EmailAddress>cremer@cs.uiowa.edu</EmailAddress>
+      <StartDate>05/22/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jodie</FirstName>
+      <LastName>Plumert</LastName>
+      <EmailAddress>jodie-plumert@uiowa.edu</EmailAddress>
+      <StartDate>05/22/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Iowa</Name>
+      <CityName>IOWA CITY</CityName>
+      <ZipCode>522421320</ZipCode>
+      <PhoneNumber>3193352123</PhoneNumber>
+      <StreetAddress>2 GILMORE HALL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Iowa</StateName>
+      <StateCode>IA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1698</Code>
+      <Text>DEVELOP&amp; LEARNING SCIENCES/CRI</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

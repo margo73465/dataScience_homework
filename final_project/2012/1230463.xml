@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Game-enhanced Interactive Physical Science</AwardTitle>
+    <AwardEffectiveDate>09/15/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>525000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Industrial Innovation and Partnerships</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Glenn H. Larsen</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project will produce a set of engaging educational video games and associated teaching compendiums for middle school physical science classrooms that are optimized for students with diverse sets of learning needs, including those with learning disabilities and reading difficulties, via the application of the Universal Design for Learning (UDL) framework. Educational video games are the next generation of technology-enhanced instruction, with a growing body of research suggesting that game-based learning helps students think systemically, collaboratively, and creatively about Science, Technology, Engineering, and Math (STEM), while creating interest and motivation toward these topics that extends beyond the classroom. The company targets middle school since this is the critical period when students may begin to disengage from STEM topics. The process of developing the games will include iterative input from educators and students from around the country, from focus groups to classroom observation. The efficacy of the resulting set of games will be evaluated in a formal field test. This test will also provide evidence of the value of UDL in designing educational technology tools. The resulting product will be available for purchase via the SBIR?s web store and distributed through the nation?s leading educational websites.&lt;br/&gt;&lt;br/&gt;The broader impact/commercial potential of this project is the development of a cutting-edge solution to a urgent need for more effective tools for teaching STEM subjects. The President's Council of Advisors on Science and Technology recently noted (2010) that while the United States remains at the top in STEM research, we are on the cusp of a stark decline over the next generation. American students are falling behind other countries in both STEM-related abilities and desire to enter scientific careers. By creating a game-centered physical science curriculum, teachers gain the tools they need to make STEM-subjects accessible and appealing to all students, building the next-generation's STEM workforce, and promoting scientific literacy among all citizens. Using the UDL framework and commercial-level production values, GIPS represents an important innovative to engage and empower students, including those who are disenfranchised by traditional STEM education methods. Indeed, advocates for students with disabilities point to the potential of UDL-enhanced games to increase the accessibility of learning materials for all students. This game-based learning solution will encourage students to apply the kind of creative thinking and ingenuity to STEM that will be the driving force behind the next generation of American scientific innovation.</AbstractNarration>
+    <MinAmdLetterDate>09/05/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/13/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1230463</AwardID>
+    <Investigator>
+      <FirstName>Beth</FirstName>
+      <LastName>Quinn</LastName>
+      <EmailAddress>bethquinn5@gmail.com</EmailAddress>
+      <StartDate>05/13/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Beth</FirstName>
+      <LastName>Quinn</LastName>
+      <EmailAddress>bethquinn5@gmail.com</EmailAddress>
+      <StartDate>10/10/2012</StartDate>
+      <EndDate>04/24/2013</EndDate>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Daniel</FirstName>
+      <LastName>White</LastName>
+      <EmailAddress>white@filamentgames.com</EmailAddress>
+      <StartDate>04/24/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Filament Games, LLC</Name>
+      <CityName>Madison</CityName>
+      <ZipCode>537045387</ZipCode>
+      <PhoneNumber>6082510477</PhoneNumber>
+      <StreetAddress>2010 Eastwood Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Wisconsin</StateName>
+      <StateCode>WI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

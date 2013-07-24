@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Graduate Research Fellowship Program (GRFP)</AwardTitle>
+    <AwardEffectiveDate>07/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2016</AwardExpirationDate>
+    <AwardAmount>6227000</AwardAmount>
+    <AwardInstrument>
+      <Value>Fellowship</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11010101</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Graduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gisele T. Muller-Parker</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>07/22/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/28/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1144247</AwardID>
+    <Investigator>
+      <FirstName>Patricia</FirstName>
+      <LastName>Calarco</LastName>
+      <EmailAddress>graduate.dean@ucsf.edu</EmailAddress>
+      <StartDate>07/22/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-San Francisco</Name>
+      <CityName>SAN FRANCISCO</CityName>
+      <ZipCode>941430812</ZipCode>
+      <PhoneNumber>4154762977</PhoneNumber>
+      <StreetAddress>1855 Folsom St Ste 425</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7172</Code>
+      <Text>GRADUATE RESEARCH FELLOWSHIPS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

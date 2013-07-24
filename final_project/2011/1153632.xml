@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Foundational Photovoltaics - Funded by the Solar Energy Technologies Program (SETP)</AwardTitle>
+    <AwardEffectiveDate>09/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2014</AwardExpirationDate>
+    <AwardAmount>6000000</AwardAmount>
+    <AwardInstrument>
+      <Value>Interagency Agreement</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07010000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Electrical, Communications and Cyber Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>George Maracas</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>09/20/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/11/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1153632</AwardID>
+    <Institution>
+      <Name>Department of Energy</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>205850002</ZipCode>
+      <PhoneNumber/>
+      <StreetAddress>1000 Independence Avenue, SW</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7607</Code>
+      <Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

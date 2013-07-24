@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU: Robotics and Intelligent Systems</AwardTitle>
+    <AwardEffectiveDate>06/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2016</AwardExpirationDate>
+    <AwardAmount>118667</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maria Zemankova</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This site is co-funded by the Department of Defense in partnership with the NSF REU program. The Robotics and Intelligent Systems REU site provides high-quality robotics summer undergraduate research experiences, robust student-development programming, and provides gateways to graduate studies and career opportunities in robotics. Robotics technology is crucial to the national interest, both in terms of economic success and national security. Robotics is making critical contributions to advanced manufacturing, logistics, services, transportation, homeland security, defense, medicine, healthcare, space exploration, environmental monitoring, and agriculture. These developments place robotics at the forefront of the nation's interests. Further, robotics plays a vital role in science, technology, engineering and mathematics (STEM) education due to its multi-disciplinary nature, enveloping many different fields from computer science to psychology, as well as its unique ability to combine science and engineering with creative thinking in a hands-on, research-oriented environment. The sciences that comprise robotics provide a unique opportunity to immerse students in interdisciplinary research.&lt;br/&gt;&lt;br/&gt;The Robotics and Intelligent Systems REU site immerses a highly motivated and diverse cohort of students in a guided research process that enables them to experience the thrill of discovery and to adopt the role of scientist as one which is authentically theirs. The site inspires REU students to pursue careers in robotics and related fields and equip them with the skills and new knowledge to seize industry and graduate school opportunities. It extends access to high-quality robotics summer undergraduate research experiences that challenge students by the interdisciplinary nature of robotics, and the complexity of the research. All student projects are designed to fit into larger efforts with real impact in critical societal challenges such as quality of life, agriculture, mining, manufacturing, climate science, etc. Research results will be shared widely through poster sessions, public presentations, and web based resources.&lt;br/&gt;&lt;br/&gt;The REU Site web site (http://www.cs.cmu.edu/~summerscholar) provides additional information.</AbstractNarration>
+    <MinAmdLetterDate>03/27/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/27/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1263266</AwardID>
+    <Investigator>
+      <FirstName>Reid</FirstName>
+      <LastName>Simmons</LastName>
+      <EmailAddress>reids@cs.cmu.edu</EmailAddress>
+      <StartDate>03/27/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>James</FirstName>
+      <LastName>Bagnell</LastName>
+      <EmailAddress>dbagnell@ri.cmu.edu</EmailAddress>
+      <StartDate>03/27/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Carnegie-Mellon University</Name>
+      <CityName>PITTSBURGH</CityName>
+      <ZipCode>152133815</ZipCode>
+      <PhoneNumber>4122689527</PhoneNumber>
+      <StreetAddress>5000 Forbes Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1139</Code>
+      <Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>L644</Code>
+      <Text></Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

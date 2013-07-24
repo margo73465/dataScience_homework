@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>GOALI: Reliability Enhancement of Electric Drive Systems through Failure Prognosis and Fault Mitigation</AwardTitle>
+    <AwardEffectiveDate>08/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2014</AwardExpirationDate>
+    <AwardAmount>441192</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07010000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Electrical, Communications and Cyber Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Paul Werbos</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Research Objectives and Approaches:&lt;br/&gt;&lt;br/&gt;The objective of this research is to develop a systematic approach to fault mitigation for improving the reliability of electrical drives. The approach is to use data-driven and model-based fault diagnosis and prognosis algorithms to determine the remaining useful life of components and subsystems and to&lt;br/&gt;use this information for accurate and timely failure mitigation for increased system&lt;br/&gt;reliability.&lt;br/&gt;&lt;br/&gt;Intellectual Merit:&lt;br/&gt;&lt;br/&gt;The intellectual merit of this research is the development of signal processing and pattern recognition algorithms for compact and discriminative fault signature extraction from sensor measurements, the training and development of a stochastic prognosis model using these signatures and the development of accurate&lt;br/&gt;reliability models for electric drives incorporating this model.&lt;br/&gt;&lt;br/&gt;Broader Impacts:&lt;br/&gt;&lt;br/&gt;The methodologies developed in this research will have a broader impact on the design of electrical machines, power electronics and controllers that employ redundancies. This research will have a great effect on the US automotive industry as it migrates to hybrid and electric vehicles where reliability is an overriding concern. The results of the proposed project will be integrated into the curriculum in the form of design problems for the senior capstone class and teaching modules on built-in redundancies of drives and reliability to train the next generation of engineers who can work on hybrid and electric vehicles. The collaboration between industry and Michigan State University will offer summer internship opportunities for graduate students as well as providing a forum for the PIs to share their findings with the automotive engineering community.</AbstractNarration>
+    <MinAmdLetterDate>08/11/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/18/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1102316</AwardID>
+    <Investigator>
+      <FirstName>Kwang-keun</FirstName>
+      <LastName>Shin</LastName>
+      <EmailAddress>kwang-keun.shin@gm.com</EmailAddress>
+      <StartDate>08/11/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Elias</FirstName>
+      <LastName>Strangas</LastName>
+      <EmailAddress>strangas@egr.msu.edu</EmailAddress>
+      <StartDate>08/11/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Mutasim</FirstName>
+      <LastName>Salman</LastName>
+      <EmailAddress>mutasim.a.salman@gm.com</EmailAddress>
+      <StartDate>08/11/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Xidong</FirstName>
+      <LastName>Tang</LastName>
+      <EmailAddress>xidong.tang@gm.com</EmailAddress>
+      <StartDate>08/11/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Selin</FirstName>
+      <LastName>Aviyente</LastName>
+      <EmailAddress>aviyente@egr.msu.edu</EmailAddress>
+      <StartDate>08/11/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Michigan State University</Name>
+      <CityName>EAST LANSING</CityName>
+      <ZipCode>488241046</ZipCode>
+      <PhoneNumber>5173555040</PhoneNumber>
+      <StreetAddress>CONTRACT AND GRANT ADMINISTRATIO</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7607</Code>
+      <Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1504</Code>
+      <Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Retrospective Assessment of NSF's Support for Solid Freeform Fabrication</AwardTitle>
+    <AwardEffectiveDate>07/19/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/19/2013</AwardExpirationDate>
+    <AwardAmount>250000</AwardAmount>
+    <AwardInstrument>
+      <Value>BOA/Task Order</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03020000</Code>
+      <Directorate>
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Astronomical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Susan G. Hamm</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>07/19/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/12/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1250600</AwardID>
+    <Investigator>
+      <FirstName>Sallie</FirstName>
+      <LastName>Keller</LastName>
+      <EmailAddress>sallie@rice.edu</EmailAddress>
+      <StartDate>07/19/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Institute For Defense Analyses</Name>
+      <CityName>ALEXANDRIA</CityName>
+      <ZipCode>223111882</ZipCode>
+      <PhoneNumber>7038452130</PhoneNumber>
+      <StreetAddress>4850 MARK CENTER DRIVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Virginia</StateName>
+      <StateCode>VA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1468</Code>
+      <Text>Manufacturing Machines &amp; Equip</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

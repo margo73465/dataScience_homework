@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: Solving Large-Scale, High-Fidelity Workforce Planning Models that Recognize the Potential of Human Learning</AwardTitle>
+    <AwardEffectiveDate>07/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2016</AwardExpirationDate>
+    <AwardAmount>129623</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030009</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Edwin Romeijn</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The objective of this award is the development of optimization models, solution methods for those models, and insights that will enable organizations to perform workforce planning while recognizing the near and long-term effects of human learning. These optimization models will be based on descriptive, quantitative models of human learning. Developed by the organizational psychology community, the (nonlinear) shape of these learning models makes them a challenge to use in optimization. This work overcomes this challenge by encoding the nonlinear relationship between experience level and learning into a parameter that can be computed outside of the optimization. Having mitigated the challenge of the learning curves, the work will develop more realistic optimization models that recognize operational considerations, the potential of training and cross-training activities, and uncertainty in learning parameters and future tasks to be performed. The improved realism of our workforce planning models will bring new computational challenges, and the research will develop new solution methods. Computational experiments and analysis will be performed to derive insights into how learning impacts workforce planning and strategies for using these insights for maximum benefit.&lt;br/&gt;&lt;br/&gt;If successful, this research will produce tools that organizations can use to enhance their competitiveness in the near term and to position their workforce to take advantage of future opportunities. These tools will help organizations make decisions involving hiring and training activities, as well as understand the tradeoffs between hiring and training/re-training. Further, developed solution methods, particularly those related to linearizing nonlinear functions, are applicable in other contexts. The multi-disciplinary nature of the project, which if successful, will yield publications in both operations management/research and organizational psychology journals could bridge the gap between those disciplines.</AbstractNarration>
+    <MinAmdLetterDate>05/23/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/13/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1266010</AwardID>
+    <Investigator>
+      <FirstName>Mike</FirstName>
+      <LastName>Hewitt</LastName>
+      <EmailAddress>mrheie@rit.edu</EmailAddress>
+      <StartDate>05/23/2013</StartDate>
+      <EndDate>06/13/2013</EndDate>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Scott</FirstName>
+      <LastName>Grasman</LastName>
+      <EmailAddress>segeie@rit.edu</EmailAddress>
+      <StartDate>06/13/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Scott</FirstName>
+      <LastName>Grasman</LastName>
+      <EmailAddress>segeie@rit.edu</EmailAddress>
+      <StartDate>05/23/2013</StartDate>
+      <EndDate>06/13/2013</EndDate>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Rochester Institute of Tech</Name>
+      <CityName>ROCHESTER</CityName>
+      <ZipCode>146235603</ZipCode>
+      <PhoneNumber>5854757525</PhoneNumber>
+      <StreetAddress>1 LOMB MEMORIAL DR</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1786</Code>
+      <Text>MANFG ENTERPRISE SYSTEMS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>5514</Code>
+      <Text>OPERATIONS RESEARCH</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

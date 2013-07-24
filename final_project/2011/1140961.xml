@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>ENGAGE: Educating the Next Generation of Geoscientists</AwardTitle>
+    <AwardEffectiveDate>09/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>148898</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06000001</Code>
+      <Directorate>
+        <LongName>Directorate for Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Directorate for Geosciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jill L. Karsten</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Educating the Next Generation of Geoscientists (ENGAGE) project is providing opportunities for members of underrepresented groups, primarily Hispanic, to experience the geosciences in formal and informal settings via classroom, lecture, workshop, and field experiences. This collaboration between San Jose State University, San Francisco State University, and the U.S. Geological Survey in Menlo Park, is developing approaches that make use of the social and cultural values ethnic groups to support motivation, learning, and student confidence in their own abilities. Strategies to overcome academic, socio-cultural, and economic obstacles include guest lectures and workshops, family science nights, integration of laboratory and field research experiences in the undergraduate curriculum, paid summer internships and scholarships, and strengthening of pathways between lower level undergraduate programs in area community colleges and the upper level geoscience majors program at SJSU. These combined efforts serve the important goals of increasing the diversity of students pursuing and achieving undergraduate degrees in the geosciences and increasing Earth System Science literacy among communities that are underrepresented in the STEM fields.</AbstractNarration>
+    <MinAmdLetterDate>09/09/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/26/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1140961</AwardID>
+    <Investigator>
+      <FirstName>Richard</FirstName>
+      <LastName>Sedlock</LastName>
+      <EmailAddress>sedlock@geosun.sjsu.edu</EmailAddress>
+      <StartDate>09/09/2011</StartDate>
+      <EndDate>03/26/2013</EndDate>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jonathan</FirstName>
+      <LastName>Hendricks</LastName>
+      <EmailAddress>jonathan.hendricks@sjsu.edu</EmailAddress>
+      <StartDate>03/26/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Shondricka</FirstName>
+      <LastName>Burrell</LastName>
+      <EmailAddress>Shondricka.Burrell@sjsu.edu</EmailAddress>
+      <StartDate>09/09/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>San Jose State University Foundation</Name>
+      <CityName>San Jose</CityName>
+      <ZipCode>951125569</ZipCode>
+      <PhoneNumber>4089241400</PhoneNumber>
+      <StreetAddress>210 North Fourth Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7622</Code>
+      <Text>GEO-LSAMP LINKAGES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

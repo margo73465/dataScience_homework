@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RUI: Proteasomal Removal of Selenoproteins in Plants</AwardTitle>
+    <AwardEffectiveDate>06/15/2013</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2015</AwardExpirationDate>
+    <AwardAmount>112762</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08070600</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Molecular and Cellular Biosciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gregory W. Warr</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Animals (including humans) require selenium to make the amino acid selenocysteine, which is used in the synthesis of essential selenoproteins. In contrast, plants do not require selenium or make specific selenoproteins. Nonetheless, plants can accumulate selenium and play a vital role in providing most of the dietary selenium consumed by humans. However, an excess of selenium leads to toxicity in plants when selenocysteine is incorporated into proteins. Selenoproteins in plants are likely misfolded, and are therefore removed by the ubiquitin-proteasome pathway. The goal of this project is to understand the role of the proteasome and glutathione in removing selenoproteins and alleviating their toxicity in plants. &lt;br/&gt;&lt;br/&gt;Broader Impacts. The project will directly allow the training of ten undergraduate students, including students with disabilities, at Coastal Carolina University. This project will also facilitate the development of an upper-level laboratory-based class "Plant Adaptations to Stress" which will integrate this research with teaching.</AbstractNarration>
+    <MinAmdLetterDate>06/07/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/07/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1244009</AwardID>
+    <Investigator>
+      <FirstName>Douglas</FirstName>
+      <LastName>Van Hoewyk</LastName>
+      <EmailAddress>dougvh@coastal.edu</EmailAddress>
+      <StartDate>06/07/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Coastal Carolina University</Name>
+      <CityName>Conway</CityName>
+      <ZipCode>295286054</ZipCode>
+      <PhoneNumber>8433492918</PhoneNumber>
+      <StreetAddress>P O Box 261954</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>South Carolina</StateName>
+      <StateCode>SC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1114</Code>
+      <Text>Cellular Dynamics and Function</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

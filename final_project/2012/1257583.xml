@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Specification of V0v interneurons in the zebrafish spinal cord</AwardTitle>
+    <AwardEffectiveDate>06/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2016</AwardExpirationDate>
+    <AwardAmount>206000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090200</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>James O. Deshler</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>To understand how the central nervous system is made and functions, we must first investigate how different nerve cells are made in growing embryos and instructed to connect up into functional circuits. The spinal cord is a powerful system for studying these processes as it is simpler and more experimentally-tractable than the brain. This study will use newly-generated reagents and experimental approaches to identify the key regulatory genes that instruct cells to grow into a particular population of spinal cord nerve cells. These nerve cells are called V0v cells and they are part of the circuitry that regulates locomotion. The project will use genetic and molecular approaches to answer this question. The outcomes of this project will be widely relevant, as this type of nerve cell exists in all vertebrates and the mechanisms and genes identified are likely to play similar roles in other nerve cells. This project will significantly increase our understanding of fundamental biological processes such as how genes instruct cells to grow into particular types of cells and the roles of specific genes in the construction of neuronal circuitry. &lt;br/&gt;&lt;br/&gt;The Principal Investigator will incorporate this research into her university teaching and presentations to the general public. This research will also contribute to the diversification of the scientific workforce. Both women and under-represented minorities will actively participate in the project. The Principal Investigator will also continue to perform outreach to local city high schools and to develop teaching modules for both 9th/10th grade and advanced placement high school students. These activities aim to significantly impact the lives of traditionally under-served Syracuse high school students (all of these schools have been identified as Persistently Low Achieving by New York State) and enthuse under represented minority high school students about science and research.</AbstractNarration>
+    <MinAmdLetterDate>05/28/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/28/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1257583</AwardID>
+    <Investigator>
+      <FirstName>Katharine</FirstName>
+      <LastName>Lewis</LastName>
+      <EmailAddress>kelewi02@syr.edu</EmailAddress>
+      <StartDate>05/28/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Syracuse University</Name>
+      <CityName>SYRACUSE</CityName>
+      <ZipCode>132441200</ZipCode>
+      <PhoneNumber>3154432807</PhoneNumber>
+      <StreetAddress>OFFICE OF SPONSORED PROGRAMS</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7712</Code>
+      <Text>ORGANIZATION</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

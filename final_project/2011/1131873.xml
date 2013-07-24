@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Collaborative Research: GEM--Plasma Pressure and Magnetosphere-Ionosphere Mapping in the Substorm Growth Phase</AwardTitle>  
+    <AwardEffectiveDate>06/01/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>05/31/2013</AwardExpirationDate>  
+    <AwardAmount>49940</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Interagency Agreement</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>06020202</Code>  
+      <Directorate> 
+        <LongName>Directorate for Geosciences</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Atmospheric and Geospace Sciences</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Therese Moretto Jorgensen</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration/>  
+    <MinAmdLetterDate>06/06/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>09/11/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1131873</AwardID>  
+    <Investigator> 
+      <FirstName>Sorin</FirstName>  
+      <LastName>Zaharia</LastName>  
+      <EmailAddress>szaharia@lanl.gov</EmailAddress>  
+      <StartDate>06/06/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>Department of Energy Albuquerque Operations Office</Name>  
+      <CityName>Albuquerque</CityName>  
+      <ZipCode>871150000</ZipCode>  
+      <PhoneNumber/>  
+      <StreetAddress>PENNSYLVANIA &amp; H ST SE</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>New Mexico</StateName>  
+      <StateCode>NM</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>5750</Code>
+      <Text>MAGNETOSPHERIC PHYSICS</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Physics at UC Davis</AwardTitle>
+    <AwardEffectiveDate>04/15/2013</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2016</AwardExpirationDate>
+    <AwardAmount>156000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03010000</Code>
+      <Directorate>
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Physics</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Claudia M. Rankins</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award supports the renewal of the physics Research Experiences for Undergraduates (REU) site at the University of California - Davis. Each year, the REU program will provide eight to eleven students from around the United States an opportunity to participate in a ten-week summer research program. REU students work closely with a faculty mentor on a ten-week research project in the areas of condensed matter physics, biophysics, complex systems, nuclear physics, high energy physics, and astrophysics. In addition to their specific research project, the students learn from their interactions with faculty, graduate students, and other REU students, and from field trips showing physics-related work in diverse settings. At the end of the program, each participant gives a formal research presentation and presents a written project report that can lead to a peer reviewed publication. Research work is augmented by an array of educational and social activities. These activities allow students to put their research experience in a wider perspective, to build a network of professional contacts, and to develop professional skills in a scientific environment.</AbstractNarration>
+    <MinAmdLetterDate>04/15/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/15/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1263201</AwardID>
+    <Investigator>
+      <FirstName>Rena</FirstName>
+      <LastName>Zieve</LastName>
+      <EmailAddress>zieve@physics.ucdavis.edu</EmailAddress>
+      <StartDate>04/15/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Manuel</FirstName>
+      <LastName>Calderon de la Barca</LastName>
+      <EmailAddress>mcalderon@ucdavis.edu</EmailAddress>
+      <StartDate>04/15/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Davis</Name>
+      <CityName>Davis</CityName>
+      <ZipCode>956180000</ZipCode>
+      <PhoneNumber>5307547700</PhoneNumber>
+      <StreetAddress>OR/Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7222</Code>
+      <Text>OFFICE OF SPECIAL PROGRAMS-DMR</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

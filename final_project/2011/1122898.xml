@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: Development of Adaptable Web Modules to Stimulate Active Learning in Hydrology using Data and Model Simulations</AwardTitle>
+    <AwardEffectiveDate>10/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2015</AwardExpirationDate>
+    <AwardAmount>390569</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040200</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Susan Finger</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This collaborative project is creating case-based, web-enabled educational hydrology modules that encapsulate real-world hydrologic systems. This project expands on the results of a Type I CCLI pilot study and grounds the learning experiences using three large-scale natural hydrologic systems (Coastal Louisiana, the Florida Everglades, and the Great Salt Lake Basin in Utah).&lt;br/&gt;&lt;br/&gt;Intellectual Merit: The project leverages recent research advances on monitoring and modeling of complex natural systems and synthesizes them to develop a suite of flexible, adaptable web-based modules. The selected natural systems, each presenting some unique concepts and physical settings, contribute to redefining the teaching of hydrology by focusing on the dynamics of fundamental hydrologic processes and their connections to climate drivers, ecosystems' response, and water resources operational constraints. An extensive set of interactive learning modules is being built into the system and is supported by an instructional interface, an instructor's guide, and a set of implementation and adaptation procedures. The project adopts an improvement-focused evaluation model with an iterative design process which includes multiple iterations of design, implementation, evaluation, and redesign. &lt;br/&gt;&lt;br/&gt;Broader Impacts: To facilitate wide dissemination and adaptability, the system is being implemented using open source geospatial web technologies and community-based tools for data publication and analysis. The architecture of the system supports the addition of future hydrologic applications developed by other members of the hydrologic educational community. The participating institutions include a primarily African American institution, a college for women, a primarily Hispanic institution, and a minority high school. Through a design-based research approach, the project is identifying and implementing successful strategies so that the innovations can be scaled and adapted in diverse settings.</AbstractNarration>
+    <MinAmdLetterDate>09/20/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/20/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1122898</AwardID>
+    <Investigator>
+      <FirstName>Ehab</FirstName>
+      <LastName>Meselhe</LastName>
+      <EmailAddress>meselhe@louisiana.edu</EmailAddress>
+      <StartDate>09/20/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Douglas</FirstName>
+      <LastName>Williams</LastName>
+      <EmailAddress>dwilliams@louisiana.edu</EmailAddress>
+      <StartDate>09/20/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Emad</FirstName>
+      <LastName>Habib</LastName>
+      <EmailAddress>habib@louisiana.edu</EmailAddress>
+      <StartDate>09/20/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Yuxin</FirstName>
+      <LastName>Ma</LastName>
+      <EmailAddress>yxm4009@louisiana.edu</EmailAddress>
+      <StartDate>09/20/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Louisiana at Lafayette</Name>
+      <CityName>Lafayette</CityName>
+      <ZipCode>705032701</ZipCode>
+      <PhoneNumber>3374826203</PhoneNumber>
+      <StreetAddress>104 University Circle</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Louisiana</StateName>
+      <StateCode>LA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1536</Code>
+      <Text>S-STEM:SCHLR SCI TECH ENG&amp;MATH</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7511</Code>
+      <Text>TUES-Type 2 Project</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

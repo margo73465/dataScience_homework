@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Revising Science Education with Vision (REVISION)</AwardTitle>
+    <AwardEffectiveDate>08/15/2012</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2015</AwardExpirationDate>
+    <AwardAmount>291658</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jose Herrera</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Del Mar College (DMC), in collaboration with several other institutions including The School of Cinematic Arts at the University of Southern California (USC) is developing a Revising Science Education with Vision (REVISION) program. The program involves DMC students using more contemporary scientific skills and provides them more practice with methods that develop critical and independent thinking. Research components embedded within several laboratories based on the Vision and Change concept-based curriculum recommendations are being used to assist student in developing their troubleshooting and problem-solving activities. Additionally, with the help of the USC Annenberg Innovation Laboratory, the students will be provided with highly engaging curricular materials that use mobile device platforms to encourage participation, learning and faculty/student community building using technologically advanced tools.&lt;br/&gt;&lt;br/&gt;Intellectual merit: The program is preparing and training students to be critical thinkers and giving them practice using new and emerging skill sets associated with biotechnology, an important sector in the nation's economy. By providing research opportunities for students and professional development opportunities for faculty, the program is serving as the cornerstone of contemporary curricula and faculty development.&lt;br/&gt;&lt;br/&gt;Broader impacts: This proposal provides educational and training opportunities for students to be more competitive for biotechnology jobs and be better prepared to enter the workforce or post-baccalaureate degree programs. Because DMC is a Minority Serving Institution that serves many first-generation college students, additional and more diverse student populations and faculty are benefiting from the learning opportunities provided by the project.</AbstractNarration>
+    <MinAmdLetterDate>08/10/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/10/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1205059</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Hatherill</LastName>
+      <EmailAddress>jhatherill@delmar.edu</EmailAddress>
+      <StartDate>08/10/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Daiyuan</FirstName>
+      <LastName>Zhang</LastName>
+      <EmailAddress>dzhang@delmar.edu</EmailAddress>
+      <StartDate>08/10/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Texas Engineering Experiment Station</Name>
+      <CityName>College Station</CityName>
+      <ZipCode>778454645</ZipCode>
+      <PhoneNumber>9794587617</PhoneNumber>
+      <StreetAddress>TEES State Headquarters Bldg.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7412</Code>
+      <Text>ADVANCED TECH EDUCATION PROG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

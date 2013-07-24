@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Catalyzing New International Collaborations: The Use of Life Cycle Assessment (LCA) Methods in Geotechnical Engineering</AwardTitle>
+    <AwardEffectiveDate>08/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2013</AwardExpirationDate>
+    <AwardAmount>32130</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01060200</Code>
+      <Directorate>
+        <LongName>OFFICE OF THE DIRECTOR</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of International and Integrative Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Elizabeth Tran</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>OISE 11-32960&lt;br/&gt;This project supports a planning visit for the US PIs (Gallagher, Spatari, and Bartoli), three graduate students and one undergraduate student to meet with UK Professor Soga and his graduate students at the University of Cambridge. Both groups are pioneering the use of life cycle assessment (LCA) methods in geotechnical engineering. &lt;br/&gt;During this visit the PIs will catalyze collaboration and explore the synergies of developing, adapting, and integrating LCA methods in geotechnical decision making, particularly as they relate to geotechnical engineering?s role in designing resilient and sustainable infrastructure. A follow on 2011-2012 workshop is planned.&lt;br/&gt;Because geotechnics involves using relatively large amounts of materials, at times employs heavy construction equipment that consumes large amounts of fuel and at times changes the natural landscape, successful incorporation of LCA into geotechnical engineering could have a significant impact on the environmental sustainability of major projects.&lt;br/&gt;This project also integrates research and education by providing US students with the opportunity to discuss research that is at an early development state with their peers at a foreign university.</AbstractNarration>
+    <MinAmdLetterDate>08/10/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/10/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1132960</AwardID>
+    <Investigator>
+      <FirstName>Patricia</FirstName>
+      <LastName>Gallagher</LastName>
+      <EmailAddress>pmg@drexel.edu</EmailAddress>
+      <StartDate>08/10/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Sabrina</FirstName>
+      <LastName>Spatari</LastName>
+      <EmailAddress>ss3226@drexel.edu</EmailAddress>
+      <StartDate>08/10/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ivan</FirstName>
+      <LastName>Bartoli</LastName>
+      <EmailAddress>ib77@drexel.edu</EmailAddress>
+      <StartDate>08/10/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Drexel University</Name>
+      <CityName>Philadelphia</CityName>
+      <ZipCode>191042737</ZipCode>
+      <PhoneNumber>2158955849</PhoneNumber>
+      <StreetAddress>3201 Arch Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7299</Code>
+      <Text>Catalyzing New Intl Collab</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1636</Code>
+      <Text>GEOTECHNICAL ENGINEERING</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

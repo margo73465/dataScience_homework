@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: Innovative Methods for Computational Workflow Optimization</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>267342</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Advanced CyberInfrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Daniel Katz</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>We will explore in this EAGER proposal new methodologies for matching algorithms and code to architecture, allowing the efficient execution of large complex workflows using an ensemble of available computing architectures ranging from distributed memory multi-core supercomputers to graphic processing units and high performance data intensive computing devices. In this exploratory work we will focus on the matching of computer architectures to computational needs and a tuning of the methodology of Uncertainty Quantification to the architectures at hand. We will first instrument our suite of tools to record computational, memory, data and energy usage. This data will then be analyzed and modeled to create guidelines for prediction of effective and efficient usage. The facilities available to us at the University at Buffalo, Center for Computation Research (CCR) and on the xD framework of resource providers will allow us to conduct this investigation.</AbstractNarration>
+    <MinAmdLetterDate>08/19/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/19/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1118260</AwardID>
+    <Investigator>
+      <FirstName>Abani</FirstName>
+      <LastName>Patra</LastName>
+      <EmailAddress>abani@eng.buffalo.edu</EmailAddress>
+      <StartDate>08/19/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>SUNY at Buffalo</Name>
+      <CityName>Buffalo</CityName>
+      <ZipCode>142600000</ZipCode>
+      <PhoneNumber>7166452634</PhoneNumber>
+      <StreetAddress>402 Crofts Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8004</Code>
+      <Text>Software Institutes</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7798</Code>
+      <Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

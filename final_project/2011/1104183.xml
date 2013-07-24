@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Planning Grant for the Center for Technological Entrepreneurship: Entrepreneurial- and Soft-Skills across the STEM Spectrum</AwardTitle>
+    <AwardEffectiveDate>07/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2012</AwardExpirationDate>
+    <AwardAmount>69886</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gerhard L. Salinger</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>As STEM technicians are increasingly involved in multidisciplinary projects, team work, communications, interpersonal and business skills become crucial to successful employment. The Institute for Virtual Enterprise proposes to plan for a Center for Technological Entrepreneurship that provides the means to infuse entrepreneurship in technical courses. The Center develops, maintains and disseminates modular curricular materials based on successful practices at community colleges such as problem- and scenario- based learning and including those developed and tested in the Virtual Enterprise Institute. Students using these materials, particularly those from populations underrepresented in STEM technician fields and students from rural areas, are networked through a series of virtual activities. The modular materials are disseminated through a network of faculty demonstration sites mentored by the Center. The planning process includes two workshops with advisory partners from industry and academia that are to determine the state of entrepreneurial STEM education at community colleges and to investigate the need for and design of entrepreneurship student networks. The planning process also produces a catalog of the skills required by STEM entrepreneurs and validates the approach of developing modular materials to infuse these skills into existing STEM courses through the development of faculty demonstration sites.</AbstractNarration>
+    <MinAmdLetterDate>08/06/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/07/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1104183</AwardID>
+    <Investigator>
+      <FirstName>Christoph</FirstName>
+      <LastName>Winkler</LastName>
+      <EmailAddress>christoph.winkler@baruch.cuny.edu</EmailAddress>
+      <StartDate>02/07/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stuart</FirstName>
+      <LastName>Schulman</LastName>
+      <EmailAddress>sschulman@kbcc.cuny.edu</EmailAddress>
+      <StartDate>02/07/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Edgar</FirstName>
+      <LastName>Troudt</LastName>
+      <EmailAddress>etroudt@kbcc.cuny.edu</EmailAddress>
+      <StartDate>08/06/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Christoph</FirstName>
+      <LastName>Winkler</LastName>
+      <EmailAddress>christoph.winkler@baruch.cuny.edu</EmailAddress>
+      <StartDate>08/06/2011</StartDate>
+      <EndDate>12/19/2011</EndDate>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stuart</FirstName>
+      <LastName>Schulman</LastName>
+      <EmailAddress>sschulman@kbcc.cuny.edu</EmailAddress>
+      <StartDate>08/06/2011</StartDate>
+      <EndDate>12/19/2011</EndDate>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>CUNY Kingsborough Community College</Name>
+      <CityName>New York</CityName>
+      <ZipCode>100367296</ZipCode>
+      <PhoneNumber>7183684539</PhoneNumber>
+      <StreetAddress>230 W. 41st Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7412</Code>
+      <Text>ADVANCED TECH EDUCATION PROG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

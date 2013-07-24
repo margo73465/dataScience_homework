@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Graduate Research Fellowship Program</AwardTitle>  
+    <AwardEffectiveDate>12/01/2010</AwardEffectiveDate>  
+    <AwardExpirationDate>11/30/2015</AwardExpirationDate>  
+    <AwardAmount>475500</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Fellowship</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>11010101</Code>  
+      <Directorate> 
+        <LongName>Directorate for Education &amp; Human Resources</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Graduate Education</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Gisele T. Muller-Parker</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration/>  
+    <MinAmdLetterDate>12/06/2010</MinAmdLetterDate>  
+    <MaxAmdLetterDate>12/16/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1102691</AwardID>  
+    <Investigator> 
+      <FirstName>T.H.</FirstName>  
+      <LastName>Williams</LastName>  
+      <EmailAddress>lwilliams@ou.edu</EmailAddress>  
+      <StartDate>12/06/2010</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>University of Oklahoma Norman Campus</Name>  
+      <CityName>NORMAN</CityName>  
+      <ZipCode>730195300</ZipCode>  
+      <PhoneNumber>4053254757</PhoneNumber>  
+      <StreetAddress>201 David L. Boren Blvd.</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Oklahoma</StateName>  
+      <StateCode>OK</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>7172</Code>
+      <Text>GRADUATE RESEARCH FELLOWSHIPS</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

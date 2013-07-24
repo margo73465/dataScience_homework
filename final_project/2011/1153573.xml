@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: Collaborative Research: Towards Context-Aware Security and Privacy for RFID Systems</AwardTitle>
+    <AwardEffectiveDate>10/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2013</AwardExpirationDate>
+    <AwardAmount>109996</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Vijayalakshmi Atluri</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Despite their increasingly ubiquitous deployment, RFID systems are plagued with a wide variety of security and privacy threats. A large number of these threats arise due to the tag?s promiscuous response to any reader requests. This renders sensitive tag information easily subject to unauthorized reading. It also incites different forms of relay attacks whereby a colluding pair, by relaying information between a legitimate tag and reader, can successfully impersonate the legitimate tag without actually possessing it.&lt;br/&gt;&lt;br/&gt;This research explores novel context-aware security and privacy mechanisms by leveraging the newly-equipped sensing capabilities on the next generation (passive) RFID tags. The goal is to provide improved protection against unauthorized reading and relay attacks without undermining the usability and efficiency offered by the RFID systems. The project also includes a feasibility study of the proposed mechanisms in terms of both economical and power constraints, and a systematic analysis of possible (new) sensor-centric attacks. The overall proposed activities range from system design and analysis to implementation and performance measurements. &lt;br/&gt;&lt;br/&gt;More broadly, this exploratory work intends to arrive at a better understanding of the feasibility of utilizing parameters derived from the physical world to solve security and privacy issues of the cyber systems. In terms of educational activities, new security courses focusing on resource-constrained devices and lightweight cryptographic tools will be developed.</AbstractNarration>
+    <MinAmdLetterDate>09/07/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/07/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1153573</AwardID>
+    <Investigator>
+      <FirstName>Di</FirstName>
+      <LastName>Ma</LastName>
+      <EmailAddress>dmadma@umich.edu</EmailAddress>
+      <StartDate>09/07/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Michigan Ann Arbor</Name>
+      <CityName>Ann Arbor</CityName>
+      <ZipCode>481091271</ZipCode>
+      <PhoneNumber>7347647247</PhoneNumber>
+      <StreetAddress>3003 South State St.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7795</Code>
+      <Text>TRUSTWORTHY COMPUTING</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

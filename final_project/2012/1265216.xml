@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Measuring the Effects of Precollege Engineering on the Experience of Engineering Students</AwardTitle>
+    <AwardEffectiveDate>03/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2016</AwardExpirationDate>
+    <AwardAmount>271081</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07050005</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Engineering Education and Centers</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Richard N. Smith</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This engineering education research project seeks to explore how pre-college engineering programs affect those students who enroll into undergraduate engineering degree programs. The project will use both qualitative and quantitative methods, with the results from the qualitative component used to develop a survey instrument. This instrument then can be used to understand the impact such programs have at a national scale.&lt;br/&gt;&lt;br/&gt;The broader significance and importance of this project will help engineering administrators, instructors and designers of undergraduate and pre-college curricula adapt to students' changing needs and abilities. Examining the demographics of the participants will demonstrate who has access to or is taking advantage of pre-college engineering programs, and if the effects of pre-college engineering vary across different demographic groups. This project overlaps with NSF's strategic goals of transforming the frontiers by making investments that lead to emerging new fields of engineering, or shifting existing fields. Additionally NSF's goal of innovating for society is enabled by creating results and research that are useful for society by informing educational policy and practices.</AbstractNarration>
+    <MinAmdLetterDate>12/19/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/19/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1265216</AwardID>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Ohland</LastName>
+      <EmailAddress>ohland@purdue.edu</EmailAddress>
+      <StartDate>12/19/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Monica</FirstName>
+      <LastName>Cardella</LastName>
+      <EmailAddress>mcardell@purdue.edu</EmailAddress>
+      <StartDate>12/19/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Purdue University</Name>
+      <CityName>West Lafayette</CityName>
+      <ZipCode>479072114</ZipCode>
+      <PhoneNumber>7654941055</PhoneNumber>
+      <StreetAddress>Young Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Indiana</StateName>
+      <StateCode>IN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1340</Code>
+      <Text>ENGINEERING EDUCATION</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

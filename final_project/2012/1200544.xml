@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>GOALI: Synthesis, Composition and Thermal Properties of Metal Nano-Particles for Printable Conductive Media</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>
+    <AwardAmount>450000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030004</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Khershed Cooper</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This grant provides funding for an academic/industrial collaboration to optimize the heterogeneous structure, size and composition of silver and silver-metal composite nanoparticles for photovoltaic manufacture. The project will include synthesis of homogenous alloy and core-shell composite nanoparticles by solution phase and electrodeposition methods as well as structural and functional characterization of nanoparticles using combined techniques, including aberration-corrected Scanning Transmission Electronic Microscopy and synchrotron-based Extended X?ray Absorption Fine Structure (EXAFS) spectroscopy. These particles will be used to prepare screen-printable conductive inks. The inks will be optimized for printing onto silicon wafers and formation of conductive layers by low-temperature fusing. The nanoparticle synthesis technology will be scaled-up and optimized for efficient large scale production in a continuous stirred tank reactor.&lt;br/&gt;&lt;br/&gt;Metal contacts are essential components of silicon photovoltaic cells, and their formation is a major efficiency-limiting and cost-determining step in solar cell processing. Screen printing has been adopted as a rapid, cost-effective, and simple technique to print silver contacts in large-volume photovoltaic cell production. However, the thin film fired or frit silver inks used in current processes contain large silver powders, which require high-temperature fusion to produce a conductive layer, resulting in a loss of efficiency. The proposed nanoparticles inks will enable lower-temperature fusing processes, better uniformity, and higher conductivity than the current powders used in frit ink. This project will be carried out in partnership with Conductive Compounds LLC, a manufacturer of conductive materials including screen printable conductive inks. If successful the research will result in cost-effective nanoparticle-based inks. The project outcome will directly support the nation?s effort to diversify its energy supply and help to reduce the global carbon footprint. Curricula based on the research results will be produced and internships will be provided for students at Conductive Compounds.</AbstractNarration>
+    <MinAmdLetterDate>08/06/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/06/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1200544</AwardID>
+    <Investigator>
+      <FirstName>Dale</FirstName>
+      <LastName>Barkey</LastName>
+      <EmailAddress>dpb@kepler.unh.edu</EmailAddress>
+      <StartDate>08/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Xiaowei</FirstName>
+      <LastName>Teng</LastName>
+      <EmailAddress>xw.teng@unh.edu</EmailAddress>
+      <StartDate>08/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Don</FirstName>
+      <LastName>Banfield</LastName>
+      <EmailAddress>donb@conductivecompounds.com</EmailAddress>
+      <StartDate>08/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of New Hampshire</Name>
+      <CityName>Durham</CityName>
+      <ZipCode>038243585</ZipCode>
+      <PhoneNumber>6038622001</PhoneNumber>
+      <StreetAddress>51 COLLEGE RD SERVICE BLDG 107</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Hampshire</StateName>
+      <StateCode>NH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1504</Code>
+      <Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1788</Code>
+      <Text>NANOMANUFACTURING</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Southwest Center for Microsystem Education (SCME)</AwardTitle>  
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>  
+    <AwardExpirationDate>08/31/2016</AwardExpirationDate>  
+    <AwardAmount>792943</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Continuing grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>11040100</Code>  
+      <Directorate> 
+        <LongName>Directorate for Education &amp; Human Resources</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Undergraduate Education</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Gerhard L. Salinger</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>ABSTRACT&lt;br/&gt;&lt;br/&gt;The Southwest Center for Microsystems Education (SCME) creates and promulgates microsystems educational materials for students and professional development opportunities for educators. The goal is to improve the educational capacity of the nation to produce technicians skilled in supporting microsystems research, design and commercialization, while increasing awareness of microsystems career opportunities by diverse student populations. The Center generates educational materials and produces and disseminates hands-on kits that bring elements of the clean-room fabrication experience into the classroom. The Center provides clean-room-based professional development workshops for high school, community college and four-year college faculty and assists transfer of SCME MEMS-based short courses to other venues. SCME is a strong consortium of institutions catering to the needs of their local area with partner satellites or hubs at ND State College of Science, University of South Florida, Ivy Tech Northeast, Washington Engineering Institute, Albuquerque Public Schools, Central New Mexico CC and Southwest Indian Polytechnic Institute. SCME also collaborates with other ATE centers focused on nanotechnology, microsystems, semiconductor technology and biotechnology. More emphasis is placed on expanding SCME's reach by determining localities that have companies that require MEMS technicians and working with nearby community colleges to develop educational programs to support them. &lt;br/&gt;&lt;br/&gt;The value of the Center is evaluated using a five cycle process: evaluation of the activities and interactions themselves; evaluation of the outcomes of the activities in terms of development of human and social capital and resources; evaluation of the changes in faculty practice and impacts on students; evaluation of the impact on the technician workforce in microsystems design, manufacturing and commercialization; and evaluation of the changes in the Center's ability to achieve what matters to it and other stakeholders. &lt;br/&gt;&lt;br/&gt;The change in strategy moves the Center from a University of New Mexico-centered delivery strategy for faculty development to a distributed delivery system with the development of "hubs" at other educational institutions to deliver workshops and support the education of technicians for the MEMS industry in their geographic region.</AbstractNarration>  
+    <MinAmdLetterDate>08/10/2012</MinAmdLetterDate>  
+    <MaxAmdLetterDate>08/10/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1205138</AwardID>  
+    <Investigator> 
+      <FirstName>John</FirstName>  
+      <LastName>Wood</LastName>  
+      <EmailAddress>jw@unm.edu</EmailAddress>  
+      <StartDate>08/10/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Andrew</FirstName>  
+      <LastName>Hoff</LastName>  
+      <EmailAddress>hoff@usf.edu</EmailAddress>  
+      <StartDate>08/10/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Matthias</FirstName>  
+      <LastName>Pleil</LastName>  
+      <EmailAddress>mpleil@unm.edu</EmailAddress>  
+      <StartDate>08/10/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Carrie</FirstName>  
+      <LastName>Leopold</LastName>  
+      <EmailAddress>carrie.leopold@ndscs.edu</EmailAddress>  
+      <StartDate>08/10/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Abdalla</FirstName>  
+      <LastName>Hazaimeh</LastName>  
+      <EmailAddress>ahazaimeh@ivytech.edu</EmailAddress>  
+      <StartDate>08/10/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>University of New Mexico</Name>  
+      <CityName>ALBUQUERQUE</CityName>  
+      <ZipCode>871310001</ZipCode>  
+      <PhoneNumber>5052774186</PhoneNumber>  
+      <StreetAddress>1700 Lomas Blvd. NE, Suite 2200</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>New Mexico</StateName>  
+      <StateCode>NM</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>7412</Code>
+      <Text>ADVANCED TECH EDUCATION PROG</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

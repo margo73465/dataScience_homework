@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>TWC: Small: Automatic Detection of Protocol Manipulation Attacks in Large Scale Distributed Systems Implementations</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>
+    <AwardAmount>250000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jeremy Epstein</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The main research focus of this proposal is to create a platform that allows to automatically find attacks in unmodified binaries of distributed systems. The attacks are conducted through message manipulation by insider attackers and impact primarily performance and availability. The platform combines existent open-source virtualization environments such as KVM, and network simulation and emulation tools such as NS3, to create a realistic environment in which target systems will run. The platform is general, scalable, and can be used for testing a large variety of distributed systems such as intrusion-tolerant and peer-to-peer systems.&lt;br/&gt;&lt;br/&gt;The platform will improve the trust that distributed systems work according to their intended specifications in spite of faults, misconfigurations, or attacks.&lt;br/&gt;The platform can serve as a tool for system developers from industry, government labs, and academia to test their systems. In addition, it can be used for programing exercises for distributed systems and computer security courses at both undergraduate and graduate level.</AbstractNarration>
+    <MinAmdLetterDate>08/10/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/10/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1223834</AwardID>
+    <Investigator>
+      <FirstName>Cristina</FirstName>
+      <LastName>Nita-Rotaru</LastName>
+      <EmailAddress>crisn@cs.purdue.edu</EmailAddress>
+      <StartDate>08/10/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Charles</FirstName>
+      <LastName>Killian</LastName>
+      <EmailAddress>ckillian@cs.purdue.edu</EmailAddress>
+      <StartDate>08/10/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Purdue University</Name>
+      <CityName>West Lafayette</CityName>
+      <ZipCode>479072114</ZipCode>
+      <PhoneNumber>7654941055</PhoneNumber>
+      <StreetAddress>Young Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Indiana</StateName>
+      <StateCode>IN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8060</Code>
+      <Text>Secure &amp;Trustworthy Cyberspace</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

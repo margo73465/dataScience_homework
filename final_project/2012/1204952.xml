@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Developing Comprehensive Career Pathways and Programs in Coal Mining</AwardTitle>
+    <AwardEffectiveDate>03/15/2013</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2016</AwardExpirationDate>
+    <AwardAmount>299280</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maura Borrego</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project is developing unique and comprehensive career pathways that provide students with the academic and technical skills needed to work in the mining industry by blending credit and non-credit resources, improving the education of science and engineering technicians, and providing students with a career context for both STEM and mining-specific courses. It is bringing together the public school system (K-12), post-secondary community colleges and universities, workforce development, and industry to create comprehensive academic programs with clear articulated career pathways and enhanced instruction. Four academic programs, Electrical Engineering Technology, Mining Engineering, Mine Management, and Mine Technology, are undergoing development, redefinition, and implementation to become web- and media-enriched programs that include new technologies and meet industry needs. Courses in the programs have specific course articulations including both secondary education and post-secondary education and enhanced instruction. Faculty are receiving professional development training in instructional design and technology-mediated delivery of courses to facilitate the implementation of the career pathways and strengthen STEM education within the programs. The curriculum, lessons learned, and other material developed by the project, have the potential to impact technical education at K-12 and other postsecondary institutions in states across the nation in which coal mining occurs.</AbstractNarration>
+    <MinAmdLetterDate>03/13/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/13/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1204952</AwardID>
+    <Investigator>
+      <FirstName>William</FirstName>
+      <LastName>Alderman</LastName>
+      <EmailAddress>billa@southern.wvnet.edu</EmailAddress>
+      <StartDate>03/13/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Pamela</FirstName>
+      <LastName>Alderman</LastName>
+      <EmailAddress>Pamela.Alderman@southernwv.edu</EmailAddress>
+      <StartDate>03/13/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Southern West Virginia Community College</Name>
+      <CityName>Mount Gay</CityName>
+      <ZipCode>256372900</ZipCode>
+      <PhoneNumber>3048967439</PhoneNumber>
+      <StreetAddress>Dempsey Branch Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>West Virginia</StateName>
+      <StateCode>WV</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7412</Code>
+      <Text>ADVANCED TECH EDUCATION PROG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

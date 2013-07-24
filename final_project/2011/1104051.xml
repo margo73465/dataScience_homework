@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Sustainable Agriculture Technology Program</AwardTitle>  
+    <AwardEffectiveDate>06/01/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>05/31/2014</AwardExpirationDate>  
+    <AwardAmount>200000</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>11040100</Code>  
+      <Directorate> 
+        <LongName>Directorate for Education &amp; Human Resources</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Undergraduate Education</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Herbert H. Richtol</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>Triton College collaborates with its high school, university and business partners to create a pathway of study leading to skilled jobs in agricultural technology and sustainable agricultural practices with emphasis on supporting an ecological and sustainable balance between production agriculture and urban food systems. This pathway results in a seamless interdisciplinary curriculum for high school students to transition to community colleges and to four-year university programs with the implementation of an Associate of Applied Science in Sustainable Agricultural Technology. This degree creates a pipeline of students entering the emerging field of sustainable agricultural technology and also expands our urban regional sustainable agricultural economy. The degree also provides students with a strong foundation in STEM career and technical education focused on transferring knowledge and skills related to sustainability, food science, horticulture, and related areas in the "green-collar" segment of the national economy. The project incorporates State of Illinois' Agriculture Education curriculum for high school workshops showcasing real-world examples of sustainable agriculture in urban areas. Formative evaluation provides the assessment of the new career pathway, curricular content, planning and implementation of the project activities.</AbstractNarration>  
+    <MinAmdLetterDate>06/15/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>06/15/2011</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1104051</AwardID>  
+    <Investigator> 
+      <FirstName>John</FirstName>  
+      <LastName>Bushman</LastName>  
+      <EmailAddress>jbushman@triton.edu</EmailAddress>  
+      <StartDate>06/15/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Antoinette</FirstName>  
+      <LastName>Baldin</LastName>  
+      <EmailAddress>tonettebaldin@gmail.com</EmailAddress>  
+      <StartDate>06/15/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Sarah</FirstName>  
+      <LastName>Song</LastName>  
+      <EmailAddress>ssong@agriculturaleducation.org</EmailAddress>  
+      <StartDate>06/15/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>Triton College</Name>  
+      <CityName>River Grove</CityName>  
+      <ZipCode>601711907</ZipCode>  
+      <PhoneNumber>7084560300</PhoneNumber>  
+      <StreetAddress>2000 5th Avenue</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Illinois</StateName>  
+      <StateCode>IL</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>7412</Code>
+      <Text>ADVANCED TECH EDUCATION PROG</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: DNA-templated Assembly of Nanoscale Circuit Interconnects</AwardTitle>
+    <AwardEffectiveDate>01/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2017</AwardExpirationDate>
+    <AwardAmount>400000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030004</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Khershed Cooper</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The goal of this Faculty Early Career Development (CAREER) Program grant is to develop a novel, robust method of assembling interconnects between nanoscale device terminals. Nanoscale circuits could allow for faster computers, devices to manipulate light at the nanoscale and exquisitely sensitive molecular detection systems. However, a major current obstacle to the further development of these devices is the difficulty of manufacturing them. In particular, while it is possible to build an increasing number of individual nanoscale devices, assembling and properly placing interconnects (wires) that provide inputs to and channel outputs from these devices remains a major challenge. The project's process, point-to-point interconnect assembly, uses chemical markers attached to device terminals to direct the assembly of an interconnecting filament. The chemical markers and filaments will be constructed from synthetic DNA, which can be used as a template for the assembly of a variety of functional interconnects. The DNA-based interconnect process will be characterized dynamically and yield will be optimized for assembly of interconnects between actual nanoscale device terminals.&lt;br/&gt;&lt;br/&gt;This research will be integrated with a program for education and outreach focused on biologically inspired methods for nanoscale fabrication. Undergraduate and graduate level courses will be developed in which students will learn fundamental programming and statistical analysis skills that can be applied across fields. A graduate courses will help engineering students understand biological information processing with the goal of developing biologically inspired fabrication methods. Finally, high school students will participate in research projects in the laboratory and lectures on self-assembly and biologically inspired fabrication will be presented to middle and high school students from Baltimore who participate in robotics competitions.</AbstractNarration>
+    <MinAmdLetterDate>12/20/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/20/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1253876</AwardID>
+    <Investigator>
+      <FirstName>Rebecca</FirstName>
+      <LastName>Schulman</LastName>
+      <EmailAddress>rschulm3@jhu.edu</EmailAddress>
+      <StartDate>12/20/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Johns Hopkins University</Name>
+      <CityName>Baltimore</CityName>
+      <ZipCode>212182608</ZipCode>
+      <PhoneNumber>4105168668</PhoneNumber>
+      <StreetAddress>3400 N CHARLES ST</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maryland</StateName>
+      <StateCode>MD</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1788</Code>
+      <Text>NANOMANUFACTURING</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>PIRE: Low Energy Options for Making Water from Wastewater</AwardTitle>
+    <AwardEffectiveDate>10/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2017</AwardExpirationDate>
+    <AwardAmount>723106</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01060200</Code>
+      <Directorate>
+        <LongName>OFFICE OF THE DIRECTOR</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of International and Integrative Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>John Tsapogas</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Climate change and global population growth demand creative, low-energy, multi-disciplinary, and multi-benefit approaches to sustaining water resources. This PIRE will catalyze, through research and education, the development and deployment of low-energy options for improving water productivity while protecting human and ecosystem health. The project links five different universities in two water-stressed regions of the world (southwest U.S. and southeast Australia) with unique and complementary expertise in the development and deployment of rainwater tanks, biofilters, and waste stabilization ponds for potable substitution and watershed protection. Research will: (1) improve the removal of pathogens and micropollutants in storm water runoff by harnessing solar energy and incorporating into biofilter design the plant and animal communities native to local seasonal wetlands; (2) investigate the risks and benefits of distributed adoption of these technologies on public health, energy consumption, and greenhouse gas emissions; (3) identify social, economic, and policy barriers to their adoption, quantify their unpriced benefits and propose economic instruments, regulations, and public education measures to foster their adoption; and (4) quantify the impact of distributed adoption of these technologies on urban stream hydrology, water quality, and ecology. Broader impacts include green technology for treating runoff and gray water at the household scale; dissemination of research results to managers and engineers; a diverse workforce in sustainability science; an electronic textbook (E-book) on Water Sustainability; K-12 teaching modules with research-integrated summer activities, including BioFilter Frenzy Week; and education programs targeting Native American high school students and science teachers throughout the U.S.. The project is funded by NSF's Office of International Science and Engineering (OISE) through its PIRE program.</AbstractNarration>
+    <MinAmdLetterDate>09/18/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/18/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1243543</AwardID>
+    <Investigator>
+      <FirstName>Stanley</FirstName>
+      <LastName>Grant</LastName>
+      <EmailAddress>sbgrant@uci.edu</EmailAddress>
+      <StartDate>09/18/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Brett</FirstName>
+      <LastName>Sanders</LastName>
+      <EmailAddress>bsanders@uci.edu</EmailAddress>
+      <StartDate>09/18/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Sunny</FirstName>
+      <LastName>Jiang</LastName>
+      <EmailAddress>sjiang@uci.edu</EmailAddress>
+      <StartDate>09/18/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jean-Daniel</FirstName>
+      <LastName>Saphores</LastName>
+      <EmailAddress>saphores@uci.edu</EmailAddress>
+      <StartDate>09/18/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>David</FirstName>
+      <LastName>Feldman</LastName>
+      <EmailAddress>david.feldman@uci.edu</EmailAddress>
+      <StartDate>09/18/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Irvine</Name>
+      <CityName>IRVINE</CityName>
+      <ZipCode>926977600</ZipCode>
+      <PhoneNumber>9498244768</PhoneNumber>
+      <StreetAddress>5171 California Avenue, Ste 150</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7742</Code>
+      <Text>PIRE</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

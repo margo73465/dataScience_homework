@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>2011 PAESMEM Awardees Planning for the Future Workshop</AwardTitle>  
+    <AwardEffectiveDate>10/15/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>09/30/2015</AwardExpirationDate>  
+    <AwardAmount>85261</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>11040300</Code>  
+      <Directorate> 
+        <LongName>Directorate for Education &amp; Human Resources</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Undergraduate Education</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Martha L. James</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>This project organizes a Symposium of Alumni of the National Science Foundation EHR/ DUE Presidential Awards for Excellence in Science, Mathematics, and Engineering Mentoring (PAESMEM) program. Complementing the work of another group which will provide logistical support for the meeting, the Women in Engineering ProActive Network (WEPAN) is overseeing a program to: 1. highlight and share best practices in effective mentoring; 2. inform the development of a pilot web portal/virtual community designed to increase communication among members of the PAESMEM community and make their work more accessible to the general public and to serve as a repository of the meetings' products; and 3.engage meeting participants in interactive discussion and planning toward further expansion and dissemination of best practices.</AbstractNarration>  
+    <MinAmdLetterDate>11/18/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>02/22/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1202369</AwardID>  
+    <Investigator> 
+      <FirstName>Carol</FirstName>  
+      <LastName>Muller</LastName>  
+      <EmailAddress>cblue@stanfordalumni.org</EmailAddress>  
+      <StartDate>11/18/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>Wepan Inc</Name>  
+      <CityName>Denver</CityName>  
+      <ZipCode>802103302</ZipCode>  
+      <PhoneNumber>3038714643</PhoneNumber>  
+      <StreetAddress>1901 East Asbury Ave., Suite 220</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Colorado</StateName>  
+      <StateCode>CO</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>1593</Code>
+      <Text>PRES AWDS FOR EXCELL IN SCI</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

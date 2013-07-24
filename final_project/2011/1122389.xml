@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>LTREB Renewal: Emergent landscape patterns in stream ecosystem processes resulting from groundwater/surface water interactions</AwardTitle>
+    <AwardEffectiveDate>08/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2016</AwardExpirationDate>
+    <AwardAmount>186851</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010209</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sudeep Chandra</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This study focuses on how the water chemistry of tropical streams is influenced by surface and groundwater inputs and how these inputs are, in turn, affected by climatic variations such as the El Nino Southern Oscillation. This is a continuation of a long-term study that has compiled the only continuous long-term (&gt;20 yrs) record of stream chemistry in Central America. Following long dry periods associated with El Nino events, poorly-buffered lowland streams exhibit 100-fold increases in acidity for up to eight months. These prolonged acidification events appear to be an amplification of normal seasonal (i.e. dry season/wet season) trends. This project investigates the mechanisms causing these events and how this acidification affects the ecology of the streams.&lt;br/&gt;&lt;br/&gt;Lowland streams in Central America support diverse aquatic communities and transport large amounts of carbon from highly productive terrestrial ecosystems to the atmosphere and ocean. The climate in Central America is predicted to have decreased dry-season rainfall. This climatic shift will likely have major deleterious effects on the chemistry of neo-tropical streams. To better understand these research findings in a more global context, the long-term data set from this project in Central America is being linked to other data sets throughout the tropics (e.g., Amazon, Congo, Mekong and Ganges Rivers). In addition, the results of this project will be disseminated in the Water for Life/Agua para la Vida program, which includes outreach activities in local communities and an internationally accessible web page equipped with teaching tools on river conservation and water quality/quantity issues.</AbstractNarration>
+    <MinAmdLetterDate>06/24/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/23/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1122389</AwardID>
+    <Investigator>
+      <FirstName>Catherine</FirstName>
+      <LastName>Pringle</LastName>
+      <EmailAddress>cpringle@uga.edu</EmailAddress>
+      <StartDate>06/24/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Alonso</FirstName>
+      <LastName>Ramirez</LastName>
+      <EmailAddress>alonso.ites@gmail.com</EmailAddress>
+      <StartDate>06/24/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Duff</LastName>
+      <EmailAddress>jhduff@usgs.gov</EmailAddress>
+      <StartDate>06/24/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Georgia Research Foundation Inc</Name>
+      <CityName>ATHENS</CityName>
+      <ZipCode>306025016</ZipCode>
+      <PhoneNumber>7065425939</PhoneNumber>
+      <StreetAddress>200 D.W. Brooks Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Georgia</StateName>
+      <StateCode>GA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1196</Code>
+      <Text>LONG-TERM RSCH IN ENVIR BIO</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1181</Code>
+      <Text>ECOSYSTEM STUDIES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

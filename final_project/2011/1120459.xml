@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Significant Opportunities in Atmopheric Research and Science (SOARS)</AwardTitle>
+    <AwardEffectiveDate>08/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2016</AwardExpirationDate>
+    <AwardAmount>1891045</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020300</Code>
+      <Directorate>
+        <LongName>Directorate for Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Atmospheric and Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Bernard M. Grant</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The objective is to broaden participation in the Geosciences by increasing the number of African-American or Black, American Indian or Alaska Native, Hispanic or Latino, females, and first generation college students. Significant Opportunities in Atmospheric Research and Sciences Program exposes the students to the atmospheric and related sciences. The program will give underrepresented students experience in atmospheric research during a ten-week summer research internship at the National Center for Atmospheric Research or at laboratories of other SOARS sponsors. There is a strong, formal mentoring program and a vibrant learning community support for all protégés. A technical writing workshop is also part of the summer program to help students to write scientific proposals</AbstractNarration>
+    <MinAmdLetterDate>08/05/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/17/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1120459</AwardID>
+    <Investigator>
+      <FirstName>Richard</FirstName>
+      <LastName>Anthes</LastName>
+      <EmailAddress>anthes@ucar.edu</EmailAddress>
+      <StartDate>08/05/2011</StartDate>
+      <EndDate>03/27/2012</EndDate>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Rajul</FirstName>
+      <LastName>Pandya</LastName>
+      <EmailAddress>pandya@ucar.edu</EmailAddress>
+      <StartDate>08/05/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Rebecca</FirstName>
+      <LastName>Haacker-Santos</LastName>
+      <EmailAddress>rhaacker@ucar.edu</EmailAddress>
+      <StartDate>08/05/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University Corporation For Atmospheric Res</Name>
+      <CityName>BOULDER</CityName>
+      <ZipCode>803055602</ZipCode>
+      <PhoneNumber>3034971000</PhoneNumber>
+      <StreetAddress>1850 TABLE MESA DR</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1520</Code>
+      <Text>COMPUTING FACILITIES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>6897</Code>
+      <Text>AGS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: A new drug discovery method to transform peptides to small molecules: proof of principle with p53-hdm2</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2014</AwardExpirationDate>
+    <AwardAmount>600000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Industrial Innovation and Partnerships</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jesus Soriano Molla</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project creates a powerful drug discovery technology that uses an innovative fragment-based approach to identify small molecule inhibitors of difficult targets. Though many peptides can disrupt protein-protein interactions, conventional screening technologies are rarely successful at identifying small molecules that do so. In this project peptides are transformed into smallmolecule drugs through an iterative, systematic, empirical screening approach, whereby a small molecule can be evolved to harness key binding properties of peptide-based inhibitors. This proprietary technology, Chemotype Evolution, will be applied to the anticancer target p53-HDM2. The Phase I/IB grant demonstrated that peptides can be deconstructed into baits suitable for performing Chemotype Evolution. In Phase II, Chemotype Evolution will be used to convert these peptide-based baits into novel, potent, completely non-peptidic inhibitors of the p53-HDM2 interaction. Moreover, the flexibility of the technology will be increased by adding additional chemistries.&lt;br/&gt;&lt;br/&gt;The broader impacts of this research are two-fold. First, the inhibitors discovered could lead to new drugs for treating cancer. Second, their identification will validate a drug discovery technology that can be applied generally to difficult targets. Routine transformation of peptides into small-molecule drugs would create a wealth of profitable opportunities. Scientifically, this technology will advance the field of molecular recognition and provide a rapid and cost effective method for creating chemical probes to investigate biological pathways. The societal impact will be substantial, as the technology will facilitate the discovery of drugs for unmet medical needs, particularly where conventional technologies have failed.</AbstractNarration>
+    <MinAmdLetterDate>08/23/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/25/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1127154</AwardID>
+    <Investigator>
+      <FirstName>Daniel</FirstName>
+      <LastName>Erlanson</LastName>
+      <EmailAddress>derlanson@carmot.us</EmailAddress>
+      <StartDate>08/23/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Carmot Therapeutics, Inc.</Name>
+      <CityName>San Francisco</CityName>
+      <ZipCode>941582509</ZipCode>
+      <PhoneNumber>4159782159</PhoneNumber>
+      <StreetAddress>409 Illinois Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

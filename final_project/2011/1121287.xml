@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Role of the Plant Kinesin FRA1 in Constructing the Cell Wall</AwardTitle>
+    <AwardEffectiveDate>12/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2014</AwardExpirationDate>
+    <AwardAmount>412378</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08070600</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Molecular and Cellular Biosciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gregory W. Warr</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Intellectual Merit.Plant cells are encased in a cellulose-rich wall that regulates cell growth and provides mechanical support to the plant body. The deposition of cell wall material happens in an orderly manner, which is critical for the assembly and function of the cell wall. The cortical microtubule cytoskeleton located beneath the plasma membrane is important to this process and is thought to act as a scaffold for the directional deposition of cell wall material. How the cortical microtubule cytoskeleton serves this function is not clear. This project focuses on the Arabidopsis motor protein FRA1 and will test the hypothesis that FRA1 guides the movement of components of the cell wall biosynthetic machinery along cortical microtubules, thus resulting in orderly cell wall deposition. This hypothesis will be tested by: 1) characterizing the movement of the FRA1 protein in living cells; 2) determining whether the protein complexes that synthesize cellulose track with FRA1; and 3) identifying FRA1-interacting proteins to define additional cargoes of the FRA1 motor protein. These studies will significantly advance our understanding of cell wall formation and will lead to the identification of novel proteins/cargoes that are part of the wall biosynthetic machinery.&lt;br/&gt;&lt;br/&gt;Broader Impacts. 1) This project will involve training of undergraduate and graduate students as well as mentoring of a postdoctoral scholar. 2) Work from this project will be incorporated into an undergraduate course that is designed to introduce students to research based on imaging sciences. The goals are to get undergraduates excited about science and to motivate them to consider a career in science. 3) Work from this project will be incorporated into the Future Trek: Science Careers Explorations program in collaboration with the Academy of Science of St. Louis. The Future Trek program is a K-12 initiative with an emphasis on under-represented populations. Specifically, the colorful images and movies generated in this project will be used to engage groups of middle-school students and teachers in age-appropriate presentations to explore topics in plant biology. These presentations are accompanied by discussions about career options in Biology and the academic preparation that is necessary to pursue these careers. In addition, students and postdocs in the lab will lead a field trip of the lab and other departmental research facilities for middle-school/high-school students as part of the Science Mentor Project. The goal is to expose middle-school/high-school students to an active research environment and to offer mentoring opportunities to graduate students and postdocs. 4) As cell wall structure greatly impacts the conversion of plant biomass into biofuels, this work might provide new ideas for engineering plants for more efficient biofuel production.</AbstractNarration>
+    <MinAmdLetterDate>11/29/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/17/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1121287</AwardID>
+    <Investigator>
+      <FirstName>Ram</FirstName>
+      <LastName>Dixit</LastName>
+      <EmailAddress>ramdixit@wustl.edu</EmailAddress>
+      <StartDate>11/29/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Washington University</Name>
+      <CityName>SAINT LOUIS</CityName>
+      <ZipCode>631304899</ZipCode>
+      <PhoneNumber>3148895100</PhoneNumber>
+      <StreetAddress>ONE BROOKINGS DRIVE, CAMPUS BOX</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Missouri</StateName>
+      <StateCode>MO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1114</Code>
+      <Text>Cellular Dynamics and Function</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

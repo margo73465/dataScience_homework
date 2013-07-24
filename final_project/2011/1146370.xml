@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Elucidating the roles of natural selection and mate discrimination in the evolution of reproductive isolation in a polymorphic amphibian</AwardTitle>
+    <AwardEffectiveDate>03/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2015</AwardExpirationDate>
+    <AwardAmount>452976</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010207</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Samuel M. Scheiner</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project addresses two key questions in the field of evolutionary biology for the highly polymorphic strawberry dart frog (Dendrobates pumilio): (1) what are the barriers to gene exchange between new diverging species and (2) what are the relative contributions of natural selection and mate discrimination in the formation of those barriers? The diversity of color-patterns exhibited by these frogs appears to have evolved recently and rapidly in response to natural selection. Experiments will be conducted to test for differences in survival and mating success among differently colored frogs that result from differences in predation and female mating preferences. By integrating insights from ecological and behavioral experiments, this work will systematically assess the relative contributions of a suite of potential barriers to reproduction, providing empirical support for theory regarding the mechanisms of speciation.&lt;br/&gt;&lt;br/&gt;The processes that lead to the formation of new species are central to the maintenance of biodiversity. This project aims to improve our understanding of how new species arise in nature, and will permit an exciting comparison to well-studied groups of animals, like Heliconius butterflies and African Rift Lake Cichlids. The project will also provide international educational and research opportunities for a postdoctoral researcher, graduate students, and undergraduates. The development of outreach programs to engage students and community members in Panama and Louisiana in learning about evolution is also an important component of this work.</AbstractNarration>
+    <MinAmdLetterDate>03/01/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/15/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1146370</AwardID>
+    <Investigator>
+      <FirstName>Corinne</FirstName>
+      <LastName>Richards-Zawacki</LastName>
+      <EmailAddress>cori@tulane.edu</EmailAddress>
+      <StartDate>03/01/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Tulane University</Name>
+      <CityName>NEW ORLEANS</CityName>
+      <ZipCode>701185698</ZipCode>
+      <PhoneNumber>5048654000</PhoneNumber>
+      <StreetAddress>6823 ST CHARLES AVENUE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Louisiana</StateName>
+      <StateCode>LA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7377</Code>
+      <Text>EVOLUTIONARY ECOLOGY</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

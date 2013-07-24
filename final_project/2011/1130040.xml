@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>53rd Annual Maize Genetics Conference - March 17-20, 2011, St. Charles (IL)</AwardTitle>
+    <AwardEffectiveDate>03/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2012</AwardExpirationDate>
+    <AwardAmount>31082</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090000</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Diane Jofuku Okamuro</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The 53rd Annual Maize Genetics Conference will be held March 17 - 20, 2011 at St. Charles (IL). At this conference, members of the maize community present and discuss their most recent research results covering a wide range of topics including classical genetics, molecular genetics, and genomics. The Maize Genetics Conference provides an outstanding opportunity for undergraduate and graduate students to meet and interact with scientists in the field, to discuss their research ideas as talks or posters, and to begin to establish the scientific networks that will prove invaluable throughout their careers. The funding provided by NSF will broaden participation and help defray the costs of participation of students from the U.S. scientific community.</AbstractNarration>
+    <MinAmdLetterDate>03/14/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/14/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1130040</AwardID>
+    <Investigator>
+      <FirstName>Paula</FirstName>
+      <LastName>McSteen</LastName>
+      <EmailAddress>mcsteenp@missouri.edu</EmailAddress>
+      <StartDate>03/14/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Erik</FirstName>
+      <LastName>Vollbrecht</LastName>
+      <EmailAddress>vollbrec@iastate.edu</EmailAddress>
+      <StartDate>03/14/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Missouri-Columbia</Name>
+      <CityName>COLUMBIA</CityName>
+      <ZipCode>652111230</ZipCode>
+      <PhoneNumber>5738827560</PhoneNumber>
+      <StreetAddress>310 JESSE HALL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Missouri</StateName>
+      <StateCode>MO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1329</Code>
+      <Text>PLANT GENOME RESEARCH PROJECT</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

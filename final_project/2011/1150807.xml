@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: The Role of Grain Boundary Character in Corrosion Behavior: Linking Atomic Scale Interfacial Structure to Precipitation and Failure Mechanisms</AwardTitle>
+    <AwardEffectiveDate>05/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2017</AwardExpirationDate>
+    <AwardAmount>400000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mary M. Toney</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The objective of this Faculty Early Career Development (CAREER) Program award is to develop an understanding of the atomic scale grain boundary structure dependence of corrosion enhancing precipitation in fcc metals. Corrosion has a devastating effect on many industries, including nuclear, naval ship structures, and off-shore wind turbines. Grain boundary engineering has been shown to improve boundary dependent properties including creep, intergranular stress corrosion, embrittlement, and fatigue. However, questions remain about the anisotropic nature of both the segregation and precipitation relevant to all sensitization dependent failure in fcc materials. This project will focus on understanding the dependence of grain boundary structure on the precipitation that causes corrosion damage. The results generated from this study will serve as a predictive tool for developing future alloys resistant to deleterious intergranular precipitation in extreme environments. The work will use an experimental approach to analyze the combined effects temperature, environment, and grain boundary type on corrosion-causing precipitation mechanisms, which will ultimately yield a clearer understanding of corrosion in a wide range of alloys.&lt;br/&gt;&lt;br/&gt;This research is expected to advance the fundamental understanding of mechanisms of fcc metal failure under corrosion, one of the most important structural materials in use today. Philadelphia has ~80% minority student population, so the opportunity to bring underrepresented groups into STEM fields is enormous. The PI plans to develop a program, named "TURBINE" (Transforming Underrepresented Research Basis in Engineering), for local high school minority and female students to learn about future careers in energy-related fields to spur an interest in research and development and engineering education/training for a future economy both in Philadelphia and globally.</AbstractNarration>
+    <MinAmdLetterDate>02/01/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/01/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1150807</AwardID>
+    <Investigator>
+      <FirstName>Mitra</FirstName>
+      <LastName>Taheri</LastName>
+      <EmailAddress>mtaheri@coe.drexel.edu</EmailAddress>
+      <StartDate>02/01/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Drexel University</Name>
+      <CityName>Philadelphia</CityName>
+      <ZipCode>191042737</ZipCode>
+      <PhoneNumber>2158955849</PhoneNumber>
+      <StreetAddress>3201 Arch Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1633</Code>
+      <Text>MATERIALS AND SURFACE ENG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

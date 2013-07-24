@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>GEM: Investigation of Plasmasphere-Magnetosphere Dynamics</AwardTitle>  
+    <AwardEffectiveDate>06/15/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>05/31/2012</AwardExpirationDate>  
+    <AwardAmount>99936</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Interagency Agreement</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>06020202</Code>  
+      <Directorate> 
+        <LongName>Directorate for Geosciences</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Atmospheric and Geospace Sciences</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Raymond J. Walker</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration/>  
+    <MinAmdLetterDate>06/17/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>06/17/2011</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1131870</AwardID>  
+    <Investigator> 
+      <FirstName>Joseph</FirstName>  
+      <LastName>Borovsky</LastName>  
+      <EmailAddress>jborovsky@spacescience.org</EmailAddress>  
+      <StartDate>06/17/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>Department of Energy Albuquerque Operations Office</Name>  
+      <CityName>Albuquerque</CityName>  
+      <ZipCode>871150000</ZipCode>  
+      <PhoneNumber/>  
+      <StreetAddress>PENNSYLVANIA &amp; H ST SE</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>New Mexico</StateName>  
+      <StateCode>NM</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>5750</Code>
+      <Text>MAGNETOSPHERIC PHYSICS</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

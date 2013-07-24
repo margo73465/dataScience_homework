@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CSR: Small: System Support for SSD-Backed Recoverable Network Applications</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>
+    <AwardAmount>400000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Krishna Kant</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The massive hardware scale, labyrinthine software complexity, and tangled external interactions of networked systems conspire to undermine reliability: Scale increases the frequency of failures while interconnectedness exacerbates their consequences by turning local mishaps into global disasters. This project will establish new system support toward recoverable network applications on two foundations. In an individual machine, fast, simple application recovery can be greatly eased if the application state on the persistent storage is kept always consistent. Over a networked system, the fault-tolerance and global consistency can be better supported and reasoned if application components commit local state before emitting any output to others. The time is right for this effort, because emerging Flash-based solid-state disks (SSDs) promise to dramatically reduce the cost of required persistent state management. Research will proceed along three fronts: First, the project will design and implement a new operating system mechanism (fast synchronous logging without double writes) for failure-atomic, synchronous I/O on SSDs. Second, for broad applicability, this project will present the programmers with simple extensions of familiar POSIX interfaces. Third, to achieve efficiency and fairness, research will develop a new I/O resource manager that combines the classic fair queuing scheduling with SSD-oriented anticipatory I/O. Fast, simple failure recovery mechanisms developed in this project will enable high reliability for a broad range of networked applications that are critical to today's digital economy and society. This project will also involve industry collaboration, curriculum enhancement, and student training.</AbstractNarration>
+    <MinAmdLetterDate>08/20/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/20/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1217372</AwardID>
+    <Investigator>
+      <FirstName>Kai</FirstName>
+      <LastName>Shen</LastName>
+      <EmailAddress>kshen@cs.rochester.edu</EmailAddress>
+      <StartDate>08/20/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Rochester</Name>
+      <CityName>ROCHESTER</CityName>
+      <ZipCode>146270140</ZipCode>
+      <PhoneNumber>5852754031</PhoneNumber>
+      <StreetAddress>518 HYLAN, RIVER CAMPUSBOX 27014</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7354</Code>
+      <Text>COMPUTER SYSTEMS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: Eye evolution in Sarsielloidea (Crustacea: Ostracoda): an integrative approach based on phylogenetics, developmental genetics, behavior and optics.</AwardTitle>
+    <AwardEffectiveDate>06/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2015</AwardExpirationDate>
+    <AwardAmount>353629</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010206</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Robb Brumfield</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Within a single species males and females can differ dramatically. This is known as sexual dimorphism. This project aims at uncovering the evolution, development, and ecological purpose of a radical sexual dimorphism in a group of crustaceans known as 'seed shrimp' or ostracods. While males do not contain additional genetic information compared to females (they have no Y chromosome), they are able to generate large image-forming eyes whereas females have only rudimentary eyes that cannot form an image. This project will combine developmental biology, bioinformatics, phylogenetics and next-generation sequencing to uncover the genetic differences in males and females in various species showing different levels of sexual dimorphism. Using these data and data collected from ostracods worldwide, the researchers will also be able to elucidate the evolutionary history of this dimorphism. In addition, the researchers will examine the behavioral aspects underlying this dimorphism by testing whether males require image-forming eyes to have a high mating success rate. &lt;br/&gt;&lt;br/&gt;The broader impacts of this project are multifold: First, this project will contribute new understanding regarding the genetics and evolution of sexual dimorphism in an ecological context. Second, this project provides research opportunities for researchers at many levels including pre-health and pre-grad undergraduates, masters students, post-doctoral researchers, and junior and senior faculty. The researchers have strong records of service in broadening participation of under-represented groups in science and preliminary work has already provided research opportunities for several individuals from underrepresented groups including the project director. Third, this research will strengthen international collaboration with a Swedish research group. Finally, this research will provide key additional data regarding the evolution of eyes, a subject which has long fascinated the public, allowing the researchers to contribute to public education via outreach.</AbstractNarration>
+    <MinAmdLetterDate>01/19/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/19/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1146337</AwardID>
+    <Investigator>
+      <FirstName>Todd</FirstName>
+      <LastName>Oakley</LastName>
+      <EmailAddress>oakley@lifesci.ucsb.edu</EmailAddress>
+      <StartDate>01/19/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Santa Barbara</Name>
+      <CityName>SANTA BARBARA</CityName>
+      <ZipCode>931062050</ZipCode>
+      <PhoneNumber>8058934188</PhoneNumber>
+      <StreetAddress>Office of Research</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1171</Code>
+      <Text>PHYLOGENETIC SYSTEMATICS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>The Composition of Extrasolar Planetesimals</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>
+    <AwardAmount>240978</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03020000</Code>
+      <Directorate>
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Astronomical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maria Womack</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The PI will continue his observational search for evidence of asteroids accreting onto white dwarfs, which is motivated by previously observed abundance anomalies in white dwarf spectra. He will use the Keck Observatory to obtain spectra of disks around white dwarfs that he and a graduate student will analyze. The results will be used to constrain models of planetary formation. &lt;br/&gt;&lt;br/&gt;This work is likely to have broader impacts to fields of cosmochemistry, planetary science and stellar evolution. This project will also help train a graduate student in research who is participating in an outreach program with China.</AbstractNarration>
+    <MinAmdLetterDate>08/29/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/29/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1207861</AwardID>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Jura</LastName>
+      <EmailAddress>jura@astro.ucla.edu</EmailAddress>
+      <StartDate>08/29/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Los Angeles</Name>
+      <CityName>LOS ANGELES</CityName>
+      <ZipCode>900952000</ZipCode>
+      <PhoneNumber>3107940102</PhoneNumber>
+      <StreetAddress>11000 Kinross Avenue, Suite 211</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1215</Code>
+      <Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

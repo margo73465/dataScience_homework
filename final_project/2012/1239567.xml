@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>TWC: Breakthrough: Inspection Resistance in Cyber-Physical Systems</AwardTitle>
+    <AwardEffectiveDate>10/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>09/30/2015</AwardExpirationDate>
+    <AwardAmount>717415</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Samuel M. Weber</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>As computing devices continue to be embedded in more and more physical devices, they are now privy to the most confidential information about our lives. The ability to safely keep a secret in memory is central to the vast majority of security systems, but storing and erasing these secrets is a difficult problem in the face of an attacker who can obtain unrestricted physical access to these devices and the underlying hardware. Depending on the memory technology, the very act of storing a 1 instead of a 0 can have physical side effects measurable even after the power has been cut. Through the development of a new class of architectures that measurably increase the difficulty of physical analysis this project is enabling systems that can be trusted even when physical control of the system is ceded to an adversary. Initial results indicate that the creation of an efficient scheme for memory protection is possible under which, even if an adversary is able to inspect the value of a stored bit with a probabilistic error of only 5%, the system will be able to prevent that adversary from learning any information about the original un-coded bits with 99.9999999999% probability. Over the long term this research will help to create the skills and tools that cyber-physical system engineers will need to develop pervasive trustworthy systems, and to ease the development of those mission critical systems that we all depend on for our safety and livelihood.</AbstractNarration>
+    <MinAmdLetterDate>09/10/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/10/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1239567</AwardID>
+    <Investigator>
+      <FirstName>Timothy</FirstName>
+      <LastName>Sherwood</LastName>
+      <EmailAddress>sherwood@cs.ucsb.edu</EmailAddress>
+      <StartDate>09/10/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Santa Barbara</Name>
+      <CityName>SANTA BARBARA</CityName>
+      <ZipCode>931062050</ZipCode>
+      <PhoneNumber>8058934188</PhoneNumber>
+      <StreetAddress>Office of Research</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8060</Code>
+      <Text>Secure &amp;Trustworthy Cyberspace</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

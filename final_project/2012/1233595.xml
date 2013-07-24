@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Multi-Scale Analysis of Mechanotransduction in the Organ of Corti</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>
+    <AwardAmount>373391</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Dennis Robert Carter</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The objective of this project is to establish a coherent theory of how the organ of Corti (cochlear sensory epithelium) optimizes the force from the outer hair cells in order to magnify tiny vibrations of the basilar membrane. The research takes two innovative approaches. First, it integrates cellular physiology and macro/micro mechanics of the cochlea. Second, computational and experimental models are investigated in parallel to reduce the animal use while maximizing the research outcome. The computational model will focus on the interaction between the outer hair cells and their supporting structures, and minimize the mechanical assumptions by building realistic 3-D finite element models of the organ of Corti and individual outer and inner hair cells. The simulated predictions will be fully validated through experiments with rodent cochlear tissues. An isolated cochlear sensory epithelium will be transplanted to a novel micro-chamber system that imitates the electrical and chemical environments of the cochlear duct. This will enable us to take full control over the mechano-transduction of the isolated cochlear tissue.&lt;br/&gt;&lt;br/&gt;The proposed study will make a direct impact on understanding various hearing disorders. Besides hearing sensation, mechano-transduction plays a crucial role in other tissues such as muscle, bone and articular cartilage. Therefore, the findings of this research will advance the general understanding of mechano-sensation. Educationally, we will exploit the multi-disciplinary nature of this project?it involves various topics such as acoustics, mechanics, electrophysiology, micro-electro-mechanical systems and computational methods. The project will provide engineering students across disciplines with opportunities to get closer to life science by introducing them to how engineering principles can be successfully applied to biological/medical problems, and how engineers can get insights from the sensory organs for better sensor design. We will develop a graduate level course with examples adopted from the proposed research.</AbstractNarration>
+    <MinAmdLetterDate>07/10/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/28/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1233595</AwardID>
+    <Investigator>
+      <FirstName>Sheryl</FirstName>
+      <LastName>Gracewski</LastName>
+      <EmailAddress>grace@me.rochester.edu</EmailAddress>
+      <StartDate>07/10/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jong-Hoon</FirstName>
+      <LastName>Nam</LastName>
+      <EmailAddress>jong-hoon.nam@rochester.edu</EmailAddress>
+      <StartDate>07/10/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Rochester</Name>
+      <CityName>ROCHESTER</CityName>
+      <ZipCode>146270140</ZipCode>
+      <PhoneNumber>5852754031</PhoneNumber>
+      <StreetAddress>518 HYLAN, RIVER CAMPUSBOX 27014</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7479</Code>
+      <Text>Biomechanics &amp; Mechanobiology</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

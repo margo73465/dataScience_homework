@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>EAGER: Optimization without Round-off Errors</AwardTitle>  
+    <AwardEffectiveDate>09/15/2012</AwardEffectiveDate>  
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>  
+    <AwardAmount>120000</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>07030008</Code>  
+      <Directorate> 
+        <LongName>Directorate for Engineering</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Edwin Romeijn</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>This Early-concept Grant for Exploratory Research (EAGER) provides funding to further develop an algorithm to solve systems of linear equations with a specific advantage over Gaussian Elimination in that the algorithm does not have round-off errors. The algorithm will be tailored and adapted to be used within existing optimization algorithms. The key property of the algorithm being further developed is that it maintains the integrality of the numbers throughout its execution. In particular, although the algorithm does contain divisions (which is crucial for the polynomial-time complexity of the&lt;br/&gt;algorithm) all the divisions have a remainder of zero. A detailed complexity analysis of the algorithm will be performed; specifically, both its running time and the number of bits required to represent the numbers throughout the algorithm's execution will be investigated. A modification of the algorithm to perform LU factorizations will also be studied. Finally, the algorithm will be adapted to enable its use for the basis updates performed in state-of-the-art implementations of the revised simplex method.&lt;br/&gt;&lt;br/&gt;If successful, the outcomes of this research will lead to a deeper understanding of computational linear algebra free of round-off errors and the associated applications within optimization algorithms. In the linear programming (LP) context, this research will enable us to solve large-scale LPs exactly; this, in turn, will significantly improve the accuracy and speed of integer programming solvers. In addition, since solving systems of linear equations is a critical subroutine of many numerical algorithms, this research will impact many application areas where linear systems frequently arise, including economics, physics, chemistry, and engineering.</AbstractNarration>  
+    <MinAmdLetterDate>09/11/2012</MinAmdLetterDate>  
+    <MaxAmdLetterDate>09/11/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1252456</AwardID>  
+    <Investigator> 
+      <FirstName>Erick</FirstName>  
+      <LastName>Moreno-Centeno</LastName>  
+      <EmailAddress>e.moreno@tamu.edu</EmailAddress>  
+      <StartDate>09/11/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>Texas Engineering Experiment Station</Name>  
+      <CityName>College Station</CityName>  
+      <ZipCode>778454645</ZipCode>  
+      <PhoneNumber>9794587617</PhoneNumber>  
+      <StreetAddress>TEES State Headquarters Bldg.</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Texas</StateName>  
+      <StateCode>TX</StateCode> 
+    </Institution>  
+    <ProgramElement> 
+      <Code>5514</Code>  
+      <Text>OPERATIONS RESEARCH</Text> 
+    </ProgramElement>  
+    <ProgramElement>
+      <Code>1787</Code>
+      <Text>SERVICE ENTERPRISE SYSTEMS</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

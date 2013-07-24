@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Asia-Pacific Summer School on Smart Structures Technology (APSS), China 2011, India 2012, and Korea 2013</AwardTitle>
+    <AwardEffectiveDate>07/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2014</AwardExpirationDate>
+    <AwardAmount>153450</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>George A. Hazelrigg</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project will provide support for 10 US graduate students each year to participate in three Asia-Pacific Summer Schools on Smart Structures Technology (APSS) to be held in China, India, and Korea in 2011, 2012 and 2013, respectively. These summer schools include coursework, lectures, labs, and site visits that allow civil engineering graduate students to learn about smart structures technology in an international setting. The graduate students from other countries, supported by the organizations such as KOSEF/SISTeC in Korea, JST in Japan, NNSFC in China, and DST/IUSSTF in India, will also participate in these summer schools. The summer schools are organized to provide advanced training to graduate students in a multicultural and multidisciplinary learning environment to produce next generation of experts to create and design smart structures. The environment exposes the students to a broad knowledge frontier that does not currently exist. New education and mentoring paradigms are discovered during the summer school teaching and learning experiences.&lt;br/&gt;&lt;br/&gt;One of the engineering challenges is the design and construction of smart structures. However, civil engineering graduate students are only exposed in a limited way to the wide range of other disciplines that make up smart structures technology. Seamless interaction between the fields of structural dynamics, control systems, circuit technology, wireless technology, bio-sensing, and informatics is required for successful applications. Additionally, some of the most advanced research and its applications are occurring overseas, which makes it difficult to access easily. Thus, the main educational challenges in the field of smart structures technology are: (1) providing students with the needed multidisciplinary background, and (2) familiarizing students with forefront research in other countries.</AbstractNarration>
+    <MinAmdLetterDate>07/12/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/12/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1110375</AwardID>
+    <Investigator>
+      <FirstName>Billie</FirstName>
+      <LastName>Spencer</LastName>
+      <EmailAddress>bfs@illinois.edu</EmailAddress>
+      <StartDate>07/12/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Illinois at Urbana-Champaign</Name>
+      <CityName>CHAMPAIGN</CityName>
+      <ZipCode>618207473</ZipCode>
+      <PhoneNumber>2173332187</PhoneNumber>
+      <StreetAddress>SUITE A</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1637</Code>
+      <Text>HAZARD MIT &amp; STRUCTURAL ENG</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1639</Code>
+      <Text>SENSORS AND SENSING SYSTEMS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7909</Code>
+      <Text>NANO-BIOSENSING</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7731</Code>
+      <Text>OTHER GLOBAL LEARNING &amp; TRNING</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7298</Code>
+      <Text>COLLABORATIVE RESEARCH</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: Cyberinfrastructure for Manufacturing Systems: Needs and Opportunities</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2013</AwardExpirationDate>
+    <AwardAmount>100000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Bruce M. Kramer</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This EArly-concept Grant for Exploratory Research (EAGER) project will evaluate the limitations of the current Internet structure and protocols, and begin to characterize what changes or enhancements are needed so that future manufacturing systems can be set up as quickly and easily as today's e-commerce systems.A cyberinfrastructure for manufacturing systems does not yet exist, and it is not clear how the current Internet Web-based service structure could be applied to manufacturing systems. The project will evaluate several different frameworks, standards, and architectures that have been developed both for Internet/e-commerce systems and for manufacturing systems. Commonalities between the two as well as significant gaps will be exposed. The project will lead to new understanding of the fundamental limitations of the current Internet web-based service structure when applied to manufacturing systems. Gaps in the current state-of-the-practice will be identified, and future directions for research and development will be outlined that would enable better interoperatiblity, openness, and scalability of manufacturing systems.&lt;br/&gt;&lt;br/&gt;Cyberinfrastructure has the potential to create a paradigm shift in the design and operation of manufacturing systems. A manufacturing cyberinfrastructure with the right functionality can enable the creation of virtual manufacturing communities, distributed across diverse physical locations, connected digitally by the Internet and physically by logistics. This cyberinfrastructure can facilitate emergent efforts to produce a new product on a small or large scale. The results of this research have the potential to enable small-scale businesses to break into new markets.</AbstractNarration>
+    <MinAmdLetterDate>08/13/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/13/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1150330</AwardID>
+    <Investigator>
+      <FirstName>S. Jack</FirstName>
+      <LastName>Hu</LastName>
+      <EmailAddress>jackhu@umich.edu</EmailAddress>
+      <StartDate>08/13/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Dawn</FirstName>
+      <LastName>Tilbury</LastName>
+      <EmailAddress>tilbury@umich.edu</EmailAddress>
+      <StartDate>08/13/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Zhuoqing</FirstName>
+      <LastName>Mao</LastName>
+      <EmailAddress>zmao@eecs.umich.edu</EmailAddress>
+      <StartDate>08/13/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Michigan Ann Arbor</Name>
+      <CityName>Ann Arbor</CityName>
+      <ZipCode>481091271</ZipCode>
+      <PhoneNumber>7347647247</PhoneNumber>
+      <StreetAddress>3003 South State St.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7951</Code>
+      <Text>ENG INTERDISC RES (IDR)</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

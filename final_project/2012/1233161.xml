@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Understanding the Mechanism of Simultaneous Oleophobic/Hydrophilic Behavior: When a Nanometer-Thick Polymer Coating meets a Solid Surface</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>
+    <AwardAmount>268379</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mary M. Toney</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The research objective of this grant is to elucidate the fundamental mechanism that is responsible for simultaneous oleophobic/hydrophilic behavior observed on the solid surface coated with a nanometer-thick polymer. Although surfaces more wettable to water than to oil have many important applications, such surfaces have been very rarely reported. Recent studies indicate that such anomalous wetting behavior could be achieved by applying some nanometer-thick polymer coating on some solid substrate. However, the mechanism responsible for the interesting and puzzling result remains unclear to date. To understand the mechanism, the PI will investigate how exactly the polymer-substrate interaction affects the "static" and "dynamic" holes in the polymer nanofilms by x-ray reflectometry (XRR) and time-of-flight secondary ion mass spectrometry (ToF-SIMS) to establish the kinetics of the wetting process of water and oil. The PI also will identify the key parameters, including polymer structure, substrate structure, and photochemical irradiation process, that govern simultaneous oleophobicity/hydrophilicity.&lt;br/&gt;&lt;br/&gt;If successful, the underlying mechanism of simultaneous oleophobicity/hydrophilicity will be discovered, and design criteria will be established. Simultaneous oleophobic/hydrophilic surfaces are highly desirable in many important applications, including detergent-free cleaning, anti-fogging, and oil-water separating. Understanding how to fabricate such surfaces will greatly impact the field of environment and energy. The research project also will promote the participation of the students from underrepresented groups in science and engineering fields, including providing research training to graduate and undergraduate students, developing a new courses, and conducting outreach activities, such as the ENGAGE program that recently was established at the University of Pittsburgh under the PI's direction. Through multi-faceted activities, the PI will promote interest and participation in science and engineering disciplines on the part of students of all ages.</AbstractNarration>
+    <MinAmdLetterDate>08/23/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/23/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1233161</AwardID>
+    <Investigator>
+      <FirstName>Lei</FirstName>
+      <LastName>Li</LastName>
+      <EmailAddress>lel55@pitt.edu</EmailAddress>
+      <StartDate>08/23/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Pittsburgh</Name>
+      <CityName>Pittsburgh</CityName>
+      <ZipCode>152132303</ZipCode>
+      <PhoneNumber>4126247400</PhoneNumber>
+      <StreetAddress>University Club</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Pennsylvania</StateName>
+      <StateCode>PA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1633</Code>
+      <Text>MATERIALS AND SURFACE ENG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

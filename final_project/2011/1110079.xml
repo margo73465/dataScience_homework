@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>RAPID: Understanding and Preventing Scam on Craigslist</AwardTitle>  
+    <AwardEffectiveDate>01/01/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>12/31/2011</AwardExpirationDate>  
+    <AwardAmount>49999</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>05050000</Code>  
+      <Directorate> 
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Computer and Network Systems</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Samuel M. Weber</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>This research develops a data set of postings on Craigslist during the mid-November to late December 2010 time period. The purpose of the data set is to support subsequent analysis for evidence of "scams" -- fraudulent postings. The dataset will provide a basis for testing algorithms for automatic scam identification. Such scams are expected to be most common during the high volume period targeted for collection.</AbstractNarration>  
+    <MinAmdLetterDate>12/22/2010</MinAmdLetterDate>  
+    <MaxAmdLetterDate>12/22/2010</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1110079</AwardID>  
+    <Investigator> 
+      <FirstName>Minaxi</FirstName>  
+      <LastName>Gupta</LastName>  
+      <EmailAddress>minaxi@cs.indiana.edu</EmailAddress>  
+      <StartDate>12/22/2010</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>Indiana University</Name>  
+      <CityName>Bloomington</CityName>  
+      <ZipCode>474013654</ZipCode>  
+      <PhoneNumber>8128550516</PhoneNumber>  
+      <StreetAddress>509 E 3RD ST</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Indiana</StateName>  
+      <StateCode>IN</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>7795</Code>
+      <Text>TRUSTWORTHY COMPUTING</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

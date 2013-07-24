@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Norwich University Scholarship for Service - 2012</AwardTitle>  
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>  
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>  
+    <AwardAmount>352748</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Continuing grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>11040000</Code>  
+      <Directorate> 
+        <LongName>Directorate for Education &amp; Human Resources</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Undergraduate Education</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Victor P. Piotrowski</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>The School of Business and Management at Norwich University is supporting four cohorts of upper-class undergraduate students in Computer Security and Information Assurance (CSIA) for the CyberCorps®: Scholarship for Service (SFS) program. Students elect one of two concentrations -- Forensics or Advanced INFOSEC -- and are expected to meet the standards established by the National Security Telecommunications and Information Systems Security Committee for Information Systems Security Professionals upon graduation. Norwich's CSIA program has been designated as both a Center of Academic Excellence in Information Assurance (since 2001) and, most recently, a Center of Digital Forensic Academic Excellence by DC3 in the Department of Defense.&lt;br/&gt;&lt;br/&gt;The Norwich SFS program supports the Nation's demand for information assurance professionals in the federal workforce with expertise that ultimately contributes to the protection of the national information infrastructure. Students develop a thorough commitment to a multi-disciplinary perspective on computer security, with awareness of how technology must be integrated with human factors for success in defending information resources. This is done within a program that emphasizes internships and academic-year activities that serve to reconnect students constantly to the importance of IA for our economy. The program's strong mentoring component also gives students grounding in the advantages of a cooperative culture as they transition to the workplace. Additionally, the SFS program seeks to increase participation from more women and veterans, the latter group aligning closely with the military orientation of Norwich.</AbstractNarration>  
+    <MinAmdLetterDate>08/20/2012</MinAmdLetterDate>  
+    <MaxAmdLetterDate>08/20/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1241592</AwardID>  
+    <Investigator> 
+      <FirstName>Michel</FirstName>  
+      <LastName>Kabay</LastName>  
+      <EmailAddress>mkabay@norwich.edu</EmailAddress>  
+      <StartDate>08/20/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Peter</FirstName>  
+      <LastName>Stephenson</LastName>  
+      <EmailAddress>pstephen@norwich.edu</EmailAddress>  
+      <StartDate>08/20/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>Norwich University</Name>  
+      <CityName>Northfield</CityName>  
+      <ZipCode>056630000</ZipCode>  
+      <PhoneNumber>8024852981</PhoneNumber>  
+      <StreetAddress>158 Harmon Drive</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Vermont</StateName>  
+      <StateCode>VT</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>1668</Code>
+      <Text>FED CYBER SERV: SCHLAR FOR SER</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

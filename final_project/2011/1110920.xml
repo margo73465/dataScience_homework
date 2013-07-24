@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Intergovernmental Mobility Assignment</AwardTitle>
+    <AwardEffectiveDate>11/22/2010</AwardEffectiveDate>
+    <AwardExpirationDate>09/10/2012</AwardExpirationDate>
+    <AwardAmount>407244</AwardAmount>
+    <AwardInstrument>
+      <Value>Intergovernmental Personnel Award</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Advanced CyberInfrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mark A. Suskin</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>11/30/2010</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/14/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1110920</AwardID>
+    <Investigator>
+      <FirstName>Gabrielle</FirstName>
+      <LastName>Allen</LastName>
+      <EmailAddress>gallen@cct.lsu.edu</EmailAddress>
+      <StartDate>11/30/2010</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Louisiana State University &amp; Agricultural and Mechanical College</Name>
+      <CityName>Baton Rouge</CityName>
+      <ZipCode>708032701</ZipCode>
+      <PhoneNumber>2255782760</PhoneNumber>
+      <StreetAddress>202 Himes Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Louisiana</StateName>
+      <StateCode>LA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>9199</Code>
+      <Text>UNDISTRIBUTED PANEL/IPA FUNDS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

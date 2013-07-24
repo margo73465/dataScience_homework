@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Establishing the Shear Constitutive Laws of Fiber-Reinforced Polymer (FRP)-Strengthened Concrete Elements</AwardTitle>  
+    <AwardEffectiveDate>07/01/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>12/31/2013</AwardExpirationDate>  
+    <AwardAmount>297065</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>07030000</Code>  
+      <Directorate> 
+        <LongName>Directorate for Engineering</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Civil, Mechanical and Manufacturing Innovation</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Yick Grace Hsuan</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>The objective of this research study is to establish new constitutive laws for Fiber-Reinforced Polymer (FRP)-strengthened reinforced concrete elements subjected to pure shear. The use of FRP materials in civil engineering as an economical method for strengthening of deficient concrete structures dates back to the 1970s. Development of material constitutive models for FRP shear-strengthened concrete elements has not been previously conducted due to lack of experimental data. An element-based approach will be adopted in which constitutive relations of panel elements making up the composite structure are developed then integrated using the finite element method to predict the overall behavior. In order to generate these relations, large-scale tests of a series of FRP-strengthened reinforced concrete panels subjected to pure shear will be conducted using the University of Houston unique Universal Panel Tester machine. The NSF-supported program OpenSees will be used to develop the new finite element models.&lt;br/&gt;&lt;br/&gt;This research study is expected to improve the accuracy of available design guidelines. This research study will have broader impact through the development of new educational modules that aim at expanding the knowledge of FRP composite materials to K-12, undergraduate and graduate students, as well as practicing engineers. Recruiting of under-represented students will be conducted through coordination with existing outreach programs at the University of Houston. A technology transfer plan will be implemented, in which the research results are disseminated to the practicing engineering community through a series of seminars and presentations at national and international conferences, and publications in refereed technical journals.</AbstractNarration>  
+    <MinAmdLetterDate>04/13/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>02/18/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1100930</AwardID>  
+    <Investigator> 
+      <FirstName>Abdeldjelil</FirstName>  
+      <LastName>Belarbi</LastName>  
+      <EmailAddress>belarbi@uh.edu</EmailAddress>  
+      <StartDate>04/13/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Ashraf</FirstName>  
+      <LastName>Ayoub</LastName>  
+      <EmailAddress>asayoub@uh.edu</EmailAddress>  
+      <StartDate>04/13/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>University of Houston</Name>  
+      <CityName>Houston</CityName>  
+      <ZipCode>772042015</ZipCode>  
+      <PhoneNumber>7137439240</PhoneNumber>  
+      <StreetAddress>4800 Calhoun Boulevard</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Texas</StateName>  
+      <StateCode>TX</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>1635</Code>
+      <Text>STRUCTURAL MATERIALS AND MECH</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

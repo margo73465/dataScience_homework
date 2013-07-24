@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EAGER: A Study of the National Software Cyberinfrastructure Environment</AwardTitle>
+    <AwardEffectiveDate>05/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2013</AwardExpirationDate>
+    <AwardAmount>297402</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Advanced CyberInfrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Daniel Katz</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Proposal#11129017&lt;br/&gt;PI Name: James Bottum (Clemson University)&lt;br/&gt;Title: EAGER: A Study of the National Software Cyberinfrastructure Environment&lt;br/&gt;&lt;br/&gt;Abstract&lt;br/&gt;&lt;br/&gt;This study of software infrastructure for the NSF community includes analysis and inventory the state of software technologies and their use in science and engineering environments dependent on cyberinfrastructure. Results include a taxonomy of software funded by NSF to support NSF science and engineering research and education, recommended questions for NSF to consider in the analysis of impact by software investments, the identification of a target set within the NSF community to engage in a future possible survey intended to inform NSF on use of software infrastructure, and culminating in a presentation to NSF's Advisory Committee on Cyberinfrastructure (ACCI). The study addresses the need for a more accurate understanding of the state of comprehensive software infrastructure in current NSF community settings from a combined qualitative and quantitative perspective - the project attempts to provide new insight and awareness of the software infrastructure.</AbstractNarration>
+    <MinAmdLetterDate>03/30/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/30/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1129017</AwardID>
+    <Investigator>
+      <FirstName>James</FirstName>
+      <LastName>Bottum</LastName>
+      <EmailAddress>jb@clemson.edu</EmailAddress>
+      <StartDate>03/30/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Nathan</FirstName>
+      <LastName>Bohlmann</LastName>
+      <EmailAddress>nlb@clemson.edu</EmailAddress>
+      <StartDate>03/30/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Clemson University</Name>
+      <CityName>CLEMSON</CityName>
+      <ZipCode>296340001</ZipCode>
+      <PhoneNumber>8646562424</PhoneNumber>
+      <StreetAddress>300 BRACKETT HALL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>South Carolina</StateName>
+      <StateCode>SC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7683</Code>
+      <Text>SOFTWARE DEVELOPEMENT FOR CI</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

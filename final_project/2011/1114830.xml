@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Pulsar research at the Arecibo Observatory: a celebration of five key contributors</AwardTitle>  
+    <AwardEffectiveDate>03/01/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>02/29/2012</AwardExpirationDate>  
+    <AwardAmount>28600</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>03020400</Code>  
+      <Directorate> 
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Astronomical Sciences</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Maria Womack</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>This award will provide partial support for the conference "Pulsar research at the Arecibo Observatory: a celebration of five key contributors," to be held in Arecibo, Puerto Rico in March 2011. &lt;br/&gt;&lt;br/&gt;This conference brings together about 100 researchers (including 20-30 students and new researchers) to review major contributions to the field, and discuss future directions. Topics will include pulsar timing, emission mechanisms, polarimetry, using pulsars to detect low-frequency gravitational waves, and as probes of the interstellar medium.</AbstractNarration>  
+    <MinAmdLetterDate>02/28/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>02/28/2011</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1114830</AwardID>  
+    <Investigator> 
+      <FirstName>Andrea</FirstName>  
+      <LastName>Lommen</LastName>  
+      <EmailAddress>alommen@fandm.edu</EmailAddress>  
+      <StartDate>02/28/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>2</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Duncan</FirstName>  
+      <LastName>Lorimer</LastName>  
+      <EmailAddress>Duncan.Lorimer@mail.wvu.edu</EmailAddress>  
+      <StartDate>02/28/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>West Virginia University Research Corporation</Name>  
+      <CityName>Morgantown</CityName>  
+      <ZipCode>265066845</ZipCode>  
+      <PhoneNumber>3042933998</PhoneNumber>  
+      <StreetAddress>P.O. Box 6845</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>West Virginia</StateName>  
+      <StateCode>WV</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>1215</Code>
+      <Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>CAREER: Rusting the Earth: the mechanisms and mineralogy of microbial Fe oxidation</AwardTitle>  
+    <AwardEffectiveDate>08/15/2012</AwardEffectiveDate>  
+    <AwardExpirationDate>07/31/2017</AwardExpirationDate>  
+    <AwardAmount>400000</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>06030205</Code>  
+      <Directorate> 
+        <LongName/> 
+      </Directorate>  
+      <Division> 
+        <LongName/> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Enriqueta Barrera</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>Microbes are the most numerous, widespread, and metabolically-versatile organisms, impacting the chemistry of virtually every environment on Earth?s surface. Some microorganisms are able to oxidize iron, the most abundant element in the Earth?s crust that serves as an electron donor. In fact, Fe-oxidizing microorganisms (FeOM) have likely been oxidizing, or ?rusting,? the Earth for billions of years. In near-neutral pH environments, FeOM form iron oxides, which strongly adsorb metals and nutrients (e.g. arsenic and phosphate); hence mineral formation significantly affects element bioavailability as well as soil and water quality. Despite the prevalence of Fe oxidation today and in the past, the mechanisms and extent of biological influence are poorly characterized. While some of this oxidation is abiotic, microbial Fe oxidation is predicted to dominate low oxygen, redox gradient environments found in circumneutral aquifers and soils, where abiotic oxidation rates are slow. However, few neutrophilic species have been unambiguously shown to oxidize Fe; therefore little is known about the diversity, genetics and biochemistry of FeOM that function at neutral pH. In order to accurately describe modern and ancient Fe cycling on Earth, it is necessary to develop methods to recognize and quantify circumneutral microbial Fe oxidation and resulting effects. To address this, the investigator proposes the following research objectives: &lt;br/&gt;1. Isolate and characterize novel, key FeOM from groundwater and thus expand the currently limited knowledge of FeOM diversity. &lt;br/&gt;2. Discover key proteins involved in Fe oxidation and mineral formation, to gain insight into bio(geo)chemical mechanisms and to give us the abilities to assay Fe-oxidation and recognize the genetic capability in (meta)genomes. &lt;br/&gt;3. Characterize the morphology and composition of FeOM mineral products, in comparison to abiotic minerals and natural aquifer oxides, and thus understand how microbes affect mineral properties and how to distinguish biominerals. &lt;br/&gt;&lt;br/&gt;Through these objectives, the investigator will develop an integrated microbiological, biochemical, mineralogical and geochemical understanding of microbial oxidation of Fe. The work will be performed in conjunction with the NSF Christina River Basin Critical Zone Observatory (CRB-CZO) in Delaware and Pennsylvania. It will take advantage of well-characterized and instrumented aquifers and streams, and a network of scientists studying mineral-carbon interactions from the molecular to the watershed scale. It will use CRB-CZO sites as a source of novel FeOM and as a testing ground for our new methods for detecting FeOM presence, activity, and mineralogical effects. In the process, this project will contribute a microbial perspective to the CZO aims, demonstrating how FeOM affect mineral-carbon interactions and therefore contribute to carbon sequestration in the Christina River Basin watershed. &lt;br/&gt;&lt;br/&gt;The educational objectives are to: 1. Develop an inquiry-based undergraduate geomicrobiology class. &lt;br/&gt;2. Create a curriculum for a ?Microbes in the Wild!? science camp focused on under-represented female middle school students. 3. Develop a graduate class that improves students? skills in communicating environmental geoscience to scientific colleagues and the public. The research will be incorporated into the activities mentioned above and in continuing outreach programs, including school presentations, teacher workshops, the college?s annual Coast Day, Science Café, and other opportunities organized by the Delaware Sea Grant office.</AbstractNarration>  
+    <MinAmdLetterDate>08/01/2012</MinAmdLetterDate>  
+    <MaxAmdLetterDate>08/01/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1151682</AwardID>  
+    <Investigator> 
+      <FirstName>Clara</FirstName>  
+      <LastName>Chan</LastName>  
+      <EmailAddress>cschan@udel.edu</EmailAddress>  
+      <StartDate>08/01/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>University of Delaware</Name>  
+      <CityName>Newark</CityName>  
+      <ZipCode>197162553</ZipCode>  
+      <PhoneNumber>3028312136</PhoneNumber>  
+      <StreetAddress>210 Hullihen Hall</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Delaware</StateName>  
+      <StateCode>DE</StateCode> 
+    </Institution>  
+    <ProgramElement> 
+      <Code>7295</Code>  
+      <Text>GEOBIOLOGY &amp; LOW TEMP GEOCHEM</Text> 
+    </ProgramElement>  
+    <ProgramElement> 
+      <Code>016F</Code>  
+      <Text>EARTHSCOPE-OPERATIONS &amp; MAINTE</Text> 
+    </ProgramElement>  
+    <ProgramElement>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

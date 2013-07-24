@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>U.S.-Japan Bilateral Workshop: The Tropical Tropopause Layer</AwardTitle>
+    <AwardEffectiveDate>07/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2014</AwardExpirationDate>
+    <AwardAmount>35418</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01060200</Code>
+      <Directorate>
+        <LongName>OFFICE OF THE DIRECTOR</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of International and Integrative Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>R. Clive Woods</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project will catalyze collaborations between US and Japanese scientists working on the Tropical Tropopause Layer by convening a bilateral workshop in Honolulu to discuss research and educational questions in this field. This is an underdeveloped area of US-Japan research and is timely. There is significant support of students and young researchers. Significance and importance are that outcomes include better understanding of Tropospheric climate and stratospheric chemistry.</AbstractNarration>
+    <MinAmdLetterDate>02/27/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/27/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1158805</AwardID>
+    <Investigator>
+      <FirstName>Kevin</FirstName>
+      <LastName>Hamilton</LastName>
+      <EmailAddress>kph@soest.hawaii.edu</EmailAddress>
+      <StartDate>02/27/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Gary</FirstName>
+      <LastName>Morris</LastName>
+      <EmailAddress>gary.morris@valpo.edu</EmailAddress>
+      <StartDate>02/27/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Andrew</FirstName>
+      <LastName>Gettelman</LastName>
+      <EmailAddress>andrew@ucar.edu</EmailAddress>
+      <StartDate>02/27/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Valparaiso University</Name>
+      <CityName>Valparaiso</CityName>
+      <ZipCode>463836493</ZipCode>
+      <PhoneNumber>2194645215</PhoneNumber>
+      <StreetAddress>1700 Chapel Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Indiana</StateName>
+      <StateCode>IN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7299</Code>
+      <Text>Catalyzing New Intl Collab</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>5740</Code>
+      <Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1525</Code>
+      <Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

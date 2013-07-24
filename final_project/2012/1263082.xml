@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: DIMACS REU in Computing Theory and Multidisciplinary Applications</AwardTitle>
+    <AwardEffectiveDate>04/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2016</AwardExpirationDate>
+    <AwardAmount>107999</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>John Reppy</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This funding renews a highly-successful CISE Research Experiences for Undergraduates (REU) site at the Center for Discrete Mathematics and Theoretical Computer Science, headquartered at Rutgers University (DIMACS). The site focuses on research in theoretical computer science, discrete mathematics, and their multidisciplinary applications. It exposes students to a broad range of Computer Science topics, applied in contexts that range from bioinformatics to big data. The site uses mentoring teams to support interdisciplinary research projects. The site has a long-standing collaboration with The DIMATIA Center at Charles University in the Czech Republic, and five students from the Czech Republic will participate in the first 7 weeks of the program each summer.&lt;br/&gt;&lt;br/&gt;This REU site will allow 10 undergraduate students per year from the United States to experience research in theoretical computer science, discrete mathematics, and their application to multidisciplinary research. These students will be joined by five Czech students each year and will have the opportunity to participate in the full range of scientific activities at DIMACS. The program aims to influence the choices about further education and future careers of the students involved, and to give them the confidence to pursue these choices. The site has a strong record of recruiting students from underrepresented groups and of publication of research results by the participating students.&lt;br/&gt;&lt;br/&gt;This site is co-funded by the Department of Defense in partnership with the NSF REU program.</AbstractNarration>
+    <MinAmdLetterDate>03/18/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/18/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1263082</AwardID>
+    <Investigator>
+      <FirstName>Rebecca</FirstName>
+      <LastName>Wright</LastName>
+      <EmailAddress>rebecca.wright@rutgers.edu</EmailAddress>
+      <StartDate>03/18/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Eugene</FirstName>
+      <LastName>Fiorini</LastName>
+      <EmailAddress>gfiorini@dimacs.rutgers.edu</EmailAddress>
+      <StartDate>03/18/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Rutgers University New Brunswick</Name>
+      <CityName>NEW BRUNSWICK</CityName>
+      <ZipCode>089018559</ZipCode>
+      <PhoneNumber>8489320150</PhoneNumber>
+      <StreetAddress>3 RUTGERS PLAZA</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1139</Code>
+      <Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>L644</Code>
+      <Text></Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

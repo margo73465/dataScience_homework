@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>FY12 Personnel and Payroll Services for Department of Interior (original grant was 0336368).</AwardTitle>
+    <AwardEffectiveDate>12/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2013</AwardExpirationDate>
+    <AwardAmount>1054112</AwardAmount>
+    <AwardInstrument>
+      <Value>Contract Interagency Agreement</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>02040003</Code>
+      <Directorate>
+        <LongName>Office of Information &amp; Resource Management</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Human Resource Management</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jeffrey Cunningham</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>02/08/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/20/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1216266</AwardID>
+    <Investigator>
+      <FirstName>Bill</FirstName>
+      <LastName>Stebbins</LastName>
+      <EmailAddress/>
+      <StartDate>02/08/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Department of Interior</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>20240</ZipCode>
+      <PhoneNumber/>
+      <StreetAddress/>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>0723</Code>
+      <Text>SHARED SERVICES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>International: Student Participation in a Unique Meteor Radar for Atmospheric Studies in Argentina</AwardTitle>
+    <AwardEffectiveDate>05/03/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2013</AwardExpirationDate>
+    <AwardAmount>77574</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01060200</Code>
+      <Directorate>
+        <LongName>OFFICE OF THE DIRECTOR</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of International and Integrative Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Anne-Marie Schmoltner</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>0824742&lt;br/&gt;Janches&lt;br/&gt;&lt;br/&gt;This award will support Dr. Diego Janches of Northwest Research Association, Incorporated in a research and education collaboration with Drs. Claudio Brunini and Jose L. Hornaechea of Universidad Nacional de la Plata in La Plata (UNLP), Argentina. The proposed activity will involve students in an ongoing international research project that is potentially transformative. The research involves a new meteor radar that has not been possible (or attempted) with such a system to date and is positioned in a region of the world that is lacking instrumentation. This radar system is currently being deployed at the Astronomical Station Rio Grande (EARG), Tierra del Fuego, Argentina, and was specifically designed to pursue a number of synergetic research efforts including the characterization of the meteoroid population and large-scale atmospheric dynamics. The proposed measurements are magnetically conjugate to a number of northern-hemisphere radars and will further our understanding of global upper atmospheric systems. The participants will work closely with the Argentine collaborators in the analysis and interpretation of the radar data with the end goal of finding correlations between the radar data and small-scale gravity waves signatures in GPS measurements. &lt;br/&gt;&lt;br/&gt;This proposed activity will actively involve U.S. students and Argentine researchers in the development, deployment, and maintenance of a radar system. Additionally, the award will provide an international research experience to four U.S. students and they will be mentored by highly-qualified researchers in the U.S. and Argentina. Furthermore, the project will promote atmospheric and space science in Argentina with the goal to develop the first graduate curriculum in this field in Argentina. The PIs, with their Argentine collaborators, will offer seminars to students and faculty at UNLP on atmospheric sciences and aeronomy.</AbstractNarration>
+    <MinAmdLetterDate>06/27/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/27/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1139862</AwardID>
+    <Investigator>
+      <FirstName>Carlos</FirstName>
+      <LastName>Martinis</LastName>
+      <EmailAddress>martinis@bu.edu</EmailAddress>
+      <StartDate>06/27/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Trustees of Boston University</Name>
+      <CityName>BOSTON</CityName>
+      <ZipCode>022151300</ZipCode>
+      <PhoneNumber>6173534365</PhoneNumber>
+      <StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7298</Code>
+      <Text>COLLABORATIVE RESEARCH</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1521</Code>
+      <Text>AERONOMY</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

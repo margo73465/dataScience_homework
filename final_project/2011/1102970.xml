@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CGS/NSF Dean in Residence</AwardTitle>
+    <AwardEffectiveDate>06/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2014</AwardExpirationDate>
+    <AwardAmount>1141019</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11010101</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Graduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Myles G. Boylan</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project is renewing the Dean-in-Residence Program (DIR) at the National Science Foundation. This program has been run twice before in the early 21rst Century. The DIR program is a cooperative activity between the Council of Graduate Schools (CGS) and the Division of Graduate Education. It is designed to improve communication and understanding about issues in graduate STEM education through a partnership between the National Science Foundation (NSF) and the graduate community represented by the Council of Graduate School, which is the only U.S. organization dedicated solely to the advancement of graduate education and research, with a membership of over 500 institutions of higher education. The core purpose of the DIR Program is to improve substantive ongoing communications between senior university leaders of graduate education and the NSF. This partnership can contribute significantly to the NSF portfolio in graduate education and result in the improvement of graduate education in the U.S. The program renews the DIR each year through the joint selection of a new dean by NSF and CGS. The selected individual is in residence at the NSF at least 60% of the time and as much as 80%, with the remaining work time spent at CGS. In recent years, the CGS has undertaken large scale projects and increased analyses that are useful to the NSF in assessing the effectiveness of their programs to support graduate students. An example is the Doctoral Completion project - a long term effort to measure accurately what fraction of students admitted to PhD programs complete their degrees in a certain amount of time, how completion rates differ by key variables (e.g. field of degree), and how to improve completion. In general the analyses and data provided by CGS are valuable to NSF program planning and evaluation.</AbstractNarration>
+    <MinAmdLetterDate>05/26/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/19/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1102970</AwardID>
+    <Investigator>
+      <FirstName>Debra</FirstName>
+      <LastName>Stewart</LastName>
+      <EmailAddress>dstewart@cgs.nche.edu</EmailAddress>
+      <StartDate>05/26/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Council of Graduate Schools</Name>
+      <CityName>Washington</CityName>
+      <ZipCode>200361173</ZipCode>
+      <PhoneNumber>2022233791</PhoneNumber>
+      <StreetAddress>1 Dupont Circle NW</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7172</Code>
+      <Text>GRADUATE RESEARCH FELLOWSHIPS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

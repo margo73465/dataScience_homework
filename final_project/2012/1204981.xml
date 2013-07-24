@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Digital Modeling, Analysis and Fabrication (DMAF) Project</AwardTitle>
+    <AwardEffectiveDate>05/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2016</AwardExpirationDate>
+    <AwardAmount>598349</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040100</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Louis J. Everett</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Diablo Valley College is creating a digital modeling, analysis and fabrication laboratory and developing its associated curriculum. The laboratory incorporates digital design, fabrication, materials testing, sustainability and construction in an environment available to all students on campus. This benefits all students on campus. The project is producing a new degree in engineering manufacturing and certificates in industrial design and digital fabrication. These new programs support career pathways for technicians and transfer students.&lt;br/&gt;&lt;br/&gt;The laboratory is building on existing relationships with the Lawrence Berkeley National Laboratory, Cal Poly San Luis Obispo, San Jose State University and the University of California Berkeley. The program also helps economic and workforce development in the region. Finally, the program is addressing high school student misunderstandings about technical manufacturing careers in an effort to increase the number of students who enter the STEM workforce.</AbstractNarration>
+    <MinAmdLetterDate>04/25/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/25/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1204981</AwardID>
+    <Investigator>
+      <FirstName>Daniel</FirstName>
+      <LastName>Abbott</LastName>
+      <EmailAddress>DAbbott@dvc.edu</EmailAddress>
+      <StartDate>04/25/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Contra Costa Community College</Name>
+      <CityName>San Pablo</CityName>
+      <ZipCode>948063166</ZipCode>
+      <PhoneNumber>5102357800</PhoneNumber>
+      <StreetAddress>2600 Mission Bell Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7412</Code>
+      <Text>ADVANCED TECH EDUCATION PROG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

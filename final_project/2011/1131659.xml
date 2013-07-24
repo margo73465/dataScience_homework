@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Bio-Inspired Design, Fabrication and Testing of Bipolar Plates for PEM Fuel Cells</AwardTitle>
+    <AwardEffectiveDate>08/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2014</AwardExpirationDate>
+    <AwardAmount>347061</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030004</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Zhijian Pei</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The objective of this award is to improve the power density of Proton Exchange Membrane fuel cells using a bio-inspired design. Graphite composite bipolar plates will be designed with complex flow paths modeled after leaf structures and fabricated using selective laser sintering, an additive manufacturing process that enables manufacture of the complex designs. Optimization of the design will be based on mathematical flow models taking into account governing mass, momentum, species and charge conservation. Experiments will be conducted to verify accuracy of finite element analyses of power density versus pressure distribution. Power density comparisons will be made with bipolar plates of conventional design.&lt;br/&gt;&lt;br/&gt;If successful, this research is expected to yield a new approach to the design and manufacture of Proton Exchange Membrane fuel cells that will have more efficient fuel transport and water removal. This could lead to more widespread adoption of fuel cell technologies for energy conversion across a variety of applications.</AbstractNarration>
+    <MinAmdLetterDate>08/01/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/25/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1131659</AwardID>
+    <Investigator>
+      <FirstName>Ming</FirstName>
+      <LastName>Leu</LastName>
+      <EmailAddress>mleu@mst.edu</EmailAddress>
+      <StartDate>08/01/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Umit</FirstName>
+      <LastName>Koylu</LastName>
+      <EmailAddress>koyluu@mst.edu</EmailAddress>
+      <StartDate>08/01/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Missouri University of Science and Technology</Name>
+      <CityName>Rolla</CityName>
+      <ZipCode>654096506</ZipCode>
+      <PhoneNumber>5733414134</PhoneNumber>
+      <StreetAddress>300 W 12th Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Missouri</StateName>
+      <StateCode>MO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1468</Code>
+      <Text>Manufacturing Machines &amp; Equip</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

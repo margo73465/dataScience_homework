@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Deconstructable Systems for Sustainable Design of Steel and Composite Structures</AwardTitle>
+    <AwardEffectiveDate>07/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2014</AwardExpirationDate>
+    <AwardAmount>254800</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kishor Mehta</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project explores a new design approach, Design for Deconstruction that has emerged to facilitate future reuse of materials. The objectives of the proposed research are to develop new structural system concepts and establish comprehensive life-cycle assessment for deconstructable steel and composite steel/concrete construction. Design for Deconstruction coupled with the use of recycled materials will facilitate sustainable construction. Composite steel/concrete floor systems, by far the most ubiquitous type of structural steel framing for commercial and institutional buildings, is a key focus of this work. These floor systems currently require monolithic construction to ensure adequate performance. While these floor system materials may be recycled, currently they cannot be refabricated and reused in buildings. The proposed system maintains the efficiency benefits offered by composite action of steel and concrete construction, including reduced steel beam sizes and flexible floor framing patterns, while directly addressing the need to reduce waste in the construction industry. The research includes quantification of deconstructable connection behavior through conducting full-scale component tests of clamping connections, and conducting full-scale tests and corroborating analyses of the proposed deconstructable composite floor system to validate the integrity of the system. The project includes advancement of the methodologies for conducting environmental life-cycle assessment of deconstructable systems, and developing design strategies for deconstructable steel framing systems. &lt;br/&gt;&lt;br/&gt;The proposed research is expected to establish fundamental strategies for predicting the behavior and design of sustainable steel structures through combining prefabrication strategies with Design for Deconstruction to achieve direct reusability of composite floor systems. Coupled with advancement in life-cycle assessment strategies for deconstructable steel framing systems, this research is expected to provide fundamental knowledge towards encouraging and codifying a reduction in material use and associated environmental impacts in the steel construction industry. Since building construction accounts for a significant portion of all environmental impacts associated with buildings, reusing composite floors will have significant environmental benefits.</AbstractNarration>
+    <MinAmdLetterDate>04/10/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/25/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1200820</AwardID>
+    <Investigator>
+      <FirstName>Jerome</FirstName>
+      <LastName>Hajjar</LastName>
+      <EmailAddress>jf.hajjar@neu.edu</EmailAddress>
+      <StartDate>04/10/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Mark</FirstName>
+      <LastName>Webster</LastName>
+      <EmailAddress>mdwebster@sgh.com</EmailAddress>
+      <StartDate>04/10/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Northeastern University</Name>
+      <CityName>BOSTON</CityName>
+      <ZipCode>021155005</ZipCode>
+      <PhoneNumber>6173735600</PhoneNumber>
+      <StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1637</Code>
+      <Text>HAZARD MIT &amp; STRUCTURAL ENG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

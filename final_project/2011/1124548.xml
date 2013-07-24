@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>EXP: Exploring augmented reality to improve learning by deaf children in planetariums</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>300000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Janet L. Kolodner</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project is investigating the use of head-mounted augmented reality (AR) to improve learning outcomes among deaf and hard of hearing learners in situations that make learning logistically-challenging for them, specifically presentation situations where there is also some scenario that needs to be focused on visually. The work is being carried out in planetaria, where learners wear a monocle that displays a signer in a way that allows the learner to look at both the signed interpretation of the presentation and the scenario of interest at the same time. The design of the technology and way it is being used is informed by the literature on cognitive load and by literature on multimedia learning theory (Mayer, 2005). Results are applicable to a wide variety of logistically-challenging situations for deaf/hoh learners, including the kinds of informal learning venues that often excite the passions of hearing learners and perhaps in classrooms as well.&lt;br/&gt;&lt;br/&gt;Presentations, even when a signer is available, are often logistically-difficult for the deaf and hard-of-hearing population to take advantage of well. Moving attention back and forth between the interpreter to the objects or scenarios being described makes it difficult to follow a presentation and get everything out of it that a hearing person can get. This project is aiming to ameliorate this problem by designing technology that will project the interpreter's signs in the same field of vision as the object or scenario being discussed and learning how to use that technology well.</AbstractNarration>
+    <MinAmdLetterDate>08/27/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/27/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1124548</AwardID>
+    <Investigator>
+      <FirstName>Fred</FirstName>
+      <LastName>Mangrubang</LastName>
+      <EmailAddress>fred.mangrubang@gallaudet.edu</EmailAddress>
+      <StartDate>08/27/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Jones</LastName>
+      <EmailAddress>jones@cs.byu.edu</EmailAddress>
+      <StartDate>08/27/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Eric</FirstName>
+      <LastName>Hintz</LastName>
+      <EmailAddress>doctor@tardis.byu.edu</EmailAddress>
+      <StartDate>08/27/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ron</FirstName>
+      <LastName>Proctor</LastName>
+      <EmailAddress>ronproctor@science.weber.edu</EmailAddress>
+      <StartDate>08/27/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Brigham Young University</Name>
+      <CityName>Provo</CityName>
+      <ZipCode>846021231</ZipCode>
+      <PhoneNumber>8014226177</PhoneNumber>
+      <StreetAddress>A-285 ASB</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Utah</StateName>
+      <StateCode>UT</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8020</Code>
+      <Text>Cyberlearning: Transforming Ed</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7259</Code>
+      <Text>AISL</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1545</Code>
+      <Text>RES IN DISABILITIES ED</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

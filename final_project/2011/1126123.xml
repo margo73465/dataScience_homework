@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>MRI-Acquisition: Puerto Rico Atmospheric Major Research Laser Instrumentation Program (PR-LASER)</AwardTitle>
+    <AwardEffectiveDate>09/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2013</AwardExpirationDate>
+    <AwardAmount>658049</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020204</Code>
+      <Directorate>
+        <LongName>Directorate for Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Atmospheric and Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Robert M. Robinson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The investigators will acquire a state-of-the-art laser transmitter for the potassium Doppler resonance lidar at the Arecibo Observatory. This will replace the current transmitter, which is almost 15 years old and is difficult to maintain. The purpose of the upgrade is to 1) enhance upper-mesospheric research activities using new laser technology at Arecibo, 2) improve data quality, system reliability, and increased access to and training in the use of modern research instrumentation by scientists, engineers, and graduate and undergraduate students, and 3) implement a research training program in science, technology, engineering and mathematics (STEM) fields in optics with an emphasis on atmospheric remote sensing for students from pre-college through graduate school and science teachers from Puerto Rico at Universidad Metropolitana's Puerto Rico Optical Sciences Institute (PROptScI). The improved performance of the lidar will enhance the accuracy and precision of its measurements of potassium density and temperature and ultimately enable the measurement of winds in the mesosphere and lower thermosphere (MLT). When coupled with the ionospheric radar, the improved lidar will lead to around-the-clock measurements of MLT temperatures and winds, and daytime atmospheric air densities. The acquisition will create new synergy between the Arecibo Observatory and a majority-Hispanic university. Undergraduates from UMET will have the opportunity to participate in and learn the details of middle atmosphere research using state-of-the-art electro-optic technologies. These students will become leaders in their chosen careers because of the unique opportunities presented by this partnership. UMET will partner with the CRRL/CTC to develop lidar technologies and train undergraduate and graduate students who will be the next generation of lidar scientists.</AbstractNarration>
+    <MinAmdLetterDate>09/12/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/12/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1126123</AwardID>
+    <Investigator>
+      <FirstName>Juan</FirstName>
+      <LastName>Arratia</LastName>
+      <EmailAddress>um_jarratia@suagm.edu</EmailAddress>
+      <StartDate>09/12/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jonathan</FirstName>
+      <LastName>Friedman</LastName>
+      <EmailAddress>jonathansf13@gmail.com</EmailAddress>
+      <StartDate>09/12/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Universidad Metropolitana</Name>
+      <CityName>San Juan</CityName>
+      <ZipCode>009281150</ZipCode>
+      <PhoneNumber>7877510178</PhoneNumber>
+      <StreetAddress>PO Box 21150</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Puerto Rico</StateName>
+      <StateCode>PR</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1189</Code>
+      <Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1521</Code>
+      <Text>AERONOMY</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1189</Code>
+      <Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>4202</Code>
+      <Text>UPPER ATMOSPHERIC FACILITIES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>4444</Code>
+      <Text>INTERDISCIPLINARY PROPOSALS</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramReference>
+    <ProgramReference>
+      <Code/>
+      <Text/>
+    </ProgramReference>
+  </Award>
+</rootTag>

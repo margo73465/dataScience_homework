@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Biophysical Mechanisms of Pulmonary Surfactant and its Interactions with Therapeutic Agents</AwardTitle>
+    <AwardEffectiveDate>06/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2018</AwardExpirationDate>
+    <AwardAmount>80000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020004</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Chemical, Bioengineering, Environmental, and Transport Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Eddie Chang</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Abstract&lt;br/&gt;PI Yi Zuo&lt;br/&gt;1254795&lt;br/&gt;&lt;br/&gt;Pulmonary surfactant (PS) plays a crucial role in maintaining the normal respiratory mechanics by reducing the alveolar surface tension to near-zero. The research goal of this proposal is to study the biophysical mechanisms of PS and PS-drug interactions, using combined experimental and computational methods. There are 2 objectives: Objective 1. Study of biophysical mechanisms of natural pulmonary surfactant. Objective 2. Study of interactions between natural pulmonary surfactant and therapeutic agents (corticosteroids).&lt;br/&gt;The proposed studies include combinations of state-of-the-art methods that are being used in novel ways to gain a complete understanding of the mechanisms involved. &lt;br/&gt;&lt;br/&gt;This work is important to the general public because it will provide new insight into the role that PS plays in health and disease, thus advancing neonatal care in the United States. The primary educational goal of this proposal is to improve participation and success of Native Hawaiians, Pacific Islanders, and students from other underrepresented groups. The PI will also collaborate with the March of Dimes Foundation Hawaii Chapter to disseminate basic knowledge of prevention and management of preterm birth to Hawaiian youth.</AbstractNarration>
+    <MinAmdLetterDate>02/22/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/22/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1254795</AwardID>
+    <Investigator>
+      <FirstName>Yi</FirstName>
+      <LastName>Zuo</LastName>
+      <EmailAddress>yzuo@hawaii.edu</EmailAddress>
+      <StartDate>02/22/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Hawaii</Name>
+      <CityName>HONOLULU</CityName>
+      <ZipCode>968222234</ZipCode>
+      <PhoneNumber>8089567800</PhoneNumber>
+      <StreetAddress>2440 Campus Road, Box 368</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Hawaii</StateName>
+      <StateCode>HI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1414</Code>
+      <Text>INTERFAC PROCESSES &amp; THERMODYN</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

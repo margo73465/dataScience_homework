@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Amine Chemistry Relevant to Atmospheric New Particle Formation and Growth</AwardTitle>
+    <AwardEffectiveDate>08/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2014</AwardExpirationDate>
+    <AwardAmount>503000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03090000</Code>
+      <Directorate>
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Chemistry</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Zeev Rosenzweig</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The Environmental Chemical Sciences (ECS) program of the Division of Chemistry will support the research program of Prof. Murray V. Johnston of the University of Delaware. Prof. Johnston and his research group will develop and employ laser-based mass spectrometry methods to study the role of amines in the nucleation and growth of atmospheric aerosols. The study will elucidate reaction mechanisms and yield fundamental rate parameters necessary to accurately represent new aerosol particle formation and growth in atmospheric models. &lt;br/&gt;&lt;br/&gt;New particle formation events in the atmosphere is a global phenomenon that is thought to contribute substantially to the concentration of cloud condensation nuclei, thereby influencing precipitation patterns and Earth's energy balance. Prof. Johnston's study to elucidate the impact of amines on aerosol particle formation could lead to significant changes in atmospheric models that currently may underestimate the concentration and composition of aerosol particles in the atmosphere. The study will provide excellent training opportunities to undergraduate and graduate students in an area of research of great societal importance.</AbstractNarration>
+    <MinAmdLetterDate>06/09/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/24/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1110554</AwardID>
+    <Investigator>
+      <FirstName>Murray</FirstName>
+      <LastName>Johnston</LastName>
+      <EmailAddress>mvj@udel.edu</EmailAddress>
+      <StartDate>06/09/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Delaware</Name>
+      <CityName>Newark</CityName>
+      <ZipCode>197162553</ZipCode>
+      <PhoneNumber>3028312136</PhoneNumber>
+      <StreetAddress>210 Hullihen Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Delaware</StateName>
+      <StateCode>DE</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>6882</Code>
+      <Text>Environmental Chemical Science</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

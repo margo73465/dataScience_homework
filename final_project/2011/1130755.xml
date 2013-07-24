@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Large Stroke Microscale Actuators Based on Electrowetting</AwardTitle>
+    <AwardEffectiveDate>08/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2014</AwardExpirationDate>
+    <AwardAmount>369721</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030004</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Zhijian Pei</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The research objective of this award is to test the hypothesis that lumped parameter models and basic scaling laws can predict the dynamic forces applied by microscale electrowetting actuators. To realize this goal, the forces applied during droplet actuation must be characterized. The approach used in this work is to separately characterize the force and electrical characteristics of the actuation system under static conditions. These responses will be combined into equivalent energy storage and damping effects that are analogous to dynamic models of conventional mechanical actuators. The models will be evaluated and refined using dynamic testing. &lt;br/&gt;&lt;br/&gt;Microscale positioning and actuation methods are limited by the relatively large size of the actuators and the challenge of grasping and releasing small objects without damaging them. Current methods of positioning and actuating small objects are limited to small motions and/or require bulky macroscale components. This project will enable the use of small droplets to move parts by adapting methods for moving individual droplets from microfluidics. If successful, this work will provide new methods for positioning sub-millimeter parts and actuating microscale devices with high speed and precision. However, electrowetting can readily actuate large distances using only easily manufactured substrates and an electrical source. This capability will facilitate the manipulation and actuation of many microscale systems. It may be particularly suited for the assembly of small parts made from different processes and/or materials into systems with higher levels of performance than can be achieved through in-situ manufacturing. Potential applications include the assembly of energy harvesting devices, small scale robots, and other microelectromechanical systems. The knowledge from this proposal will also benefit other applications of electrowetting including low cost medical diagnostics and display applications.</AbstractNarration>
+    <MinAmdLetterDate>07/15/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/12/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1130755</AwardID>
+    <Investigator>
+      <FirstName>Alex</FirstName>
+      <LastName>Volinsky</LastName>
+      <EmailAddress>volinsky@usf.edu</EmailAddress>
+      <StartDate>07/15/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Rasim</FirstName>
+      <LastName>Guldiken</LastName>
+      <EmailAddress>guldiken@eng.usf.edu</EmailAddress>
+      <StartDate>07/15/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Nathan</FirstName>
+      <LastName>Crane</LastName>
+      <EmailAddress>nbcrane@eng.usf.edu</EmailAddress>
+      <StartDate>07/15/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of South Florida</Name>
+      <CityName>Tampa</CityName>
+      <ZipCode>336129446</ZipCode>
+      <PhoneNumber>8139745465</PhoneNumber>
+      <StreetAddress>3702 Spectrum Blvd.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1468</Code>
+      <Text>Manufacturing Machines &amp; Equip</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

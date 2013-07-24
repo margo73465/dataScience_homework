@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Domain-Specific Modeling Techniques for Cyber-Physical Systems</AwardTitle>
+    <AwardEffectiveDate>05/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>04/30/2018</AwardExpirationDate>
+    <AwardAmount>92070</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05050000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Network Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Theodore Baker</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The objective of this research is an injection of new modeling techniques into the area of Cyber-Physical Systems (CPSs). The approach is to design new architectures for domain-specific modeling tools in order to permit feedback from analysis, validation, and verification engines to influence how CPSs are designed. This project involves new research into the integration of existing, heterogeneous modeling languages in order to address problems in CPS design, rather than a single language for all CPS. Since many tools for analysis, validation, and verification focus on at most two of the three major components of CPS (communication, computation, and control), new paradigms in modeling are used to integrate tools early in the design process. The algorithms and software developed in this project run validation and verification tools on models, and then close the loop by using the tool outputs to automatically modify the system models.&lt;br/&gt;&lt;br/&gt;The satisfaction of design requirements in CPSs is critical for tomorrow's societal technologies such as smart buildings, home healthcare, and water management. Among the most compelling design requirements are those of safety, and CPSs for autonomous vehicles exemplify this well. By involving a full-sized autonomous vehicle in this project, the validation and verification of safety requirements is tied to a concrete platform that is broadly understood. By involving students in the design of behaviors of the vehicle, the project exposes scientists and engineers of tomorrow to societal-scale problems, and tools to address them.</AbstractNarration>
+    <MinAmdLetterDate>02/27/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/27/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1253334</AwardID>
+    <Investigator>
+      <FirstName>Jonathan</FirstName>
+      <LastName>Sprinkle</LastName>
+      <EmailAddress>sprinkle@ece.arizona.edu</EmailAddress>
+      <StartDate>02/27/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Arizona</Name>
+      <CityName>TUCSON</CityName>
+      <ZipCode>857210001</ZipCode>
+      <PhoneNumber>5206266000</PhoneNumber>
+      <StreetAddress>888 N Euclid Ave</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7354</Code>
+      <Text>COMPUTER SYSTEMS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7918</Code>
+      <Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

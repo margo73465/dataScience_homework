@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Graduate Research Fellowship Program (GRFP)</AwardTitle>  
+    <AwardEffectiveDate>07/15/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>06/30/2016</AwardExpirationDate>  
+    <AwardAmount>84000</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Fellowship</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>11010101</Code>  
+      <Directorate> 
+        <LongName>Directorate for Education &amp; Human Resources</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Graduate Education</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Gisele T. Muller-Parker</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration/>  
+    <MinAmdLetterDate>07/29/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>07/24/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1144470</AwardID>  
+    <Investigator> 
+      <FirstName>Kenneth</FirstName>  
+      <LastName>Marians</LastName>  
+      <EmailAddress>K-marians@ski.mskcc.org</EmailAddress>  
+      <StartDate>07/29/2011</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>Sloan Kettering Institute For Cancer Research</Name>  
+      <CityName>New York</CityName>  
+      <ZipCode>100650000</ZipCode>  
+      <PhoneNumber>6462273273</PhoneNumber>  
+      <StreetAddress>1275 York Avenue</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>New York</StateName>  
+      <StateCode>NY</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>7172</Code>
+      <Text>GRADUATE RESEARCH FELLOWSHIPS</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

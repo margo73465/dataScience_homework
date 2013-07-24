@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Hemolymph Circulation in Mosquitoes</AwardTitle>
+    <AwardEffectiveDate>03/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2016</AwardExpirationDate>
+    <AwardAmount>265534</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090300</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Ellis</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Insects employ an open circulatory system for the transport of nutrients, wastes, and signaling molecules throughout the body. The insect circulatory system also functions in thermoregulation, promoting respiration, and the circulation of immune factors that survey tissues for foreign invaders. The insect circulatory system consists of hemolymph (blood), an open body cavity called the hemocoel, and a series of pumps, with the primary pump being a muscular dorsal vessel that is divided into a thoracic aorta and an abdominal heart. While some recent work has focused on the physiology of the insect heart, little is known about hemolymph flow. Thus, the goal of this research is to characterize the mechanics of hemolymph circulation throughout the mosquito hemocoel. Objective 1 will employ novel fluorescence-based intravital imaging methods to qualitatively and quantitatively map hemolymph circulation in all regions of this insect. Objective 2 will assess the role accessory pulsatile organs play in hemolymph propulsion. Objective 3 will determine how heart rhythms and hemolymph currents change under various physiological conditions. Finally, objective 4 will test how mosquito infection affects circulatory physiology. The research will make critical contributions to the field of insect circulatory physiology and will create the first quantitative map of hemolymph circulation in any insect. Furthermore, this research will be carried out in mosquitoes, a socially and ecologically important insect group because of their role as pests and pathogen transmitters. Because hemolymph circulation affects the dissemination of insecticides throughout the mosquito body, as well as the obligate migration of pathogens prior to their transmission, a better understanding of hemolymph circulation could contribute to the development of novel pest and disease control strategies. In addition to its scientific merit, this project will result in the training of graduate and undergraduate students in biological research.</AbstractNarration>
+    <MinAmdLetterDate>02/27/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>03/25/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1257936</AwardID>
+    <Investigator>
+      <FirstName>Julian</FirstName>
+      <LastName>Hillyer</LastName>
+      <EmailAddress>julian.hillyer@vanderbilt.edu</EmailAddress>
+      <StartDate>02/27/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Vanderbilt University</Name>
+      <CityName>NASHVILLE</CityName>
+      <ZipCode>372407830</ZipCode>
+      <PhoneNumber>6158756070</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Tennessee</StateName>
+      <StateCode>TN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7658</Code>
+      <Text>PROCESSES STRUCS &amp; INTEGRITY</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

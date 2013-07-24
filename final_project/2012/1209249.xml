@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Student Travel Support for IEEE INFOCOM 2012</AwardTitle>  
+    <AwardEffectiveDate>03/01/2012</AwardEffectiveDate>  
+    <AwardExpirationDate>02/28/2013</AwardExpirationDate>  
+    <AwardAmount>20000</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>05050000</Code>  
+      <Directorate> 
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Computer and Network Systems</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Darleen L. Fisher</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>The 2012 IEEE INFOCOM Conference on Computer Communications will be held in in Orlando, Florida, USA from March 25 to March 30, 2012. This preeminent technical conference is the primary venue for presenting new research results in the area of computer communications, and is widely attended by researchers and practitioners in the field. Attending conferences such as INFOCOM is of paramount importance for the development of graduate students. Participants have the opportunity to present their work, attend panel and keynote sessions, and interact with hundreds of others performing leading-edge research in the field.&lt;br/&gt;Broader Impact: This proposal provides travel support for approximately fifteen graduate students in the United States to attend this premiere conference. The travel awards will target graduate students, in particular, women and under-represented minority students, since attending conferences is an important part of their educational experience, and they often have limited travel funds.</AbstractNarration>  
+    <MinAmdLetterDate>03/06/2012</MinAmdLetterDate>  
+    <MaxAmdLetterDate>03/06/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1209249</AwardID>  
+    <Investigator> 
+      <FirstName>Tommaso</FirstName>  
+      <LastName>Melodia</LastName>  
+      <EmailAddress>tmelodia@eng.buffalo.edu</EmailAddress>  
+      <StartDate>03/06/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>SUNY at Buffalo</Name>  
+      <CityName>Buffalo</CityName>  
+      <ZipCode>142600000</ZipCode>  
+      <PhoneNumber>7166452634</PhoneNumber>  
+      <StreetAddress>402 Crofts Hall</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>New York</StateName>  
+      <StateCode>NY</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>7363</Code>
+      <Text>RES IN NETWORKING TECH &amp; SYS</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

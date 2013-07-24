@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: SDCI Net: Policy-driven Large Scale Data Access Framework with Light-weight Performance Monitoring and Estimation</AwardTitle>
+    <AwardEffectiveDate>08/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2014</AwardExpirationDate>
+    <AwardAmount>400000</AwardAmount>
+    <AwardInstrument>
+      <Value>Interagency Agreement</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05090000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Advanced CyberInfrastructure</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Kevin L. Thompson</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>09/15/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/18/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1127039</AwardID>
+    <Investigator>
+      <FirstName>Alex</FirstName>
+      <LastName>Sim</LastName>
+      <EmailAddress>ASim@lbl.gov</EmailAddress>
+      <StartDate>09/15/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Lawrence Berkeley National Laboratory</Name>
+      <CityName>Berkeley</CityName>
+      <ZipCode>947208050</ZipCode>
+      <PhoneNumber>5104865938</PhoneNumber>
+      <StreetAddress>1 Cyclotron Rd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7683</Code>
+      <Text>SOFTWARE DEVELOPEMENT FOR CI</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

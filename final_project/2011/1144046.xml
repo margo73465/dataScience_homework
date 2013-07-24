@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>Evaluating the Implementation and Impact of RDE Projects</AwardTitle>  
+    <AwardEffectiveDate>10/01/2011</AwardEffectiveDate>  
+    <AwardExpirationDate>09/30/2014</AwardExpirationDate>  
+    <AwardAmount>197044</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>11060000</Code>  
+      <Directorate> 
+        <LongName>Directorate for Education &amp; Human Resources</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Human Resource Development</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Mary Moriarty</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>The purpose of the "Evaluating the Implementation and Impact of RDE Research Projects" is to provide external evaluations of the 2011 cohort of RDE research and demonstration projects. The evaluation will have four objectives: &lt;br/&gt;1. to describe the challenges to and facilitators of research on disabilities education experienced by the projects; &lt;br/&gt;2. to compile and synthesize the evidence across the projects of actual or potential influence on the number of students with disabilities completing STEM degrees and entering the U.S. science and engineering workforce; &lt;br/&gt;3. to identify unintended outcomes (positive and negative); and &lt;br/&gt;4. to assess the nature and extent of dissemination and application of the results beyond the funded research context. &lt;br/&gt;The evaluation will utilize a combination of qualitative and quantitative methods, including systematic reviews of project documents, telephone surveys with project researchers and case studies of successful applications of research results. In addition, the evaluation will use an external metaevaluation to determine whether evaluation methods are carried out appropriately and the evaluation?s conclusions are sufficiently supported by the data. &lt;br/&gt;The evaluation will first develop a composite program logic model that incorporates the activities and intended outcomes of the different RDE research and demonstration projects, and links them to the goals of the RDE program. Then, by looking at each step in the causal chain -- from project implementation, through the short-term outcome of research findings, to the extension of research findings in new settings, the evaluation will assess the contributions of the funded projects to the RDE program?s goals and describe the mechanisms associated with effective RDE projects. By looking across projects, the evaluation will support more general conclusions about the value of the funded research in disabilities education than can be drawn from a disparate set of individual project evaluations. In addition to providing information about RDE projects, the evaluation will also contribute to knowledge about research evaluation. While much evaluation of research is prospective or based on expert review, this evaluation will use program theory as a framework for integrating different kinds of data from the set of projects. &lt;br/&gt;The evaluation will have a broader impact on the participation of people with disabilities in STEM education and careers by strengthening current research projects with formative feedback on implementation issues. In addition, researchers in disabilities education will be able to use the findings to inform the research, dissemination, and evaluation plans they propose in future projects. The evaluation will increase attention to evaluation accountability by modeling the use of an external metaevaluation, one of the Evaluation Accountability standards in the newly revised Program Evaluation Standards (Yarborough, Shulha, Hopson, &amp; Caruthers, 2011).&lt;br/&gt;Findings are expected to provide vital information to RDE about the 2011 cohort of research projects and about an effective and efficient model for evaluating research in STEM education of students with disabilities.</AbstractNarration>  
+    <MinAmdLetterDate>08/01/2011</MinAmdLetterDate>  
+    <MaxAmdLetterDate>07/26/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1144046</AwardID>  
+    <Investigator> 
+      <FirstName>Leslie</FirstName>  
+      <LastName>Cooksy</LastName>  
+      <EmailAddress>ljcooksy@udel.edu</EmailAddress>  
+      <StartDate>08/01/2011</StartDate>  
+      <EndDate>07/26/2012</EndDate>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Investigator> 
+      <FirstName>Joan</FirstName>  
+      <LastName>Buttram</LastName>  
+      <EmailAddress>jbuttram@udel.edu</EmailAddress>  
+      <StartDate>07/26/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>University of Delaware</Name>  
+      <CityName>Newark</CityName>  
+      <ZipCode>197162553</ZipCode>  
+      <PhoneNumber>3028312136</PhoneNumber>  
+      <StreetAddress>210 Hullihen Hall</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Delaware</StateName>  
+      <StateCode>DE</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>1545</Code>
+      <Text>RES IN DISABILITIES ED</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

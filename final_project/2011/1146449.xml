@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Digging deeper: in situ metabolic analysis of soil C cycling processes</AwardTitle>
+    <AwardEffectiveDate>03/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2015</AwardExpirationDate>
+    <AwardAmount>420138</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010209</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Matthew Kane</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Healthy soils are essential for maintaining productive natural and agricultural landscapes. Decomposition of dead plant, animal, and microbial materials is a fundamental process that influences ecosystem productivity, the rate of soil erosion, regional hydrology, and the exchange of greenhouse gases with the atmosphere. Because the microbial community plays a key role in decomposition and mineralization, improving the ability to study the microbial processes in soils is a major step towards increased understanding of this essential ecosystem function. The efficiency with which microorganisms process organic carbon compounds for energy production and biosynthesis, or return carbon back to the atmosphere as CO2, is an essential but poorly understood aspect of soil ecology. A change in the carbon use efficiency --- the fraction of substrate used for the production of new microbial biomass in response to increased temperatures or litter input --- will have immediate consequences for soil carbon content, CO2 production, and nutrient cycling. This project will examine changes in the fundamental processes of microbial metabolism from which carbon use efficiency, energy production, and biosynthesis can be calculated. The investigators will use a method that consists of stable isotope labeling of specific C-atoms in various microbial substrates under different conditions of temperature, carbon and nitrogen availability. This study will make use of an existing long-term climate change experiment near Flagstaff, Arizona. &lt;br/&gt;&lt;br/&gt;The approach used in this study can be directly applied to other microbial communities, for example communities in marine and freshwater ecosystems and sediments, gastrointestinal communities, communities in environments such as hot springs, and in waste-water treatment plants. Results from this study will improve the representation of soil carbon dynamics in ecosystem models that are used to understand the role of soil processes in the global carbon cycle under current and future climates. This study will also provide opportunities for one graduate student and several undergraduate students to become familiar with state-of-the-art stable isotope techniques, molecular characterization of microbial communities, and interpretation of biochemical processes in soil ecosystems. Finally, results will be incorporated into an undergraduate ecology and ecosystem science curriculum.</AbstractNarration>
+    <MinAmdLetterDate>01/10/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/03/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1146449</AwardID>
+    <Investigator>
+      <FirstName>George</FirstName>
+      <LastName>Koch</LastName>
+      <EmailAddress>George.Koch@nau.edu</EmailAddress>
+      <StartDate>01/10/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Egbert</FirstName>
+      <LastName>Schwartz</LastName>
+      <EmailAddress>Egbert.Schwartz@nau.edu</EmailAddress>
+      <StartDate>01/10/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Paul</FirstName>
+      <LastName>Dijkstra</LastName>
+      <EmailAddress>paul.dijkstra@nau.edu</EmailAddress>
+      <StartDate>01/10/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Northern Arizona University</Name>
+      <CityName>Flagstaff</CityName>
+      <ZipCode>860114130</ZipCode>
+      <PhoneNumber>9285234880</PhoneNumber>
+      <StreetAddress>ARD Building #56, Suite 240</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1181</Code>
+      <Text>ECOSYSTEM STUDIES</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7275</Code>
+      <Text>CROSS-EF ACTIVITIES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

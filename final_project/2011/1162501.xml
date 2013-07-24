@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: Code Design and Analysis to Approach Capacity with Short Blocklengths Using Feedback</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>
+    <AwardAmount>700000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Phillip Regalia</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This research characterizes the benefits of feedback in communication and develops techniques to achieve those benefits. Today's communication systems seek to move information as rapidly as possible from transmitter to receiver. This research involves using feedback (messages sent from the receiver back to the transmitter) to allow communication systems to approach the highest possible communication rate (the channel capacity) using less transmission time (latency) and lower-complexity decoding. A key aspect of this research is the development of new error control codes and new techniques to use those codes to facilitate transmissions that approach capacity with much lower latency than systems that do not use feedback. Broader impacts include training high school students through the UCLA Engineering (HSSEAS) High School Summer Research program and training undergraduates through the UCLA Engineering undergraduate research program.&lt;br/&gt;&lt;br/&gt;Traditional techniques approach capacity without feedback by using long block lengths and complex decoding. However, information theory indicates that feedback permits capacity to be approached with shorter block lengths and simpler decoding. This research employs a rate-compatible sphere-packing analysis to provide a quantitative analysis of the latency reduction possible with feedback. This analysis provides decoding error trajectories that guide the development of rate-compatible code families needed to approach capacity with feedback. Practical benefits of these rate-compatible code families with feedback will be characterized in the context of a typical wireless communication system operating in additive white Gaussian noise. These techniques are extended to fading channels and higher-order modulations. The overall goal of this research project is the development and promulgation of a fundamental understanding of how code families should be designed to work with feedback to achieve capacity with very short block lengths.</AbstractNarration>
+    <MinAmdLetterDate>08/06/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/06/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1162501</AwardID>
+    <Investigator>
+      <FirstName>Richard</FirstName>
+      <LastName>Wesel</LastName>
+      <EmailAddress>wesel@ee.ucla.edu</EmailAddress>
+      <StartDate>08/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Lara</FirstName>
+      <LastName>Dolecek</LastName>
+      <EmailAddress>dolecek@ee.ucla.edu</EmailAddress>
+      <StartDate>08/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Babak</FirstName>
+      <LastName>Daneshrad</LastName>
+      <EmailAddress>babak@ee.ucla.edu</EmailAddress>
+      <StartDate>08/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Los Angeles</Name>
+      <CityName>LOS ANGELES</CityName>
+      <ZipCode>900952000</ZipCode>
+      <PhoneNumber>3107940102</PhoneNumber>
+      <StreetAddress>11000 Kinross Avenue, Suite 211</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7797</Code>
+      <Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

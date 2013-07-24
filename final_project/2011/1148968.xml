@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: The Metabolism of Prenylated Benzoquinones through the Lens of Plant-Prokaryote Phylogenomics</AwardTitle>
+    <AwardEffectiveDate>08/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2017</AwardExpirationDate>
+    <AwardAmount>460675</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08070700</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Molecular and Cellular Biosciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jill Zeilstra-Ryalls</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Scientific merit: This project aims to elucidate the architecture and evolution of the biosynthetic networks of terpenoid quinones. Far from being anecdotal compounds, prenylated quinone conjugates are key cofactors for the electron and proton transfer chains that are at the core of the bio-energy production systems on our planet. This includes photosynthesis, respiration, and chemosynthesis, just to name a few. But because quinones are present in trace quantities and in most organisms their cognate biosynthetic mutants are lethal, quinones are difficult to study and some of the most important branches of quinone metabolism are still uncharted. Where conventional biochemical and genetic approaches have hit a wall, this research makes use of a system biology alternative that combines comparative genomic inferences with in silico metabolic reconstructions, so candidate genes can be identified and experimentally tested by means of reverse genetics, enzymological studies and targeted metabolite profiling. Plants are particularly well suited for this type of integrative approach, for their genomes have been 'enriched', via numerous events of lateral gene transfer, in genes of direct bacterial and archaeal origin.&lt;br/&gt;&lt;br/&gt;Broader impacts: This project will establish an on-line resource for both students and instructors in order to promote the learning of bioinformatics data mining nationwide. Based on active learning methods, personal assignments, and continuous evaluation, the project will teach students to get the full benefit of phylogenomics methods for their current and future research. The project will also raise awareness of vitamins nutrition through an educational package aimed at children of middle school age, for whom it highlights the importance of plant micronutrients and good dietary habits. The project will also contribute to the training of two undergraduate research assistants, one PhD student, and one postdoctoral associate in the laboratory of the PI.</AbstractNarration>
+    <MinAmdLetterDate>07/23/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/23/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1148968</AwardID>
+    <Investigator>
+      <FirstName>Gilles</FirstName>
+      <LastName>Basset</LastName>
+      <EmailAddress>gbasset2@unl.edu</EmailAddress>
+      <StartDate>07/23/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Nebraska-Lincoln</Name>
+      <CityName>LINCOLN</CityName>
+      <ZipCode>685880430</ZipCode>
+      <PhoneNumber>4024723171</PhoneNumber>
+      <StreetAddress>312 N 14TH STREET</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Nebraska</StateName>
+      <StateCode>NE</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7275</Code>
+      <Text>CROSS-EF ACTIVITIES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

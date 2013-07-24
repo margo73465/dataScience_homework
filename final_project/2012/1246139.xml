@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Instructional Module Development (IMoD) System: Building Faculty Expertise in Outcome-Based Course Design</AwardTitle>
+    <AwardEffectiveDate>07/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2016</AwardExpirationDate>
+    <AwardAmount>199680</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040200</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Louis J. Everett</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>It is essential that current and future generations of engineering science and technology faculty understand how to incorporate effective pedagogical practice and assessment principles in courses they design. Because STEM faculty typically do not have educational training it can be difficult for them to understand how to assess pedagogy and even more difficult for them to design course material that effectively incorporates the best pedagogical practices. This project is producing modules that will assist faculty in the instructional development of STEM coursework materials. The instructional module development system being created in this project will ensure that faculty use effective tools when designing and delivering research-based pedagogical and assessment strategies in their courses. In addition the project is conducting research to develop a framework for outcome-based course design and is translating this into a web-based software tool. The project is identifying deficiencies in existing course design tools and is looking for a consensus on the representation of required knowledge (a taxonomy) for pedagogical and assessment strategies. The instructional module development is user centered and will assess the effectiveness and usability of the system in helping faculty create outcome-based course designs. The project is also assessing the impact that the course design system has on a user's knowledge of outcome-based course design.</AbstractNarration>
+    <MinAmdLetterDate>07/09/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/09/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1246139</AwardID>
+    <Investigator>
+      <FirstName>Odesma</FirstName>
+      <LastName>Dalrymple</LastName>
+      <EmailAddress>odesma.dalrymple@asu.edu</EmailAddress>
+      <StartDate>07/09/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Srividya</FirstName>
+      <LastName>Bansal</LastName>
+      <EmailAddress>Srividya.Bansal@asu.edu</EmailAddress>
+      <StartDate>07/09/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Ashraf</FirstName>
+      <LastName>Gaffar</LastName>
+      <EmailAddress>Ashraf.Gaffar@asu.edu</EmailAddress>
+      <StartDate>07/09/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Arizona State University</Name>
+      <CityName>TEMPE</CityName>
+      <ZipCode>852816011</ZipCode>
+      <PhoneNumber>4809655479</PhoneNumber>
+      <StreetAddress>ORSPA</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Arizona</StateName>
+      <StateCode>AZ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7513</Code>
+      <Text>TUES-Type 1 Project</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1536</Code>
+      <Text>S-STEM:SCHLR SCI TECH ENG&amp;MATH</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

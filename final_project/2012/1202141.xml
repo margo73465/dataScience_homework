@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>CAREER: Enabling Community-Scale Modeling of Human Behavior and its Application to Healthcare</AwardTitle>
+    <AwardEffectiveDate>10/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2014</AwardExpirationDate>
+    <AwardAmount>424125</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05020000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Information &amp; Intelligent Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>James Donlon</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Research supported by this award is developing community-based methods for sensing, recognizing, and interpreting human activities from body-worn sensors. Specifically, this research is&lt;br/&gt;&lt;br/&gt;1) developing systems that learn new classes of activity with minimal human supervision, where the system queries a human user for additional information on an activity being learned, but only when such queries are informationally necessary and behaviorally unobtrusive,&lt;br/&gt;&lt;br/&gt;2) developing the paradigm of community-guided learning, which leverages people's social ties and behavioral similarities, in order to define an efficient scheme for sharing various aspects of the underlying activity classes across many individuals, and&lt;br/&gt;&lt;br/&gt;3) evaluating the new community-guided learning methods by using them to learn about (a) social isolation and functional independence among elderly persons, and (b) social interaction among high-functioning autistic children.&lt;br/&gt;&lt;br/&gt;Speaking generally, the research is advancing machine learning and artificial intelligence, especially in the areas of semi-supervised, active, and relational learning. Beyond these basic scientific contributions, the resulting research has the potential to transform community health assessment by collecting fine-grained clinically-relevant information continuously, cheaply, and unobtrusively, over long periods of time. This research also opens up many opportunities for education and outreach, in part because it is pushing machine learning and artificial intelligence into social and societally-important realms, promising to attract groups, notably women, who are under-represented in computer science.</AbstractNarration>
+    <MinAmdLetterDate>10/12/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/08/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1202141</AwardID>
+    <Investigator>
+      <FirstName>Tanzeem</FirstName>
+      <LastName>Choudhury</LastName>
+      <EmailAddress>tanzeemc@gmail.com</EmailAddress>
+      <StartDate>10/12/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Cornell University</Name>
+      <CityName>Ithaca</CityName>
+      <ZipCode>148502820</ZipCode>
+      <PhoneNumber>6072555014</PhoneNumber>
+      <StreetAddress>373 Pine Tree Road</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7495</Code>
+      <Text>ROBUST INTELLIGENCE</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

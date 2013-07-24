@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>A Proposal to Conduct the Summer Science Internship Program (SSIP),2013-15</AwardTitle>
+    <AwardEffectiveDate>06/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2016</AwardExpirationDate>
+    <AwardAmount>172257</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>01060000</Code>
+      <Directorate>
+        <LongName>OFFICE OF THE DIRECTOR</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Office of International and Integrative Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sherrie B. Green</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Quality Education for Minorities (QEM) Network, a non-profit organization, has been instrumental in serving as a catalyst to improve the education of under-represented groups, particularly in science, technology, engineering and mathematics (STEM). As an agent for change, QEM continues to develop effective strategies for broadening STEM participation, and focuses on issues and barriers that impede underrepresented groups from receiving a high quality education. This project supports internship placements for students at the National Science Foundation as a mechanism to: increase students understanding of science policy; develop the potential of future STEM leaders; promote STEM participation, including students from low-income communities; and encourage advanced studies in STEM disciplines. This human capacity building endeavor will help train a diverse, engaged, and globally competitive STEM workforce prepared to meet future challenges through discovery and innovation.</AbstractNarration>
+    <MinAmdLetterDate>05/17/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/17/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1261569</AwardID>
+    <Investigator>
+      <FirstName>Shirley</FirstName>
+      <LastName>McBay</LastName>
+      <EmailAddress>smmcbay@qem.org</EmailAddress>
+      <StartDate>05/17/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>QUALITY EDUCATION FOR MINORITIES NETWORK</Name>
+      <CityName>WASHINGTON</CityName>
+      <ZipCode>200362406</ZipCode>
+      <PhoneNumber>2026591818</PhoneNumber>
+      <StreetAddress>1818 N ST NW</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>District of Columbia</StateName>
+      <StateCode>DC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>068P</Code>
+      <Text>INTERNSHIPS PROGRAM</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>9199</Code>
+      <Text>UNDISTRIBUTED PANEL/IPA FUNDS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1594</Code>
+      <Text>HIST BLACK COLLEGES AND UNIV</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7345</Code>
+      <Text>PRES AWARDS FOR EXCEL IN SCIEN</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>5407</Code>
+      <Text>POLAR CYBERINFRASTRUCTURE</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>5221</Code>
+      <Text>ARCTIC SOCIAL SCIENCES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

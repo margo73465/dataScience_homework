@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>BRIGE: Engineering the Mechanisms Controlling Durability of High Temperature Ceramic Coatings for Energy Efficiency</AwardTitle>
+    <AwardEffectiveDate>08/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2014</AwardExpirationDate>
+    <AwardAmount>180936</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Yick Grace Hsuan</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Broadening Participation Research Initiation Grants in Engineering (BRIGE) award provides support to meet goals to control and enhance the durability of high temperature ceramic coating systems or thermal barrier coatings for advanced turbine technology. Advances in high efficiency power generation systems that produce lower emissions must be accompanied by enhanced durability of these coatings to higher turbine temperatures and fuel impurities. This will be achieved through in-depth studies on degradation mechanisms from thermo-mechanical and contaminant environments, leading to the development of mitigation solutions. Recent advances integrating high-resolution synchrotron X-ray diffraction and piezospectroscopic techniques in situ with operational environments will be utilized to study the evolution of strain within the multilayered high temperature ceramic coatings. Selected mitigation solutions, with a focus on overlay coatings to prevent contaminant infiltration, will be explored to assess effects on the strain compliance of the multi-layer coating system. The outcome of the novel studies will unravel the immediate and long-term effects of thermo-mechanical environment and contaminants on the coating compliance and life. Results will enable mitigation through material and process modifications, to achieve durability and reliability of these coatings for energy applications.&lt;br/&gt;&lt;br/&gt;The significance of the proposed work is in the potential for enabling a new class of ceramic coatings applicable to the clean and efficient operation of turbines with alternative fuels. Through the advancement of high temperature coatings to meet these operating environments, the research has far reaching societal benefits in achieving reliability and energy efficiency goals for the next generation turbine technology. Research goals will be integrated with efforts aimed at broadening participation and encouraging early interest in engineering research through unique research experiences at a synchrotron facility as well as mentoring.</AbstractNarration>
+    <MinAmdLetterDate>08/01/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/10/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1125696</AwardID>
+    <Investigator>
+      <FirstName>Seetha</FirstName>
+      <LastName>Raghavan</LastName>
+      <EmailAddress>seetha.raghavan@ucf.edu</EmailAddress>
+      <StartDate>08/01/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Central Florida</Name>
+      <CityName>ORLANDO</CityName>
+      <ZipCode>328168005</ZipCode>
+      <PhoneNumber>4078821120</PhoneNumber>
+      <StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Florida</StateName>
+      <StateCode>FL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7741</Code>
+      <Text>BROAD PARTIC IN ENG (BRIGE)</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1635</Code>
+      <Text>STRUCTURAL MATERIALS AND MECH</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

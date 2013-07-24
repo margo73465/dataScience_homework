@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Evaluating Approaches to Multilocus Species Tree Inference: Assessing Methods and Genomic Regions Using New World Orioles (Icterus)</AwardTitle>
+    <AwardEffectiveDate>08/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2014</AwardExpirationDate>
+    <AwardAmount>390212</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010206</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maureen M. Kearney</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Inferring evolutionary trees for closely related species remains a major obstacle to completing the Tree of Life. For example, evolutionary trees (phylogenies) of closely related animal species have generally relied on a single gene region - mitochondrial DNA. Recently, new statistical methods have been developed to analyze data from multiple gene regions from throughout the nuclear genome. However, these new "species tree" methods have not been rigorously compared. The project will use a well-studied bird genus (New World orioles, Icterus), as well as two poorly known genera from Australia (butcherbirds, Cracticus; red robins, Petroica) to compare the performance of species tree methods as applied to closely related species. &lt;br/&gt;&lt;br/&gt;The project will train postdoctoral researchers, PhD students, and undergraduates in avian systematics, DNA sequencing, and bioinformatic analyses of genomic data. This research will inform "active learning" exercises to educate students about how DNA data are used to infer species relationships, which has important applications for everything from disease organisms and invasive species to biodiversity conservation. This project on species trees and the associated educational activities will promote the understanding of phylogenies and lead to advances that will help resolve relationships for closely related species across the entire Tree of Life.</AbstractNarration>
+    <MinAmdLetterDate>06/27/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/25/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1119506</AwardID>
+    <Investigator>
+      <FirstName>Kevin</FirstName>
+      <LastName>Omland</LastName>
+      <EmailAddress>omland@umbc.edu</EmailAddress>
+      <StartDate>06/27/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Maryland Baltimore County</Name>
+      <CityName>Baltimore</CityName>
+      <ZipCode>212500002</ZipCode>
+      <PhoneNumber>4104553140</PhoneNumber>
+      <StreetAddress>1000 Hilltop Circle</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Maryland</StateName>
+      <StateCode>MD</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7374</Code>
+      <Text>Systematics &amp; Biodiversity Sci</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

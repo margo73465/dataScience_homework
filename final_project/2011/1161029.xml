@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I/UCRC Phase I: Center for Unmanned Aircraft Systems</AwardTitle>
+    <AwardEffectiveDate>03/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2017</AwardExpirationDate>
+    <AwardAmount>171116</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070003</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Industrial Innovation and Partnerships</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rathindra DasGupta</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>I/UCRC for Unmanned Aircraft Systems (UAS) &lt;br/&gt;&lt;br/&gt;1161036 Brigham Young University; Tim McLain &lt;br/&gt;1161029 University of Colorado at Boulder; Eric Frew &lt;br/&gt;&lt;br/&gt;The Center for Unmanned Aircraft Systems (CUAS) will investigate and develop new algorithms, architectures, and operational procedures for unmanned aircraft systems. Brigham Young University (BYU) and the University of Colorado at Boulder (UCB) are collaborating to establish the proposed center, with BYU as the lead institution. &lt;br/&gt;&lt;br/&gt;The development of UAS is critical to national security, and CUAS aims to be the focal point for discovery and disseminating information about UAS of all sizes, from micro to large. The proposed Center has identified some of the challenges to overcome in order to establish UAS dominance in the US. The research led by the Center will lead to new concepts, technologies, insights, and tools for UAS; and will facilitate the transfer of these ideas to industry. The proposed center will contribute to the advancement of the UAS community through cutting-edge, industrially relevant research at the center's universities and by training the next generation of technical leaders inn the UAS field. &lt;br/&gt;&lt;br/&gt;The broader impacts of the Center include curriculum design, community outreach and training the next generation of UAS researchers. BYU and UCB will work with industry and government sponsors to provide opportunities to students to work on high-impact, cutting-edge research relevant to industry and government labs. The Center also plans to attract women and under-represented minority groups as students in the Center. The center plans to have a significant impact on UAS curriculum through course design, textbooks, laboratory exercises, and senor design experiences.</AbstractNarration>
+    <MinAmdLetterDate>02/25/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/02/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1161029</AwardID>
+    <Investigator>
+      <FirstName>Dale</FirstName>
+      <LastName>Lawrence</LastName>
+      <EmailAddress>dale.lawrence@colorado.edu</EmailAddress>
+      <StartDate>02/25/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Brian</FirstName>
+      <LastName>Argrow</LastName>
+      <EmailAddress>brian.argrow@colorado.edu</EmailAddress>
+      <StartDate>02/25/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Timothy</FirstName>
+      <LastName>Brown</LastName>
+      <EmailAddress>timxb@colorado.edu</EmailAddress>
+      <StartDate>02/25/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Eric</FirstName>
+      <LastName>Frew</LastName>
+      <EmailAddress>eric.frew@colorado.edu</EmailAddress>
+      <StartDate>02/25/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Colorado at Boulder</Name>
+      <CityName>Boulder</CityName>
+      <ZipCode>803090572</ZipCode>
+      <PhoneNumber>3034926221</PhoneNumber>
+      <StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5761</Code>
+      <Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1504</Code>
+      <Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>L576</Code>
+      <Text></Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

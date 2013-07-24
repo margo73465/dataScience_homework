@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: Disease at the margins of species ranges: anther-smut on alpine species</AwardTitle>
+    <AwardEffectiveDate>06/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2017</AwardExpirationDate>
+    <AwardAmount>185016</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08010208</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Environmental Biology</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Samuel M. Scheiner</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Infectious diseases can be devastating to humans and agriculture, but much less is known about how disease affects natural populations. This study will investigate the impact of a fungal disease, anther-smut, on the distribution of alpine plants, and will serve as a model for assessing how sterilizing diseases affect natural populations. The study will be carried out in an area where there is heavy disease infestation on many species, and steep environmental gradients in multiple valleys, enabling systematic studies of the factors that influence disease processes at the margins of species distributions. Genetic and ecological experiments, theoretical models, and long-term monitoring will investigate how disease affects the limits of species' ranges and how marginal populations may be foci for disease emergence through transmission of infections between host species. &lt;br/&gt;&lt;br/&gt;This research will enhance international collaborations, support local conservation efforts, and provide a field course, training and hands-on research experience in infectious disease biology for researchers and undergraduate students. Alpine regions are themselves fragile environments severely threatened by climate change and this study will establish baseline information essential for managing these plant communities in relation to disease and the rapid environmental changes that are occurring in this area.</AbstractNarration>
+    <MinAmdLetterDate>06/15/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/03/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1115765</AwardID>
+    <Investigator>
+      <FirstName>Michael</FirstName>
+      <LastName>Hood</LastName>
+      <EmailAddress>mhood@amherst.edu</EmailAddress>
+      <StartDate>06/15/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Amherst College</Name>
+      <CityName>Amherst</CityName>
+      <ZipCode>010025000</ZipCode>
+      <PhoneNumber>4135422000</PhoneNumber>
+      <StreetAddress>Comptrollers Office</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Massachusetts</StateName>
+      <StateCode>MA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7242</Code>
+      <Text>ECOLOGY OF INFECTIOUS DISEASES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

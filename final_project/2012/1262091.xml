@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Collaborative Research: Understanding and Forecasting North Atlantic and US Landfalling Tropical Cyclone Activity and Associated Rainfall</AwardTitle>
+    <AwardEffectiveDate>09/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2016</AwardExpirationDate>
+    <AwardAmount>263206</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020106</Code>
+      <Directorate>
+        <LongName>Directorate for Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Atmospheric and Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Anjuli S. Bamzai</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This project will advance our understanding of the physical processes responsible for the genesis, development and tracking of North Atlantic and US landfalling tropical cyclones (TCs). The team will apply newly gained physical insights towards the development of a seasonal forecasting system of North Atlantic and US landfalling TCs and associated rainfall. The approach follows in three phases: Phase I will focus on advancing the understanding of the physical processes responsible for the North Atlantic and US landfalling TC activity. Phase II will develop a seasonal forecasting system of TC activity using the knowledge established in Phase I. Phase III will focus on the seasonal forecast of rainfall associated with TCs during and after US landfall. The methodologies build on analysis tools and data sets that the PI and Co-PI have extensive experience with, and developed further here to address the problem of rainfall associated with landfalling TCs.</AbstractNarration>
+    <MinAmdLetterDate>05/31/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/31/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1262091</AwardID>
+    <Investigator>
+      <FirstName>Gabriele</FirstName>
+      <LastName>Villarini</LastName>
+      <EmailAddress>gabriele-villarini@uiowa.edu</EmailAddress>
+      <StartDate>05/31/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Iowa</Name>
+      <CityName>IOWA CITY</CityName>
+      <ZipCode>522421320</ZipCode>
+      <PhoneNumber>3193352123</PhoneNumber>
+      <StreetAddress>2 GILMORE HALL</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Iowa</StateName>
+      <StateCode>IA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5740</Code>
+      <Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

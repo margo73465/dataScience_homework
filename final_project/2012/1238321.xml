@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>I/UCRC: Net-Centric SoftwareSystems Center Site at Missouri University of Science and Technology</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>
+    <AwardAmount>76000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070003</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Industrial Innovation and Partnerships</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Rathindra DasGupta</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The proposed planning activity seeks to establish a new Industry/University Cooperative Research Center (I/UCRC) site at Missouri University of Science and Technology of the existing Net-Centric Software Systems Center. The center currently involves two universities University of North Texas and the University of Texas Dallas. The specific needs within the Center to be met by Missouri University of Science and Technology are focused in the areas of data compression, security, software code optimization, 3D IC for reduced latency and battery optimization for small form factors. These areas complement those of the two existing sites of the center and offer opportunities for collaborative work.&lt;br/&gt;&lt;br/&gt;The proposed new site, in combination with the existing center plans to build innovation capacity by enhancing knowledge of the scientific community and industrial members in the area of Net-Centric computing and wireless technologies. Member commitment letters indicate the potential for significant impact with industrial members. The site plans to impact students via their involvement in center research experiences and outreach to local schools.</AbstractNarration>
+    <MinAmdLetterDate>08/25/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/08/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1238321</AwardID>
+    <Investigator>
+      <FirstName>Sanjay</FirstName>
+      <LastName>Madria</LastName>
+      <EmailAddress>madrias@mst.edu</EmailAddress>
+      <StartDate>08/25/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Sriram</FirstName>
+      <LastName>Chellappan</LastName>
+      <EmailAddress>chellaps@mst.edu</EmailAddress>
+      <StartDate>08/25/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Yiyu</FirstName>
+      <LastName>Shi</LastName>
+      <EmailAddress>yshi@mst.edu</EmailAddress>
+      <StartDate>08/25/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Missouri University of Science and Technology</Name>
+      <CityName>Rolla</CityName>
+      <ZipCode>654096506</ZipCode>
+      <PhoneNumber>5733414134</PhoneNumber>
+      <StreetAddress>300 W 12th Street</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Missouri</StateName>
+      <StateCode>MO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5761</Code>
+      <Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

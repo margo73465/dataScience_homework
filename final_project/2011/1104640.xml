@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>CAREER: Biologically Inspired Artificial Skins with Continuous Carbon Nanotube Composites</AwardTitle>  
+    <AwardEffectiveDate>07/01/2010</AwardEffectiveDate>  
+    <AwardExpirationDate>04/30/2014</AwardExpirationDate>  
+    <AwardAmount>350496</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>07030004</Code>  
+      <Directorate> 
+        <LongName/> 
+      </Directorate>  
+      <Division> 
+        <LongName/> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Mary M. Toney</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>The research objective of this Faculty Early Career Development (CAREER) project is to investigate viscoelasticity of continuous carbon nanotube polymer composites under compression and explore their potential utility as biologically inspired artificial skins. The soft-tissue like behavior of such continuous composites recently observed by the PI shows strong potential of using engineered nanotube architectures for building biologically analogous systems such as artificial skins. Since the underlying mechanism of the intriguing properties in the composites is not understood, it is essential to study the fundamental science of the viscoelastic characteristics of the continuous nanotube composites as well as their anisotropic properties. This knowledge will enable us to further investigate and fabricate fundamentally new nanotube hierarchical structures with an aligned nanotube growth method so as to establish novel solutions to ultimately create bio-mimicking artificial skins. They will offer lightweight, flexibility, mechanical robustness, and outstanding reversible properties including excellent damping that can reduce friction drag and result in energy efficiency. &lt;br/&gt;&lt;br/&gt;If successful, this research will create the bio-inspired artificial skins of practical significance for a broad range of industrial applications such as aircraft that is far more fuel efficient or renewable wind energy system that is environmentally benign. It will meet the rapidly growing national need that is to preserve our energy resource by increasing energy efficiency. The research will provide the emerging engineers opportunity to understand and learn emerging technologies, environmental considerations, and the need to relate scientific discovery to realistic applications and societal development. A high school level introduction to engineering course will be developed and offered in collaboration with the local high school. Both undergraduate and graduate students will benefit through classroom instruction and involvement in research. The wind turbine blade design featuring the artificial skins will be included in a mechanical engineering senior capstone course as a design project for efficient power generation.</AbstractNarration>  
+    <MinAmdLetterDate>12/10/2010</MinAmdLetterDate>  
+    <MaxAmdLetterDate>06/13/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1104640</AwardID>  
+    <Investigator> 
+      <FirstName>Jonghwan</FirstName>  
+      <LastName>Suhr</LastName>  
+      <EmailAddress>suhr@udel.edu</EmailAddress>  
+      <StartDate>12/10/2010</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>University of Delaware</Name>  
+      <CityName>Newark</CityName>  
+      <ZipCode>197162553</ZipCode>  
+      <PhoneNumber>3028312136</PhoneNumber>  
+      <StreetAddress>210 Hullihen Hall</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>Delaware</StateName>  
+      <StateCode>DE</StateCode> 
+    </Institution>  
+    <ProgramElement> 
+      <Code>1467</Code>  
+      <Text>MATERIALS PROCESSING AND MANFG</Text> 
+    </ProgramElement>  
+    <ProgramElement>
+      <Code>7298</Code>
+      <Text>COLLABORATIVE RESEARCH</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

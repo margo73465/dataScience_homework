@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>The Nature and Evolution of Brown Carbon Optical Properties in Atmospheric Aerosols</AwardTitle>
+    <AwardEffectiveDate>07/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2016</AwardExpirationDate>
+    <AwardAmount>315633</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>06020104</Code>
+      <Directorate>
+        <LongName>Directorate for Geosciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Atmospheric and Geospace Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Sylvia A. Edgerton</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Through this project, a novel photoacoustic spectroscopy (PAS) instrument will be developed to measure aerosol absorption throughout the UV-visible range of the spectrum. In addition, the role of charge-transfer complexes in the absorption of UV-visible light by ambient aerosols will be investigated, as will the hypothesis that this factor may be subject to change upon oxidation by O3 and OH radicals.&lt;br/&gt;&lt;br/&gt;This research will provide insight into the nature of brown carbon in ambient aerosol and investigate how it may evolve through oxidation and aging. The project will also improve the state-of-the-art for determining aerosol optical properties, and for understanding the impact of carbonaceous aerosols on climate change and air quality.</AbstractNarration>
+    <MinAmdLetterDate>06/28/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/28/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1241621</AwardID>
+    <Investigator>
+      <FirstName>Geoffrey</FirstName>
+      <LastName>Smith</LastName>
+      <EmailAddress>gsmith@chem.uga.edu</EmailAddress>
+      <StartDate>06/28/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Georgia Research Foundation Inc</Name>
+      <CityName>ATHENS</CityName>
+      <ZipCode>306025016</ZipCode>
+      <PhoneNumber>7065425939</PhoneNumber>
+      <StreetAddress>200 D.W. Brooks Drive</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Georgia</StateName>
+      <StateCode>GA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1524</Code>
+      <Text>ATMOSPHERIC CHEMISTRY</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

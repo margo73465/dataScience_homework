@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Towards a Plant Nuclear Envelope Interactome</AwardTitle>
+    <AwardEffectiveDate>01/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>12/31/2015</AwardExpirationDate>
+    <AwardAmount>270660</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08070600</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Molecular and Cellular Biosciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gregory W. Warr</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The proteins of the plant nuclear envelope have important roles in many cell functions, including mechanical signaling, controlling the shape and movement of the nucleus, and the cell cycle. However, for reasons that are not currently understood, the protein composition of the plant nuclear envelope differs significantly from that of the animals and fungi. The goal of this project is to understand the function of the novel plant-specific proteins that span the nuclear envelope, and which are predicted to play roles in plant development, pollination, and the responses to light and pathogens. The experimental approaches will include live-cell imaging by light microscopy, and the identification of the protein interaction partners using techniques of affinity chromatography, tandem mass spectrometry and computational biology. &lt;br/&gt;Broader Impacts. A novel course in biology and art will be developed, in collaboration with an Art professor at Ohio State University, with the goal to make topics in contemporary plant biology accessible and comprehensible to the public. A public Bio-Art exhibit will be developed and the course will form the basis for a module that can be used by high school teachers.</AbstractNarration>
+    <MinAmdLetterDate>01/11/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/11/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1243844</AwardID>
+    <Investigator>
+      <FirstName>Iris</FirstName>
+      <LastName>Meier</LastName>
+      <EmailAddress>meier.56@osu.edu</EmailAddress>
+      <StartDate>01/11/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Ohio State University</Name>
+      <CityName>Columbus</CityName>
+      <ZipCode>432101016</ZipCode>
+      <PhoneNumber>6142923805</PhoneNumber>
+      <StreetAddress>Office of Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1114</Code>
+      <Text>Cellular Dynamics and Function</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

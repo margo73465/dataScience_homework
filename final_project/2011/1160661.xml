@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>GOALI: Size and Anisotropy Effects in Micro/Nano-bonds with Comparable Grain and Bond Sizes</AwardTitle>
+    <AwardEffectiveDate>06/15/2012</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2015</AwardExpirationDate>
+    <AwardAmount>339619</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030004</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mary M. Toney</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Grant Opportunities for Academic Liaison with Industry (GOALI) award is to investigate process-microstructure-mechanical behavior in micro/nano bonds fabricated using a new technology of solid-liquid inter-diffusion. These bonds, that are used to join metallic interconnects in microelectronic devices, have a comparable size with their constituting grains. Therefore, they are expected to behave anisotropically. Furthermore, unlike conventional joints, these joints mainly consist of intermetallics which profoundly affect the mechanical behavior of these bonds. Mechanical reliability of these bonds dictates the reliability and yield of the electronic devices fabricated using these bonds. The goal of this research is to investigate the kinetics of bond formation as well as the mechanics of deformation, fatigue and failure of these bonds through modeling and experimentation. An experiment will be designed and conducted on the process to determine the effect of process parameters on the microstructure and mechanical behavior of these bonds and to determine the optimal process condition. Phase field numerical models will be developed to simulate the kinetics of bond formation. Mechanisms of deformation and damage will be studied through in situ mechanical and fatigue experiments at the micro/nano scale. Finite element simulation will be used to model fatigue and damage in these anisotropic bonds. The research will be conducted in collaboration with Intel Corporation who will provide assistance with specimen fabrication, thermo-mechanical fatigue testing and failure analysis of the specimens. &lt;br/&gt;This research will lead to enhancements in the solid-liquid inter-diffusion process making it a viable option for electronic manufacturers to produce energy efficient high quality and reliable electronic devices. It will facilitate and expedite the process of eliminating lead from the current electronic processes making the process more environmentally friendly and benign. Simulation tools and fundamental knowledge generated in this research will advance several disciplines including electronic manufacturing, mechanics and material science and engineering.</AbstractNarration>
+    <MinAmdLetterDate>06/08/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>11/08/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1160661</AwardID>
+    <Investigator>
+      <FirstName>Viola</FirstName>
+      <LastName>Acoff</LastName>
+      <EmailAddress>vacoff@eng.ua.edu</EmailAddress>
+      <StartDate>06/08/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Leila</FirstName>
+      <LastName>Ladani</LastName>
+      <EmailAddress>lladani@eng.ua.edu</EmailAddress>
+      <StartDate>06/08/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Milena</FirstName>
+      <LastName>Vujosevic</LastName>
+      <EmailAddress>Milena.Vujosevic@intel.com</EmailAddress>
+      <StartDate>06/08/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Alabama Tuscaloosa</Name>
+      <CityName>TUSCALOOSA</CityName>
+      <ZipCode>354870104</ZipCode>
+      <PhoneNumber>2053485152</PhoneNumber>
+      <StreetAddress>801 University Blvd.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Alabama</StateName>
+      <StateCode>AL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1467</Code>
+      <Text>MATERIALS PROCESSING AND MANFG</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1504</Code>
+      <Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>9150</Code>
+      <Text>EXP PROG TO STIM COMP RES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

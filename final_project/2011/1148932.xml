@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Preparing American Indian Students for STEM Careers On and Beyond the Reservation</AwardTitle>
+    <AwardEffectiveDate>03/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>02/28/2017</AwardExpirationDate>
+    <AwardAmount>1000000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Lura J. Chase</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The objective of this project is to increase the quantity and quality of American Indian students pursuing careers in Science, Technology, Engineering and Mathematics by: 1) Developing and sustaining new STEM degree programs; 2) improving STEM instructional and research methods; and 3) building student capacity. The methods for accomplishing this objective will include: 1) Expanding curriculum, strengthening the Natural Science degree program, and developing an Associate in Science degree program in Natural Resources; 2) providing professional development opportunities for STEM faculty through workshops, conferences, and classes; and 3) increasing opportunities for student research, internships, workforce placement, and increased global awareness.&lt;br/&gt;&lt;br/&gt;Leaach Lake Tribal College will develop capacity to transform the way math and science is viewed on the reservation by promoting the integration of hands-on research activities and culturally infused STEM education that will greatly contribute to increasing the number of STEM graduates needed to meet local and national workforce demands.</AbstractNarration>
+    <MinAmdLetterDate>03/06/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/22/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1148932</AwardID>
+    <Investigator>
+      <FirstName>Sharon</FirstName>
+      <LastName>Marcotte</LastName>
+      <EmailAddress>sharon.marcotte@lltc.edu</EmailAddress>
+      <StartDate>03/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Kelly</FirstName>
+      <LastName>Nipp</LastName>
+      <EmailAddress>knipp@lltc.org</EmailAddress>
+      <StartDate>03/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stephen</FirstName>
+      <LastName>Smith</LastName>
+      <EmailAddress>steve.smith@lltc.edu</EmailAddress>
+      <StartDate>03/06/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Leech Lake Tribal College</Name>
+      <CityName>Cass Lake</CityName>
+      <ZipCode>566330000</ZipCode>
+      <PhoneNumber>2183354200</PhoneNumber>
+      <StreetAddress>PO Box 180</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Minnesota</StateName>
+      <StateCode>MN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1744</Code>
+      <Text>TRIBAL COLLEGE &amp; UNIVERS PROGR</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

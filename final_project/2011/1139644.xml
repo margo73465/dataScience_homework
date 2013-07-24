@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>METABOLOMICS: Integrating cheminformatic resources for investigating photoautotrophic and mixotrophic metabolism in algae.</AwardTitle>
+    <AwardEffectiveDate>12/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>11/30/2014</AwardExpirationDate>
+    <AwardAmount>1005334</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08070700</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Molecular and Cellular Biosciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Gregory W. Warr</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The metabolome is the sum total of the products of chemical reactions in the cell; it comprises a diverse set of chemicals that is species-specific and that is strongly influenced by the environment. Thus, despite decades of biochemical research, metabolomics is a field that is still in development, and no comprehensive database captures the complement of species-dependent metabolites. This project will capture the metabolome of 10 photosynthetic microorganisms (algae) by identifying all detectable metabolites that are synthesized as building blocks during their growth under conditions with variable sources of carbon (for example carbon dioxide and other organic compounds, including those found in wastewater). These data will greatly increase our knowledge of algal metabolism and carbon utilization. A major goal of this project is to integrate and improve existing metabolomic databases and libraries and to build new tools for the fast identification of metabolites. The resources resulting from this project will be made freely available to foster collaborations across multiple disciplines including engineering, analytical chemistry and bioinformatics. This project will facilitate the development of more efficient technologies for biofuel production based on photosynthetic microorganisms.&lt;br/&gt;&lt;br/&gt;Broader Impacts&lt;br/&gt;This project, through collaborations with researchers at the University of Tokyo and Osaka Prefectural University, will integrate and freely disseminate information and tutorials about libraries of chemical data, chemistry software, laboratory protocols for metabolism studies and results from the algal metabolomic studies. Web-based access will enable researchers and others interested in using these tools to compare the biochemistry of different species under various environmental conditions. In addition to the international training and education of the next generation of researchers, there will be outreach by project participants to students and pupils in K-12 education through the NSF-REU and GK-12 programs. Project staff will participate in the BioTech SYSTEM biotechnology program for teachers by providing educational activities for high school students and by partnering with local schools with large populations of under-served and under-represented minority students.</AbstractNarration>
+    <MinAmdLetterDate>11/07/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>12/17/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1139644</AwardID>
+    <Investigator>
+      <FirstName>Tobias</FirstName>
+      <LastName>Kind</LastName>
+      <EmailAddress>tkind@ucdavis.edu</EmailAddress>
+      <StartDate>11/07/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Labavitch</LastName>
+      <EmailAddress>jmlabavitch@ucdavis.edu</EmailAddress>
+      <StartDate>11/07/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Oliver</FirstName>
+      <LastName>Fiehn</LastName>
+      <EmailAddress>ofiehn@ucdavis.edu</EmailAddress>
+      <StartDate>11/07/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>William</FirstName>
+      <LastName>Wikoff</LastName>
+      <EmailAddress>wrwikoff@ucdavis.edu</EmailAddress>
+      <StartDate>11/07/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jean</FirstName>
+      <LastName>VanderGheynst</LastName>
+      <EmailAddress>jsvander@ucdavis.edu</EmailAddress>
+      <StartDate>11/07/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of California-Davis</Name>
+      <CityName>Davis</CityName>
+      <ZipCode>956180000</ZipCode>
+      <PhoneNumber>5307547700</PhoneNumber>
+      <StreetAddress>OR/Sponsored Programs</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>8011</Code>
+      <Text>Systems and Synthetic Biology</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1118</Code>
+      <Text>PLANT FUNGAL &amp; MICROB DEV MECH</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

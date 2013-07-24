@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Integrating approaches from behavior and engineering to explore how male songbirds respond to anthropogenic noise</AwardTitle>
+    <AwardEffectiveDate>06/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>05/31/2016</AwardExpirationDate>
+    <AwardAmount>303000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>08090500</Code>
+      <Directorate>
+        <LongName>Directorate for Biological Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Integrative Organismal Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Bruce Cushing</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Natural landscapes are being converted to urban areas at an accelerating pace, leading to concerns regarding the ability of wild populations to persist in cities. A major factor associated with urbanization is increased human-generated or anthropogenic noise, which is intense, low frequency sound originating from traffic and residential and industrial machinery. For animals that communicate with vocalizations, such as songbirds, increasing anthropogenic noise is problematic: noise overlaps vocal signals and changes how signals are transmitted through the environment, which may affect the ability of males to establish breeding territories and attract mates. Some songbirds respond to noise by flexibly changing their vocal signals, calling louder or at higher frequencies. What is not known is whether songbirds have other ways in addition to signal adjustments to minimize the negative effects of noise on vocal signaling. Through a unique collaboration between a behavioral ecologist and a noise engineer, the research will explore whether males make decisions about where to establish breeding territories, where to sing within them, and how to adjust song, all based on variation in anthropogenic noise. To answer these questions, the research will use "noise mapping" to visualize noise over time and space, and behavioral observations and noise introduction experiments to document songbird responses to noise. The detailed study of noise variation will generate new insights regarding how animals respond to noise, as it simultaneously considers multiple potential solutions to the challenge of vocal signaling in noise. The research will provide valuable interdisciplinary training for high school, undergraduate and graduate students studying ecology and engineering, public outreach through sound walks in natural and urban landscapes, and information that will improve design and value of urban parks and forests for wildlife.</AbstractNarration>
+    <MinAmdLetterDate>05/30/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/30/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1257699</AwardID>
+    <Investigator>
+      <FirstName>Koorosh</FirstName>
+      <LastName>Naghshineh</LastName>
+      <EmailAddress>koorosh.naghshineh@wmich.edu</EmailAddress>
+      <StartDate>05/30/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>SHARON</FirstName>
+      <LastName>Gill</LastName>
+      <EmailAddress>sharon.gill@wmich.edu</EmailAddress>
+      <StartDate>05/30/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Western Michigan University</Name>
+      <CityName>Kalamazoo</CityName>
+      <ZipCode>490085200</ZipCode>
+      <PhoneNumber>2693878298</PhoneNumber>
+      <StreetAddress>1903 West Michigan Avenue</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Michigan</StateName>
+      <StateCode>MI</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7659</Code>
+      <Text>ANIMAL BEHAVIOR</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

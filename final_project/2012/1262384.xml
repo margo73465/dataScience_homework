@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>REU Site: Undergraduate Research in Race, Ethnicity, and the Demography of Crime and Punishment</AwardTitle>
+    <AwardEffectiveDate>03/01/2013</AwardEffectiveDate>
+    <AwardExpirationDate>02/29/2016</AwardExpirationDate>
+    <AwardAmount>62000</AwardAmount>
+    <AwardInstrument>
+      <Value>Continuing grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04010000</Code>
+      <Directorate>
+        <LongName>Directorate for Social, Behavioral &amp; Economic Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>SBE Office of Multidisciplinary Activities</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Fahmida N. Chowdhury</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>After more than 20 successful years of hosting an REU Site, this project continues for three more&lt;br/&gt;years for the Population Research Center at the University of Texas. The UT program&lt;br/&gt;retains the size of eight students per year, which is ideal for teaching and research purposes. ?Minority&lt;br/&gt;Group Demography? has been the organizing principle for our REU research program since 1989. We&lt;br/&gt;continue this general theme over the next three years, but this time focusing particularly on the&lt;br/&gt;role of social context in producing racial and ethnic differences in criminal offending and criminal&lt;br/&gt;sanctioning. This thematic focus reflects the expertise of the two new principal investigators of the UT&lt;br/&gt;site, David Kirk and Keith Robinson (both faculty members in the Department of Sociology). It is&lt;br/&gt;expected that the students who are accepted into the program continue to be comprised of roughly&lt;br/&gt;60% under-represented minority students and a majority of female students.&lt;br/&gt;&lt;br/&gt;The intellectual merit of the REU Site at UT is the academic and ethical development of junior social&lt;br/&gt;science scholars around a topic of immense importance to the United States. The goals are to provide&lt;br/&gt;REU students at UT with exposure, experience, and expertise. Precise program objectives have been&lt;br/&gt;developed to accomplish these goals. Exposure to social demography and sociology will be accomplished&lt;br/&gt;via formal coursework and seminars. An undergraduate sociology course, The Demography of Crime and&lt;br/&gt;Punishment, comprises the first half of the summer. In addition, a series of professionalization&lt;br/&gt;workshops, or seminars are conducted during the summer. In these seminars, REU students&lt;br/&gt;discuss issues such as getting into graduate school and the myriad ethical concerns that social&lt;br/&gt;scientists confront during research.&lt;br/&gt;&lt;br/&gt;REU students in this program gain concrete experience in three ways. First, through formal coursework, they&lt;br/&gt;learn about substantive issues concerning racial and ethnic differences in crime and punishment. Second,&lt;br/&gt;they are introduced to statistical analysis of social science data in a Stata programming lab and a GIS&lt;br/&gt;spatial data analysis workshop. Third, they experience intense mentoring from Population Research&lt;br/&gt;Center (PRC) graduate students and faculty affiliates as they work to produce a stand-alone ?deliverable?&lt;br/&gt;scholarly paper by the end of the summer program.&lt;br/&gt;&lt;br/&gt;Finally, the REU students demonstrate their expertise in two ways. They present their research to&lt;br/&gt;a gathering of PRC faculty affiliates, graduate students, and other invited scholars, and with travel support&lt;br/&gt;from the Population Research Center they present their REU research papers at the annual meeting of&lt;br/&gt;the American Society of Criminology (ASC).&lt;br/&gt;&lt;br/&gt;The broader impact of this program is to influence the future of higher education in the social sciences,&lt;br/&gt;with special attention to the racial/ethnic and gender diversity of the future academic workforce. The&lt;br/&gt;successes of our REU program are already evident, including students who have recently earned their&lt;br/&gt;Ph.D.s and have been placed at leading research universities, a host of students who are in leading&lt;br/&gt;graduate programs around the country, and others who have recently completed this REU program and&lt;br/&gt;will be moving on to graduate school.</AbstractNarration>
+    <MinAmdLetterDate>02/12/2013</MinAmdLetterDate>
+    <MaxAmdLetterDate>02/12/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1262384</AwardID>
+    <Investigator>
+      <FirstName>David</FirstName>
+      <LastName>Kirk</LastName>
+      <EmailAddress>dkirk@prc.utexas.edu</EmailAddress>
+      <StartDate>02/12/2013</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Keith</FirstName>
+      <LastName>Robinson</LastName>
+      <EmailAddress>keith@prc.utexas.edu</EmailAddress>
+      <StartDate>02/12/2013</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Texas at Austin</Name>
+      <CityName>Austin</CityName>
+      <ZipCode>787121532</ZipCode>
+      <PhoneNumber>5124716424</PhoneNumber>
+      <StreetAddress>101 E. 27th Street, Suite 5.300</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Texas</StateName>
+      <StateCode>TX</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1139</Code>
+      <Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Probing the Origins of Solar Systems with Millimeter-wave Interferometry</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>545178</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>03020400</Code>
+      <Directorate>
+        <LongName>Directorate for Mathematical &amp; Physical Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Astronomical Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Maria Womack</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This award will support an observational project to obtain spatially-resolved images of nearby, gas-rich protoplanetary disks. These disks are found around stars that have an age of 1-3 million years, and are of great interest because they represent the earliest stages of the formation of planets. The project has three goals: to detect evidence of the presence of Jupiter-mass planets, which should produce gaps and asymmetries in disks; to investigate dust coagulation and fragmentation processes during the first stages of planet formation; and to measure the density and motions of the circumstellar gas in the inner disk mid-plane and explore the implications for planetary formation models. &lt;br/&gt;&lt;br/&gt;Direct detection of planets in circumstellar disks would provide key information for the mechanisms and time scale for planet formation. This is a very active area of research, and it is anticipated that understanding the process of planet formation will reveal the conditions that led to the formation of the Earth and the solar system.</AbstractNarration>
+    <MinAmdLetterDate>08/11/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/11/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1109334</AwardID>
+    <Investigator>
+      <FirstName>John</FirstName>
+      <LastName>Carpenter</LastName>
+      <EmailAddress>jmc@astro.caltech.edu</EmailAddress>
+      <StartDate>08/11/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Andrea</FirstName>
+      <LastName>Isella</LastName>
+      <EmailAddress>isella@astro.caltech.edu</EmailAddress>
+      <StartDate>08/11/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>California Institute of Technology</Name>
+      <CityName>PASADENA</CityName>
+      <ZipCode>911250600</ZipCode>
+      <PhoneNumber>6263956219</PhoneNumber>
+      <StreetAddress>1200 E California Blvd</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>California</StateName>
+      <StateCode>CA</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1215</Code>
+      <Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

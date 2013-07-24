@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Materials for Renewable Energy Systems</AwardTitle>
+    <AwardEffectiveDate>08/15/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2015</AwardExpirationDate>
+    <AwardAmount>1317723</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Industrial Innovation and Partnerships</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ben Schrag</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project will demonstrate a prototype wave energy harvester using advanced materials developed in the Phase I effort. We have developed a patented concept for wave energy harvesting using low-cost magnetostrictive alloys. This technology shows promise as a means for delivering utility-scale electric power to the grid at a price that is competitive with conventional fossil or renewable technologies. The technology will also be applicable to other proprietary energy harvesting systems that we are developing. In the Phase II project, we will design, build, optimize and demonstrate a sub-scale system in one of the largest open-air salt water wave tanks in the world. After prototype validation in Phase II, we will pursue further scale up and commercialization of the device with additional private/government funding.&lt;br/&gt;&lt;br/&gt;The broader impact and commercial potential of this project address the global need for the rapid development and deployment of low-carbon, renewable electricity sources, which unquestionably ranks as one of this century's global grand challenges. Such technologies will fuel our economic growth, contribute to global environmental sustainability, and reduce our dependence on polluting and exhaustible fossil fuels such as coal and natural gas. The world's oceans, with global capacity estimated to be around 2 TW, constitute a vast but untapped energy source that is particularly well-suited to address underserved and/or growing coastal populations. The World Energy Council estimates that wave energy can meet up to 6.5% of U.S. energy needs. Efforts to tap utility-scale energy from the ocean continue to be hampered by high capital costs, high maintenance costs, and low energy efficiencies. The technology developed through this project will accelerate the commercialization of a wave energy harvester with substantially lower capital and operating costs than existing alternatives, enabling a levelized cost of electricity that is competitive with conventional electric power technologies.</AbstractNarration>
+    <MinAmdLetterDate>08/12/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>04/11/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1127503</AwardID>
+    <Investigator>
+      <FirstName>Balakrishnan</FirstName>
+      <LastName>Nair</LastName>
+      <EmailAddress>nair@oscillapower.com</EmailAddress>
+      <StartDate>08/12/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Oscilla Power, Inc.</Name>
+      <CityName>Salt Lake City</CityName>
+      <ZipCode>841083506</ZipCode>
+      <PhoneNumber>2069995373</PhoneNumber>
+      <StreetAddress>419 Wakara Way, Suite 207C</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Utah</StateName>
+      <StateCode>UT</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1591</Code>
+      <Text>STTR PHASE II</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

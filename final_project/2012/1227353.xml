@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>E-mail Deception and Visual E-Mail Authentication Services: an Investigation</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>
+    <AwardAmount>326000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>04050000</Code>
+      <Directorate>
+        <LongName>Directorate for Social, Behavioral &amp; Economic Sciences</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Social and Economic Sciences</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Robert E. O'Connor</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Phishing is a scam by which an e-mail user is duped into revealing personal or confidential information that the scammer can use illicitly. This research explores the design features presented in phishing attacks, investigates how individual knowledge and psychological involvement influences people's abilities in phishing detection across levels of deceptiveness, and evaluates the effects of phishing related education and phishing detection technologies in mitigating individuals' phishing susceptibility. The experiments involve students, real world consumers, and employees in an organization to compare the effectiveness of email authentication toolbars and client software (either by themselves or in conjunction with phishing related educational interventions) on mitigating individual susceptibility to phishing attacks. The purpose of the project is to explore the features of phishing e-mails and evaluate the mechanism of its effects by using a variety of research methodologies such as content analysis, telephone surveys, and quasi-experiments. &lt;br/&gt;&lt;br/&gt;Phishing is a phenomenon of internet fraud that not only directly causes millions of dollars in loss, but also erodes consumers' trust in online communication and transactions. The erosion drives consumers away from online businesses. Fighting the threat of phishing is an urgent task and calls for research from multiple perspectives. The research deepens our understanding of phishing as a social phenomenon that takes advantages of human vulnerabilities. The research team disseminates the findings to the general public, industry organizations, the research community, and law enforcement organizations. The channels include workshops on internet crimes and information security and also the local InfaGuard program in collaboration with a regional FBI office.</AbstractNarration>
+    <MinAmdLetterDate>08/27/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/24/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1227353</AwardID>
+    <Investigator>
+      <FirstName>H. Raghav</FirstName>
+      <LastName>Rao</LastName>
+      <EmailAddress>mgmtrao@acsu.buffalo.edu</EmailAddress>
+      <StartDate>08/27/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Arun</FirstName>
+      <LastName>Vishwanath</LastName>
+      <EmailAddress>avishy@buffalo.edu</EmailAddress>
+      <StartDate>08/27/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>SUNY at Buffalo</Name>
+      <CityName>Buffalo</CityName>
+      <ZipCode>142600000</ZipCode>
+      <PhoneNumber>7166452634</PhoneNumber>
+      <StreetAddress>402 Crofts Hall</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1321</Code>
+      <Text>DECISION RISK &amp; MANAGEMENT SCI</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>8060</Code>
+      <Text>Secure &amp;Trustworthy Cyberspace</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

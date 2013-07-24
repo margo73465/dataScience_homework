@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>GSE/DIF: WEPAN Faculty Professional Development Initiative</AwardTitle>
+    <AwardEffectiveDate>09/15/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2015</AwardExpirationDate>
+    <AwardAmount>375000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11060000</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Human Resource Development</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Jolene K. Jesse</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Intellectual Merit: WFPDI is a three-year Dissemination of GSE Outcomes project proposed by WEPAN, Women in Engineering ProActive Network. The goal is to engage engineering faculty with strategies and materials that will increase their awareness, interest, and willingness to create engineering education experiences that are engaging and motivating to a diverse community of women students and their racial and ethnic minority male counterparts. WEPAN has collected, organized and made available more than 1,000 research and practice-based resources on women in science and engineering in its searchable web-based Knowledge Center. The proposed project will use these resources and other materials to develop how-to agenda papers and companion PowerPoint presentations to be offered via webinar and face-to-face workshops. The practitioner audience selected for WFPDI is engineering faculty. Evaluation will focus on gains in knowledge, changes in attitude/affect, and changes in behavior.&lt;br/&gt;&lt;br/&gt;Broader Impacts: The proposed project will promote teaching and learning by disseminating to engineering faculty actionable, research-based strategies and materials on issues of gender in science and engineering to support persistence of a diverse community of women students and their racial and ethnic minority male counterparts. WFPDI faculty professional development opportunities will be disseminated broadly by leveraging existing networks of engineering faculty. The benefit to society will be an engineering faculty that is better prepared to create engaging, motivating learning environments that support persistence of a diverse community of women students and their racial and ethnic minority male counterparts.</AbstractNarration>
+    <MinAmdLetterDate>09/13/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>09/13/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1203164</AwardID>
+    <Investigator>
+      <FirstName>Susan</FirstName>
+      <LastName>Metz</LastName>
+      <EmailAddress>smetz@stevens.edu</EmailAddress>
+      <StartDate>09/13/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>C. Diane</FirstName>
+      <LastName>Matt</LastName>
+      <EmailAddress>dmatt@wepan.org</EmailAddress>
+      <StartDate>09/13/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Wepan Inc</Name>
+      <CityName>Denver</CityName>
+      <ZipCode>802103302</ZipCode>
+      <PhoneNumber>3038714643</PhoneNumber>
+      <StreetAddress>1901 East Asbury Ave., Suite 220</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1544</Code>
+      <Text>RES ON GENDER IN SCI &amp; ENGINE</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>AF: Small: Expansion, Unique Games, and Efficient Algorithms</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>458000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>05010000</Code>
+      <Directorate>
+        <LongName>Directorate for Computer &amp; Information Science &amp; Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Computer and Communication Foundations</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Dmitry Maslov</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Graph expansion refers to the problem of partitioning a graph into two (or more) large pieces while minimizing the size of the "interface" between them. Graph partitions or separators are central objects of study in the theory of Markov chains, geometric embeddings, etc., and are a natural algorithmic primitive in numerous settings. Exact computation is NP-hard, so we are interested in approximate solutions. Despite much work, the status of most expansion-type problems is still open, in contrast to better-understood problems such as MAX-3SAT. In recent years it has become clearer that expansion-like problems hold the key to many of the remaining mysteries of approximation, such as the unique games conjecture or UGC (formulated by Khot when he was the PI's graduate student) and the Small-set expansion conjecture (formulated recently by Raghavendra and Steuerer, and part of Steurer's 2010 dissertation supervised by the PI). &lt;br/&gt;&lt;br/&gt;A principal goal of this award is to apply new spectral (as in eigenvalues/eigenvectors) ideas to study graph expansion. These ideas were introduced in the PI's recent coauthored work with Barak and Steurer on subexponential algorithms for Unique Games problem.&lt;br/&gt;&lt;br/&gt;This award may result in transformative outcomes such as resolution of the unique games conjecture, or new algorithms for graph partitioning based upon the full spectrum (as opposed to algorithms using just the second eigenvector whose limitations are well-known).</AbstractNarration>
+    <MinAmdLetterDate>07/07/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/01/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1117309</AwardID>
+    <Investigator>
+      <FirstName>Sanjeev</FirstName>
+      <LastName>Arora</LastName>
+      <EmailAddress>arora@cs.princeton.edu</EmailAddress>
+      <StartDate>07/07/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Princeton University</Name>
+      <CityName>Princeton</CityName>
+      <ZipCode>085400036</ZipCode>
+      <PhoneNumber>6092583090</PhoneNumber>
+      <StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New Jersey</StateName>
+      <StateCode>NJ</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7796</Code>
+      <Text>ALGORITHMIC FOUNDATIONS</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

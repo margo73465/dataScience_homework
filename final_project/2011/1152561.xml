@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>SBIR Phase II: Regenerating Ocular Surface Wounds with Novel Biomaterial</AwardTitle>
+    <AwardEffectiveDate>04/15/2012</AwardEffectiveDate>
+    <AwardExpirationDate>03/31/2014</AwardExpirationDate>
+    <AwardAmount>489677</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07070000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Industrial Innovation and Partnerships</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Ruth M. Shuman</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This Small Business Innovation Research (SBIR) Phase II project will result in a bandage that accelerates wound healing to the surface of the eye. Eye wounds are extremely painful, can cause vision loss, and may fail to heal on their own. Trauma may occur due to household cleaning agents, traumatic impact from a falling object, or removal of a contact lens. Ocular surgeries, such as cataract and refractive surgeries, are also sources for corneal injury. Delays in healing may lead to scarring and permanent visual loss. This project will lead to the first biodegradable "green" corneal bandage that accelerates corneal healing. The bandage resembles a contact lens. When this bandage is placed on a wounded eye it reduces inflammation and stimulates the healing process. It is made of a novel biomaterial, which can be programmed to "dissolve" within hours to days providing patients with a tailored product. Completed work from Phase I demonstrated the corneal bandage significantly accelerated corneal healing rate. During Phase II further development will ready the product for human clinical trials. Results from Phase II will produce the final product design, quality system implementation, and initial development of a GMP manufacturing process.&lt;br/&gt;&lt;br/&gt;The broader impact/commercial potential of this project will help the 2 million Americans that sustain traumatic injuries to the cornea each year, and the 4 million Americans that undergo surgery annually leaving the cornea wounded. Such corneal wounds cause intense pain and may lead to blindness depending on the severity. This new eye bandage accelerates corneal healing and adheres to the surface of the eye to aid in alleviating pain. The bandage is inexpensive and will result in a less expensive procedure for treating cornea trauma resulting in millions in savings to the American health care system, while allowing for the expansion of the point of care environments (i.e. clinic, home use, hostile environments). Production is fully scalable to large quantities, and can be easily packaged and distributed in a similar fashion as a contact lens. Furthermore, the eye bandage is an innovative technology, patented, and new to the medical device industry.</AbstractNarration>
+    <MinAmdLetterDate>04/06/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>06/19/2013</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1152561</AwardID>
+    <Investigator>
+      <FirstName>Denise</FirstName>
+      <LastName>Barbut</LastName>
+      <EmailAddress>dbarbut@gmail.com</EmailAddress>
+      <StartDate>04/06/2012</StartDate>
+      <EndDate>09/15/2012</EndDate>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Brian</FirstName>
+      <LastName>Lawrence</LastName>
+      <EmailAddress>blawrence@seryxbiomedical.com</EmailAddress>
+      <StartDate>09/15/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Seryx Biomedical, Inc.</Name>
+      <CityName>Maple Grove</CityName>
+      <ZipCode>553695458</ZipCode>
+      <PhoneNumber>6172720691</PhoneNumber>
+      <StreetAddress>10900 73rd Ave.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Minnesota</StateName>
+      <StateCode>MN</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>5373</Code>
+      <Text>SMALL BUSINESS PHASE II</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

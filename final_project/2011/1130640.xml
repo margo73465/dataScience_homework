@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Robust Design to Account for Geometric Imperfections in Small-Scale Structures</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>400000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030003</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Paul Collopy</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The objective of this research is to develop a design methodology with robust shape and topology optimization (RSTO) that accounts for various forms of geometric uncertainties in association with imperfections in manufacturing small-scale structures. The research will provide a level-set based dynamic topological design model that conveniently captures various forms of local and global geometric uncertainties. A computational framework for probabilistic topology design will be developed to integrate high performance uncertainty propagation techniques with existing deterministic topology optimization methods. The design testbed addresses the critical demand in sustainable energy source through the design of optical metamaterials. The seamless integration of the nano-fabrication and the RSTO methodology that requires no post processing of geometry boundary offers 'hardware-in-the-loop' validation using fully functional prototypes. &lt;br/&gt;&lt;br/&gt;If successful, the proposed research will transform existing techniques in deterministic topology optimization to new methods for simultaneous shape and topology optimization under geometric uncertainties. Although the testbed is focused on a nano-engineered system, the methodology is general and widely applicable to handling geometric uncertainties at micro, meso, and macro scales where geometric variations have a large impact on product performance. The fruition of this research will offer a unique research and educational environment for multidisciplinary researchers across the fields of design and nano-manufacturing while training students in an interdisciplinary learning environment. The metamaterial design applications developed from this research will serve as excellent examples for promoting engineering awareness in K-12 by illustrating what is new in engineering and its impact on creating a sustainable environment.</AbstractNarration>
+    <MinAmdLetterDate>07/29/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/29/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1130640</AwardID>
+    <Investigator>
+      <FirstName>Cheng</FirstName>
+      <LastName>Sun</LastName>
+      <EmailAddress>c-sun@northwestern.edu</EmailAddress>
+      <StartDate>07/29/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Wei</FirstName>
+      <LastName>Chen</LastName>
+      <EmailAddress>weichen@northwestern.edu</EmailAddress>
+      <StartDate>07/29/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Northwestern University</Name>
+      <CityName>Evanston</CityName>
+      <ZipCode>602013149</ZipCode>
+      <PhoneNumber>8474913003</PhoneNumber>
+      <StreetAddress>1801 Maple Ave.</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Illinois</StateName>
+      <StateCode>IL</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1464</Code>
+      <Text>ENGINEERING DESIGN AND INNOVAT</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

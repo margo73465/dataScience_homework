@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>MRI: Acquisition of a 500 MHz NMR Spectrometer for Teaching and Research</AwardTitle>
+    <AwardEffectiveDate>09/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2014</AwardExpirationDate>
+    <AwardAmount>392500</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Chemical, Bioengineering, Environmental, and Transport Systems</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Leon Esterowitz</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>1126005&lt;br/&gt;Gross&lt;br/&gt;&lt;br/&gt;Funds are requested to purchase a 500 MHz NMR to replace the very old and Bruker DPX 300 MHz NMR at Polytechnic Institute of New York University?s (NYU-POLY). The instrument will have two radio-frequency channels, pulsed-field gradients, variable-temperature capability, two solution probes with automatic tune and match, and an autosampler. The current NMR needs replacement for the following reasons: i) it is very old, ii) its capabilities are severely limited, iii) the need for greater dispersion and sensitivity provided by higher field strength. The current NMR has no pulse field gradients and no ability to shape radio-frequency pulse and, as such, it cannot perform modern 2D experiments or modern solvent suppression echniques.Contemporary NMR methods are essential to research at NYU-POLY. Our current instrument is so old that spare parts are no longer available and the instrument will soon cease to function. Furthermore, its sensitivity is poor and the requested NMR will provide five times greater sensitivity. The proposed 500 MHz NMR with high dispersion and ability to perform modern 2D experiments will be an essential research tool to the proposal PI, Co-PI?s, their students (in total 9 High School, 18 undergrad, 21 MS, 27 Ph.D. and 5.5 postdoctoral fellows), and other faculty in the Polymer Research Institute (PRI), Departments of Chemical and Biological Sciences, Chemical and Biological Engineering, and Bioengineering.</AbstractNarration>
+    <MinAmdLetterDate>08/31/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/31/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1126005</AwardID>
+    <Investigator>
+      <FirstName>Mary</FirstName>
+      <LastName>Cowman</LastName>
+      <EmailAddress>mcowman@poly.edu</EmailAddress>
+      <StartDate>08/31/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Richard</FirstName>
+      <LastName>Gross</LastName>
+      <EmailAddress>rgross@duke.poly.edu</EmailAddress>
+      <StartDate>08/31/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Rastislav</FirstName>
+      <LastName>Levicky</LastName>
+      <EmailAddress>rlevicky@poly.edu</EmailAddress>
+      <StartDate>08/31/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jin</FirstName>
+      <LastName>Montclare</LastName>
+      <EmailAddress>jmontcla@poly.edu</EmailAddress>
+      <StartDate>08/31/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Jin Ryoun</FirstName>
+      <LastName>Kim</LastName>
+      <EmailAddress>jkim@poly.edu</EmailAddress>
+      <StartDate>08/31/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Polytechnic University of New York</Name>
+      <CityName>Brooklyn</CityName>
+      <ZipCode>112013826</ZipCode>
+      <PhoneNumber>7182603360</PhoneNumber>
+      <StreetAddress>15 Metrotech Center</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>New York</StateName>
+      <StateCode>NY</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1189</Code>
+      <Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag> 
+  <Award> 
+    <AwardTitle>ABR: Models of natural selection, development, and life history</AwardTitle>  
+    <AwardEffectiveDate>09/15/2013</AwardEffectiveDate>  
+    <AwardExpirationDate>08/31/2017</AwardExpirationDate>  
+    <AwardAmount>274992</AwardAmount>  
+    <AwardInstrument> 
+      <Value>Standard Grant</Value> 
+    </AwardInstrument>  
+    <Organization> 
+      <Code>08010207</Code>  
+      <Directorate> 
+        <LongName>Directorate for Biological Sciences</LongName> 
+      </Directorate>  
+      <Division> 
+        <LongName>Division of Environmental Biology</LongName> 
+      </Division> 
+    </Organization>  
+    <ProgramOfficer> 
+      <SignBlockName>Samuel M. Scheiner</SignBlockName> 
+    </ProgramOfficer>  
+    <AbstractNarration>This project will develop evolutionary theories about the characteristics of bacteria and other microbes. Previous work showed the importance of variability in food and other resources over space and time. For example, continuous and predictable resource environments favor microbes that grow slowly and use resources efficiently. By contrast, temporary resource environments favor microbes that compete strongly among themselves, grow rapidly, and use resources inefficiently. Those different patterns of competition and resource use have cascading effects on the surrounding biological communities. In this research, the investigator will test hypotheses about the primary factors that influence key microbial traits. The work requires synthesis of diverse studies from other fields, and the novel theoretical work is expected to create new approaches to fundamental problems in ecology and evolution. &lt;br/&gt;&lt;br/&gt;Understanding bacterial characters is important, because our bodies carry trillions of bacteria. Recent research shows that those bacteria influence nearly every aspect of our health. Beyond our bodies, studies of soil, plant growth, and cycling of nutrients through ecosystems also show strong influence by numerous and diverse bacteria and other microbes. To understand those microbial inputs, one must study the ecological and evolutionary processes that have influenced the characteristics of the microbes.</AbstractNarration>  
+    <MinAmdLetterDate>12/10/2012</MinAmdLetterDate>  
+    <MaxAmdLetterDate>12/10/2012</MaxAmdLetterDate>  
+    <ARRAAmount/>  
+    <AwardID>1251035</AwardID>  
+    <Investigator> 
+      <FirstName>Steven</FirstName>  
+      <LastName>Frank</LastName>  
+      <EmailAddress>safrank@uci.edu</EmailAddress>  
+      <StartDate>12/10/2012</StartDate>  
+      <EndDate/>  
+      <RoleCode>1</RoleCode> 
+    </Investigator>  
+    <Institution> 
+      <Name>University of California-Irvine</Name>  
+      <CityName>IRVINE</CityName>  
+      <ZipCode>926977600</ZipCode>  
+      <PhoneNumber>9498244768</PhoneNumber>  
+      <StreetAddress>5171 California Avenue, Ste 150</StreetAddress>  
+      <CountryName>United States</CountryName>  
+      <StateName>California</StateName>  
+      <StateCode>CA</StateCode> 
+    </Institution>  
+    <ProgramElement>
+      <Code>7377</Code>
+      <Text>EVOLUTIONARY ECOLOGY</Text>
+    </ProgramElement>
+  </Award> 
+</rootTag>

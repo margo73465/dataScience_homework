@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Outgoing Interagency Agreement between NSF and Air Force Research Laboratory/RXFM</AwardTitle>
+    <AwardEffectiveDate>09/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>08/31/2013</AwardExpirationDate>
+    <AwardAmount>1000000</AwardAmount>
+    <AwardInstrument>
+      <Value>Interagency Agreement</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07030004</Code>
+      <Directorate>
+        <LongName>Directorate for Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Civil, Mechanical, and Manufacturing Innovation</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Mary M. Toney</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration/>
+    <MinAmdLetterDate>08/29/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/29/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1258517</AwardID>
+    <Investigator>
+      <FirstName>Katherine</FirstName>
+      <LastName>Stevens</LastName>
+      <EmailAddress>kati.stevens@gmail.com</EmailAddress>
+      <StartDate>08/29/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Air Force Research Laboratory/MLF</Name>
+      <CityName>Wright Patterson AFB</CityName>
+      <ZipCode>454337816</ZipCode>
+      <PhoneNumber/>
+      <StreetAddress>2230 Tenth Street, Bldg. 655</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Ohio</StateName>
+      <StateCode>OH</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1467</Code>
+      <Text>MATERIALS PROCESSING AND MANFG</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>7412</Code>
+      <Text>ADVANCED TECH EDUCATION PROG</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

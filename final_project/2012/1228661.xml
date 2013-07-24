@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Validating a Rapid Measure of Student Motivation: Using the Expectancy-Value Theory of Motivation to Understand Student Achievement and Interest in STEM Classrooms</AwardTitle>
+    <AwardEffectiveDate>11/01/2012</AwardEffectiveDate>
+    <AwardExpirationDate>10/31/2015</AwardExpirationDate>
+    <AwardAmount>798805</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11090000</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Research on Learning in Formal and Informal Settings (DRL)</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Edith Gummer</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>This full scale project focuses on the development of a rapid, validated scale. The scale will be used by teachers, administrators, and evaluators to measure student motivation in accordance with a theoretical view grounded in Expectancy-Value Theory (EVT). The project features a mixed methods approach to establishing the valid and reliable measure along with an established validity framework seeking six types of validity and reliability. &lt;br/&gt;&lt;br/&gt;By developing and validating the measure, the project team members will add to education and evaluation theory in terms of informing understanding of the cost factor in the Expectancy-Value-Cost model of motivation. In terms of practical applicability, the resulting scale will be available for widespread use to predict important learning indicators and inform potential further interventions with students to improve motivation and other learning outcomes.</AbstractNarration>
+    <MinAmdLetterDate>08/30/2012</MinAmdLetterDate>
+    <MaxAmdLetterDate>08/30/2012</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1228661</AwardID>
+    <Investigator>
+      <FirstName>Stephen</FirstName>
+      <LastName>Getty</LastName>
+      <EmailAddress>sgetty@bscs.org</EmailAddress>
+      <StartDate>08/30/2012</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Joseph</FirstName>
+      <LastName>Taylor</LastName>
+      <EmailAddress>jtaylor@bscs.org</EmailAddress>
+      <StartDate>08/30/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Christopher</FirstName>
+      <LastName>Hulleman</LastName>
+      <EmailAddress>hullemcs@jmu.edu</EmailAddress>
+      <StartDate>08/30/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Kenneth</FirstName>
+      <LastName>Barron</LastName>
+      <EmailAddress>barronke@jmu.edu</EmailAddress>
+      <StartDate>08/30/2012</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Biological Sciences Curriculum Study</Name>
+      <CityName>Colorado Springs</CityName>
+      <ZipCode>809183842</ZipCode>
+      <PhoneNumber>7195315550</PhoneNumber>
+      <StreetAddress>5415 Mark Dabling Boulevard</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7261</Code>
+      <Text>PROGRAM EVALUATION</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>

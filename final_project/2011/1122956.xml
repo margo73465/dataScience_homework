@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>Integrating Computational and Creative Thinking (IC2Think)</AwardTitle>
+    <AwardEffectiveDate>08/01/2011</AwardEffectiveDate>
+    <AwardExpirationDate>07/31/2014</AwardExpirationDate>
+    <AwardAmount>250000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>11040200</Code>
+      <Directorate>
+        <LongName>Directorate for Education &amp; Human Resources</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Division of Undergraduate Education</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Guy-Alain Amoussou</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>Computational thinking and creative thinking are two core competencies which are essential for STEM students. Computational thinking provides students with competitive skills to do well in today's increasingly data-intensive industries. Creative thinking is flexible, imaginative, innovative thinking which draws on all of one's skills and experience. Combining these skills in STEM curricula strengthens their impact by expanding students' ability to solve complex, ill-defined and interdisciplinary problems.&lt;br/&gt;&lt;br/&gt;This project will extend an existing suite of online learning modules that introduce computational thinking in introductory computer science courses. The enhancements will introduce creative thinking through interactive exercises. Each module contains a brief tutorial to introduce a topic, interactive exercises to reinforce the concepts and a series of questions to assess student learning.&lt;br/&gt;&lt;br/&gt;Assessment is partially automated by using embedded data collection tools, online quizzes and web-based surveys. The long term goal is to promote computational and creating thinking in a variety of STEM disciplines.</AbstractNarration>
+    <MinAmdLetterDate>07/27/2011</MinAmdLetterDate>
+    <MaxAmdLetterDate>07/27/2011</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1122956</AwardID>
+    <Investigator>
+      <FirstName>Duane</FirstName>
+      <LastName>Shell</LastName>
+      <EmailAddress>dshell2@unl.edu</EmailAddress>
+      <StartDate>07/27/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Leen-Kiat</FirstName>
+      <LastName>Soh</LastName>
+      <EmailAddress>lksoh@cse.unl.edu</EmailAddress>
+      <StartDate>07/27/2011</StartDate>
+      <EndDate/>
+      <RoleCode>1</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Elizabeth</FirstName>
+      <LastName>Ingraham</LastName>
+      <EmailAddress>eingraham2@unl.edu</EmailAddress>
+      <StartDate>07/27/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Stephen</FirstName>
+      <LastName>Ramsay</LastName>
+      <EmailAddress>sramsay@unlserve.unl.edu</EmailAddress>
+      <StartDate>07/27/2011</StartDate>
+      <EndDate/>
+      <RoleCode>2</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of Nebraska-Lincoln</Name>
+      <CityName>LINCOLN</CityName>
+      <ZipCode>685880430</ZipCode>
+      <PhoneNumber>4024723171</PhoneNumber>
+      <StreetAddress>312 N 14TH STREET</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Nebraska</StateName>
+      <StateCode>NE</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7511</Code>
+      <Text>TUES-Type 2 Project</Text>
+    </ProgramElement>
+    <ProgramElement>
+      <Code>1536</Code>
+      <Text>S-STEM:SCHLR SCI TECH ENG&amp;MATH</Text>
+    </ProgramElement>
+  </Award>
+</rootTag>
